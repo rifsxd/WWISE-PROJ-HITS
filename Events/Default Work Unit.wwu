@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0FE8F3E7-B609-434D-AA44-E8AAA6CC2ACE}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{0FE8F3E7-B609-434D-AA44-E8AAA6CC2ACE}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="WOTPC_BGM" ID="{D2401788-96AC-4D0A-9B15-1EFB107BE61E}" PersistMode="Reference"/>
+				<Event Name="Play_RXD_DEV" ID="{BE624CF9-029F-4C50-BB7C-675B0E34AD17}">
+					<ChildrenList>
+						<Action Name="" ID="{7083DDA4-609E-4C2B-9260-A7FB0039C8D6}" ShortID="791972821">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="RXD_DEV" ID="{4670C9D3-4CA9-4444-A06F-F9FD6946A852}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
