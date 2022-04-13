@@ -35,6 +35,9 @@
       "Id": "4018987442",
       "Name": "hits_hits_tank_npc_ap_ap_armor_not_pierce_huge",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_armor_not_pierce_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "3.122146",
+      "DurationMax": "3.607042",
       "IncludedMemoryFiles": [
        {
         "Id": "205905367",
@@ -60,6 +63,9 @@
       "Id": "3909034784",
       "Name": "hits_hits_tank_npc_ap_ap_armor_not_pierce_large",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_armor_not_pierce_large",
+      "DurationType": "OneShot",
+      "DurationMin": "2.138667",
+      "DurationMax": "2.914021",
       "IncludedMemoryFiles": [
        {
         "Id": "362662485",
@@ -85,6 +91,9 @@
       "Id": "858206204",
       "Name": "hits_hits_tank_npc_ap_ap_armor_not_pierce_main",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_armor_not_pierce_main",
+      "DurationType": "OneShot",
+      "DurationMin": "2.430833",
+      "DurationMax": "2.824396",
       "IncludedMemoryFiles": [
        {
         "Id": "31174167",
@@ -116,6 +125,9 @@
       "Id": "2796650158",
       "Name": "hits_hits_tank_npc_ap_ap_armor_not_pierce_medium",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_armor_not_pierce_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "1.805771",
+      "DurationMax": "2.05575",
       "IncludedMemoryFiles": [
        {
         "Id": "504683223",
@@ -153,6 +165,9 @@
       "Id": "4144695864",
       "Name": "hits_hits_tank_npc_ap_ap_armor_not_pierce_small",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_armor_not_pierce_small",
+      "DurationType": "OneShot",
+      "DurationMin": "1.721292",
+      "DurationMax": "1.806667",
       "IncludedMemoryFiles": [
        {
         "Id": "331277023",
@@ -190,6 +205,9 @@
       "Id": "1193600708",
       "Name": "hits_hits_tank_npc_ap_ap_armor_pierce_huge",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_armor_pierce_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -305,6 +323,9 @@
       "Id": "3076186394",
       "Name": "hits_hits_tank_npc_ap_ap_armor_pierce_large",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_armor_pierce_large",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -420,6 +441,9 @@
       "Id": "1594690966",
       "Name": "hits_hits_tank_npc_ap_ap_armor_pierce_main",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_armor_pierce_main",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "22953135",
@@ -541,6 +565,9 @@
       "Id": "2007951716",
       "Name": "hits_hits_tank_npc_ap_ap_armor_pierce_medium",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_armor_pierce_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -668,6 +695,9 @@
       "Id": "2651067654",
       "Name": "hits_hits_tank_npc_ap_ap_armor_pierce_small",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_armor_pierce_small",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -795,6 +825,9 @@
       "Id": "2537786283",
       "Name": "hits_hits_tank_npc_ap_ap_critical_hit_huge",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_critical_hit_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -898,6 +931,9 @@
       "Id": "2822568651",
       "Name": "hits_hits_tank_npc_ap_ap_critical_hit_large",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_critical_hit_large",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -1001,6 +1037,9 @@
       "Id": "591874949",
       "Name": "hits_hits_tank_npc_ap_ap_critical_hit_main",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_critical_hit_main",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -1104,6 +1143,9 @@
       "Id": "1908306639",
       "Name": "hits_hits_tank_npc_ap_ap_critical_hit_medium",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_critical_hit_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -1207,6 +1249,9 @@
       "Id": "2653988407",
       "Name": "hits_hits_tank_npc_ap_ap_critical_hit_small",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_critical_hit_small",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "24210821",
@@ -1316,6 +1361,9 @@
       "Id": "2113556989",
       "Name": "hits_hits_tank_npc_ap_ap_ricochet_huge",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_ricochet_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "2.896729",
+      "DurationMax": "3.607042",
       "IncludedMemoryFiles": [
        {
         "Id": "214697929",
@@ -1341,6 +1389,9 @@
       "Id": "735247405",
       "Name": "hits_hits_tank_npc_ap_ap_ricochet_large",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_ricochet_large",
+      "DurationType": "OneShot",
+      "DurationMin": "2.138667",
+      "DurationMax": "2.904",
       "IncludedMemoryFiles": [
        {
         "Id": "214908400",
@@ -1366,6 +1417,9 @@
       "Id": "3045254695",
       "Name": "hits_hits_tank_npc_ap_ap_ricochet_main",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_ricochet_main",
+      "DurationType": "OneShot",
+      "DurationMin": "1.590688",
+      "DurationMax": "2.683187",
       "IncludedMemoryFiles": [
        {
         "Id": "421228653",
@@ -1391,6 +1445,9 @@
       "Id": "3875393869",
       "Name": "hits_hits_tank_npc_ap_ap_ricochet_medium",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_ricochet_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "2.020562",
+      "DurationMax": "2.505021",
       "IncludedMemoryFiles": [
        {
         "Id": "109885776",
@@ -1416,6 +1473,9 @@
       "Id": "2909316421",
       "Name": "hits_hits_tank_npc_ap_ap_ricochet_small",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_ap_ap_ricochet_small",
+      "DurationType": "OneShot",
+      "DurationMin": "1.778188",
+      "DurationMax": "1.96725",
       "IncludedMemoryFiles": [
        {
         "Id": "232715753",
@@ -1441,6 +1501,9 @@
       "Id": "2131668540",
       "Name": "hits_hits_tank_npc_apcr_apcr_armor_not_pierce_huge",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_apcr_apcr_armor_not_pierce_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "1.916583",
+      "DurationMax": "2.503479",
       "IncludedMemoryFiles": [
        {
         "Id": "294515475",
@@ -1466,6 +1529,9 @@
       "Id": "2542395042",
       "Name": "hits_hits_tank_npc_apcr_apcr_armor_not_pierce_large",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_apcr_apcr_armor_not_pierce_large",
+      "DurationType": "OneShot",
+      "DurationMin": "1.62525",
+      "DurationMax": "2.315833",
       "IncludedMemoryFiles": [
        {
         "Id": "179864100",
@@ -1491,6 +1557,9 @@
       "Id": "3332861710",
       "Name": "hits_hits_tank_npc_apcr_apcr_armor_not_pierce_main",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_apcr_apcr_armor_not_pierce_main",
+      "DurationType": "OneShot",
+      "DurationMin": "1.427167",
+      "DurationMax": "1.563354",
       "IncludedMemoryFiles": [
        {
         "Id": "73723056",
@@ -1522,6 +1591,9 @@
       "Id": "691017468",
       "Name": "hits_hits_tank_npc_apcr_apcr_armor_not_pierce_medium",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_apcr_apcr_armor_not_pierce_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "0.679667",
+      "DurationMax": "1.454583",
       "IncludedMemoryFiles": [
        {
         "Id": "178167380",
@@ -1559,6 +1631,9 @@
       "Id": "2282985582",
       "Name": "hits_hits_tank_npc_apcr_apcr_armor_not_pierce_small",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_apcr_apcr_armor_not_pierce_small",
+      "DurationType": "OneShot",
+      "DurationMin": "0.452417",
+      "DurationMax": "1.26825",
       "IncludedMemoryFiles": [
        {
         "Id": "8014109",
@@ -1596,6 +1671,9 @@
       "Id": "2971288387",
       "Name": "hits_hits_tank_npc_apcr_apcr_ricochet_huge",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_apcr_apcr_ricochet_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "1.916583",
+      "DurationMax": "2.446146",
       "IncludedMemoryFiles": [
        {
         "Id": "544587724",
@@ -1621,6 +1699,9 @@
       "Id": "3561056435",
       "Name": "hits_hits_tank_npc_apcr_apcr_ricochet_large",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_apcr_apcr_ricochet_large",
+      "DurationType": "OneShot",
+      "DurationMin": "1.62525",
+      "DurationMax": "1.799417",
       "IncludedMemoryFiles": [
        {
         "Id": "310728207",
@@ -1646,6 +1727,9 @@
       "Id": "1841045501",
       "Name": "hits_hits_tank_npc_apcr_apcr_ricochet_main",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_apcr_apcr_ricochet_main",
+      "DurationType": "OneShot",
+      "DurationMin": "1.511146",
+      "DurationMax": "1.563354",
       "IncludedMemoryFiles": [
        {
         "Id": "449072691",
@@ -1671,6 +1755,9 @@
       "Id": "323083271",
       "Name": "hits_hits_tank_npc_apcr_apcr_ricochet_medium",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_apcr_apcr_ricochet_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "0.679667",
+      "DurationMax": "1.5055",
       "IncludedMemoryFiles": [
        {
         "Id": "302484391",
@@ -1696,6 +1783,9 @@
       "Id": "921794111",
       "Name": "hits_hits_tank_npc_apcr_apcr_ricochet_small",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_apcr_apcr_ricochet_small",
+      "DurationType": "OneShot",
+      "DurationMin": "0.452417",
+      "DurationMax": "1.260313",
       "IncludedMemoryFiles": [
        {
         "Id": "815079660",
@@ -1721,6 +1811,9 @@
       "Id": "3857643950",
       "Name": "hits_hits_tank_npc_hc_hc_armor_not_pierce_huge",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_hc_hc_armor_not_pierce_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -1842,6 +1935,9 @@
       "Id": "1283972292",
       "Name": "hits_hits_tank_npc_hc_hc_armor_not_pierce_large",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_hc_hc_armor_not_pierce_large",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "37802043",
@@ -1963,6 +2059,9 @@
       "Id": "3132500400",
       "Name": "hits_hits_tank_npc_hc_hc_armor_not_pierce_main",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_hc_hc_armor_not_pierce_main",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -2090,6 +2189,9 @@
       "Id": "87423146",
       "Name": "hits_hits_tank_npc_hc_hc_armor_not_pierce_medium",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_hc_hc_armor_not_pierce_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -2223,6 +2325,9 @@
       "Id": "2345371340",
       "Name": "hits_hits_tank_npc_hc_hc_armor_not_pierce_small",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_hc_hc_armor_not_pierce_small",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -2356,6 +2461,9 @@
       "Id": "906847776",
       "Name": "hits_hits_tank_npc_hc_hc_armor_pierce_huge",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_hc_hc_armor_pierce_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -2477,6 +2585,9 @@
       "Id": "2376223358",
       "Name": "hits_hits_tank_npc_hc_hc_armor_pierce_large",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_hc_hc_armor_pierce_large",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -2598,6 +2709,9 @@
       "Id": "1059260282",
       "Name": "hits_hits_tank_npc_hc_hc_armor_pierce_main",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_hc_hc_armor_pierce_main",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -2725,6 +2839,9 @@
       "Id": "1916402800",
       "Name": "hits_hits_tank_npc_hc_hc_armor_pierce_medium",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_hc_hc_armor_pierce_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -2858,6 +2975,9 @@
       "Id": "4275067610",
       "Name": "hits_hits_tank_npc_hc_hc_armor_pierce_small",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_hc_hc_armor_pierce_small",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "34717030",
@@ -2991,6 +3111,9 @@
       "Id": "3206232399",
       "Name": "hits_hits_tank_npc_hc_hc_critical_hit_huge",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_hc_hc_critical_hit_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -3100,6 +3223,9 @@
       "Id": "1849974679",
       "Name": "hits_hits_tank_npc_hc_hc_critical_hit_large",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_hc_hc_critical_hit_large",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -3209,6 +3335,9 @@
       "Id": "3617414353",
       "Name": "hits_hits_tank_npc_hc_hc_critical_hit_main",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_hc_hc_critical_hit_main",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -3318,6 +3447,9 @@
       "Id": "3889093235",
       "Name": "hits_hits_tank_npc_hc_hc_critical_hit_medium",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_hc_hc_critical_hit_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -3427,6 +3559,9 @@
       "Id": "302624035",
       "Name": "hits_hits_tank_npc_hc_hc_critical_hit_small",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_hc_hc_critical_hit_small",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -3536,6 +3671,9 @@
       "Id": "4219578622",
       "Name": "hits_hits_tank_npc_he_he_armor_not_pierce_huge",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_he_he_armor_not_pierce_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -3651,6 +3789,9 @@
       "Id": "3595100468",
       "Name": "hits_hits_tank_npc_he_he_armor_not_pierce_large",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_he_he_armor_not_pierce_large",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -3772,6 +3913,9 @@
       "Id": "3530788768",
       "Name": "hits_hits_tank_npc_he_he_armor_not_pierce_main",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_he_he_armor_not_pierce_main",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -3887,6 +4031,9 @@
       "Id": "3070981946",
       "Name": "hits_hits_tank_npc_he_he_armor_not_pierce_medium",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_he_he_armor_not_pierce_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -4014,6 +4161,9 @@
       "Id": "4009560764",
       "Name": "hits_hits_tank_npc_he_he_armor_not_pierce_small",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_he_he_armor_not_pierce_small",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "48907817",
@@ -4141,6 +4291,9 @@
       "Id": "3486050672",
       "Name": "hits_hits_tank_npc_he_he_armor_pierce_huge",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_he_he_armor_pierce_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -4256,6 +4409,9 @@
       "Id": "1064418222",
       "Name": "hits_hits_tank_npc_he_he_armor_pierce_large",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_he_he_armor_pierce_large",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -4371,6 +4527,9 @@
       "Id": "2559575594",
       "Name": "hits_hits_tank_npc_he_he_armor_pierce_main",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_he_he_armor_pierce_main",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "49881377",
@@ -4492,6 +4651,9 @@
       "Id": "1659217344",
       "Name": "hits_hits_tank_npc_he_he_armor_pierce_medium",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_he_he_armor_pierce_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "17005158",
@@ -4619,6 +4781,9 @@
       "Id": "734842186",
       "Name": "hits_hits_tank_npc_he_he_armor_pierce_small",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_he_he_armor_pierce_small",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "22304393",
@@ -4746,6 +4911,9 @@
       "Id": "2844130815",
       "Name": "hits_hits_tank_npc_he_he_critical_hit_huge",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_he_he_critical_hit_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -4849,6 +5017,9 @@
       "Id": "2299454119",
       "Name": "hits_hits_tank_npc_he_he_critical_hit_large",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_he_he_critical_hit_large",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -4952,6 +5123,9 @@
       "Id": "3260535649",
       "Name": "hits_hits_tank_npc_he_he_critical_hit_main",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_he_he_critical_hit_main",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -5055,6 +5229,9 @@
       "Id": "4169721763",
       "Name": "hits_hits_tank_npc_he_he_critical_hit_medium",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_he_he_critical_hit_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -5158,6 +5335,9 @@
       "Id": "1833842227",
       "Name": "hits_hits_tank_npc_he_he_critical_hit_small",
       "ObjectPath": "\\Events\\Hits\\PC_NPC\\hits_hits_tank_npc_he_he_critical_hit_small",
+      "DurationType": "OneShot",
+      "DurationMin": "6.951428",
+      "DurationMax": "8.364944",
       "IncludedMemoryFiles": [
        {
         "Id": "53626045",
@@ -5261,6 +5441,9 @@
       "Id": "2049675064",
       "Name": "hits_hits_tank_pc_ap_ap_armor_not_pierce_huge",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_armor_not_pierce_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "3.122146",
+      "DurationMax": "3.607042",
       "IncludedMemoryFiles": [
        {
         "Id": "205905367",
@@ -5286,6 +5469,9 @@
       "Id": "3968254598",
       "Name": "hits_hits_tank_pc_ap_ap_armor_not_pierce_large",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_armor_not_pierce_large",
+      "DurationType": "OneShot",
+      "DurationMin": "2.138667",
+      "DurationMax": "2.914021",
       "IncludedMemoryFiles": [
        {
         "Id": "362662485",
@@ -5311,6 +5497,9 @@
       "Id": "1928525938",
       "Name": "hits_hits_tank_pc_ap_ap_armor_not_pierce_main",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_armor_not_pierce_main",
+      "DurationType": "OneShot",
+      "DurationMin": "2.430833",
+      "DurationMax": "2.824396",
       "IncludedMemoryFiles": [
        {
         "Id": "31174167",
@@ -5342,6 +5531,9 @@
       "Id": "2210707304",
       "Name": "hits_hits_tank_pc_ap_ap_armor_not_pierce_medium",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_armor_not_pierce_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "1.805771",
+      "DurationMax": "2.05575",
       "IncludedMemoryFiles": [
        {
         "Id": "504683223",
@@ -5379,6 +5571,9 @@
       "Id": "2244176930",
       "Name": "hits_hits_tank_pc_ap_ap_armor_not_pierce_small",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_armor_not_pierce_small",
+      "DurationType": "OneShot",
+      "DurationMin": "1.721292",
+      "DurationMax": "1.806667",
       "IncludedMemoryFiles": [
        {
         "Id": "331277023",
@@ -5416,6 +5611,9 @@
       "Id": "3054214078",
       "Name": "hits_hits_tank_pc_ap_ap_armor_pierce_huge",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_armor_pierce_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "3.085979",
+      "DurationMax": "3.442042",
       "IncludedMemoryFiles": [
        {
         "Id": "66671660",
@@ -5441,6 +5639,9 @@
       "Id": "1455443444",
       "Name": "hits_hits_tank_pc_ap_ap_armor_pierce_large",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_armor_pierce_large",
+      "DurationType": "OneShot",
+      "DurationMin": "2.568292",
+      "DurationMax": "3.384708",
       "IncludedMemoryFiles": [
        {
         "Id": "517437846",
@@ -5466,6 +5667,9 @@
       "Id": "2323950944",
       "Name": "hits_hits_tank_pc_ap_ap_armor_pierce_main",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_armor_pierce_main",
+      "DurationType": "OneShot",
+      "DurationMin": "1.607146",
+      "DurationMax": "3.419917",
       "IncludedMemoryFiles": [
        {
         "Id": "22953135",
@@ -5497,6 +5701,9 @@
       "Id": "2962309370",
       "Name": "hits_hits_tank_pc_ap_ap_armor_pierce_medium",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_armor_pierce_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "1.874306",
+      "DurationMax": "3.335972",
       "IncludedMemoryFiles": [
        {
         "Id": "372449668",
@@ -5534,6 +5741,9 @@
       "Id": "1445343100",
       "Name": "hits_hits_tank_pc_ap_ap_armor_pierce_small",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_armor_pierce_small",
+      "DurationType": "OneShot",
+      "DurationMin": "1.590278",
+      "DurationMax": "2.135833",
       "IncludedMemoryFiles": [
        {
         "Id": "639577180",
@@ -5571,6 +5781,9 @@
       "Id": "435513013",
       "Name": "hits_hits_tank_pc_ap_ap_critical_hit_huge",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_critical_hit_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "3.394958",
+      "DurationMax": "3.394958",
       "IncludedMemoryFiles": [
        {
         "Id": "193589905",
@@ -5590,6 +5803,9 @@
       "Id": "3916632309",
       "Name": "hits_hits_tank_pc_ap_ap_critical_hit_large",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_critical_hit_large",
+      "DurationType": "OneShot",
+      "DurationMin": "3.420063",
+      "DurationMax": "3.420063",
       "IncludedMemoryFiles": [
        {
         "Id": "390068569",
@@ -5609,6 +5825,9 @@
       "Id": "515085695",
       "Name": "hits_hits_tank_pc_ap_ap_critical_hit_main",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_critical_hit_main",
+      "DurationType": "OneShot",
+      "DurationMin": "3.42",
+      "DurationMax": "3.42",
       "IncludedMemoryFiles": [
        {
         "Id": "390068569",
@@ -5628,6 +5847,9 @@
       "Id": "841324293",
       "Name": "hits_hits_tank_pc_ap_ap_critical_hit_medium",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_critical_hit_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "3.342861",
+      "DurationMax": "3.342861",
       "IncludedMemoryFiles": [
        {
         "Id": "390068569",
@@ -5647,6 +5869,9 @@
       "Id": "2121252109",
       "Name": "hits_hits_tank_pc_ap_ap_critical_hit_small",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_critical_hit_small",
+      "DurationType": "OneShot",
+      "DurationMin": "2.804111",
+      "DurationMax": "2.809083",
       "IncludedMemoryFiles": [
        {
         "Id": "24210821",
@@ -5672,6 +5897,9 @@
       "Id": "734170831",
       "Name": "hits_hits_tank_pc_ap_ap_ricochet_huge",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_ricochet_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "2.896729",
+      "DurationMax": "3.607042",
       "IncludedMemoryFiles": [
        {
         "Id": "214697929",
@@ -5697,6 +5925,9 @@
       "Id": "4189059095",
       "Name": "hits_hits_tank_pc_ap_ap_ricochet_large",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_ricochet_large",
+      "DurationType": "OneShot",
+      "DurationMin": "2.138667",
+      "DurationMax": "2.904",
       "IncludedMemoryFiles": [
        {
         "Id": "214908400",
@@ -5722,6 +5953,9 @@
       "Id": "1145352785",
       "Name": "hits_hits_tank_pc_ap_ap_ricochet_main",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_ricochet_main",
+      "DurationType": "OneShot",
+      "DurationMin": "1.590688",
+      "DurationMax": "2.683187",
       "IncludedMemoryFiles": [
        {
         "Id": "421228653",
@@ -5747,6 +5981,9 @@
       "Id": "3794791411",
       "Name": "hits_hits_tank_pc_ap_ap_ricochet_medium",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_ricochet_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "2.020562",
+      "DurationMax": "2.505021",
       "IncludedMemoryFiles": [
        {
         "Id": "109885776",
@@ -5772,6 +6009,9 @@
       "Id": "2641708451",
       "Name": "hits_hits_tank_pc_ap_ap_ricochet_small",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_ap_ap_ricochet_small",
+      "DurationType": "OneShot",
+      "DurationMin": "1.778188",
+      "DurationMax": "1.96725",
       "IncludedMemoryFiles": [
        {
         "Id": "232715753",
@@ -5797,6 +6037,9 @@
       "Id": "767584298",
       "Name": "hits_hits_tank_pc_apcr_apcr_armor_not_pierce_huge",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_apcr_apcr_armor_not_pierce_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "1.916583",
+      "DurationMax": "2.503479",
       "IncludedMemoryFiles": [
        {
         "Id": "294515475",
@@ -5822,6 +6065,9 @@
       "Id": "3721904328",
       "Name": "hits_hits_tank_pc_apcr_apcr_armor_not_pierce_large",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_apcr_apcr_armor_not_pierce_large",
+      "DurationType": "OneShot",
+      "DurationMin": "1.62525",
+      "DurationMax": "2.315833",
       "IncludedMemoryFiles": [
        {
         "Id": "179864100",
@@ -5847,6 +6093,9 @@
       "Id": "2170109012",
       "Name": "hits_hits_tank_pc_apcr_apcr_armor_not_pierce_main",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_apcr_apcr_armor_not_pierce_main",
+      "DurationType": "OneShot",
+      "DurationMin": "1.427167",
+      "DurationMax": "1.563354",
       "IncludedMemoryFiles": [
        {
         "Id": "73723056",
@@ -5878,6 +6127,9 @@
       "Id": "3578788966",
       "Name": "hits_hits_tank_pc_apcr_apcr_armor_not_pierce_medium",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_apcr_apcr_armor_not_pierce_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "0.679667",
+      "DurationMax": "1.454583",
       "IncludedMemoryFiles": [
        {
         "Id": "178167380",
@@ -5915,6 +6167,9 @@
       "Id": "1678261984",
       "Name": "hits_hits_tank_pc_apcr_apcr_armor_not_pierce_small",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_apcr_apcr_armor_not_pierce_small",
+      "DurationType": "OneShot",
+      "DurationMin": "0.452417",
+      "DurationMax": "1.26825",
       "IncludedMemoryFiles": [
        {
         "Id": "8014109",
@@ -5952,6 +6207,9 @@
       "Id": "1055854805",
       "Name": "hits_hits_tank_pc_apcr_apcr_ricochet_huge",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_apcr_apcr_ricochet_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "1.916583",
+      "DurationMax": "2.446146",
       "IncludedMemoryFiles": [
        {
         "Id": "544587724",
@@ -5977,6 +6235,9 @@
       "Id": "665293973",
       "Name": "hits_hits_tank_pc_apcr_apcr_ricochet_large",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_apcr_apcr_ricochet_large",
+      "DurationType": "OneShot",
+      "DurationMin": "1.62525",
+      "DurationMax": "1.799417",
       "IncludedMemoryFiles": [
        {
         "Id": "310728207",
@@ -6002,6 +6263,9 @@
       "Id": "1177107103",
       "Name": "hits_hits_tank_pc_apcr_apcr_ricochet_main",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_apcr_apcr_ricochet_main",
+      "DurationType": "OneShot",
+      "DurationMin": "1.511146",
+      "DurationMax": "1.563354",
       "IncludedMemoryFiles": [
        {
         "Id": "449072691",
@@ -6027,6 +6291,9 @@
       "Id": "3201354789",
       "Name": "hits_hits_tank_pc_apcr_apcr_ricochet_medium",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_apcr_apcr_ricochet_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "0.679667",
+      "DurationMax": "1.5055",
       "IncludedMemoryFiles": [
        {
         "Id": "302484391",
@@ -6052,6 +6319,9 @@
       "Id": "3164881325",
       "Name": "hits_hits_tank_pc_apcr_apcr_ricochet_small",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_apcr_apcr_ricochet_small",
+      "DurationType": "OneShot",
+      "DurationMin": "0.452417",
+      "DurationMax": "1.260313",
       "IncludedMemoryFiles": [
        {
         "Id": "815079660",
@@ -6077,6 +6347,9 @@
       "Id": "3569475172",
       "Name": "hits_hits_tank_pc_hc_hc_armor_not_pierce_huge",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_armor_not_pierce_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "5.610612",
+      "DurationMax": "5.610612",
       "IncludedMemoryFiles": [
        {
         "Id": "306690702",
@@ -6114,6 +6387,9 @@
       "Id": "782291770",
       "Name": "hits_hits_tank_pc_hc_hc_armor_not_pierce_large",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_armor_not_pierce_large",
+      "DurationType": "OneShot",
+      "DurationMin": "5.610612",
+      "DurationMax": "5.610612",
       "IncludedMemoryFiles": [
        {
         "Id": "37802043",
@@ -6151,6 +6427,9 @@
       "Id": "4012245302",
       "Name": "hits_hits_tank_pc_hc_hc_armor_not_pierce_main",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_armor_not_pierce_main",
+      "DurationType": "OneShot",
+      "DurationMin": "5.110612",
+      "DurationMax": "5.110612",
       "IncludedMemoryFiles": [
        {
         "Id": "338444229",
@@ -6194,6 +6473,9 @@
       "Id": "1989188612",
       "Name": "hits_hits_tank_pc_hc_hc_armor_not_pierce_medium",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_armor_not_pierce_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "5.110612",
+      "DurationMax": "5.110612",
       "IncludedMemoryFiles": [
        {
         "Id": "98173905",
@@ -6243,6 +6525,9 @@
       "Id": "740156966",
       "Name": "hits_hits_tank_pc_hc_hc_armor_not_pierce_small",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_armor_not_pierce_small",
+      "DurationType": "OneShot",
+      "DurationMin": "5.110612",
+      "DurationMax": "5.110612",
       "IncludedMemoryFiles": [
        {
         "Id": "191563896",
@@ -6292,6 +6577,9 @@
       "Id": "228310506",
       "Name": "hits_hits_tank_pc_hc_hc_armor_pierce_huge",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_armor_pierce_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "5.610612",
+      "DurationMax": "5.610612",
       "IncludedMemoryFiles": [
        {
         "Id": "314148647",
@@ -6329,6 +6617,9 @@
       "Id": "3939698824",
       "Name": "hits_hits_tank_pc_hc_hc_armor_pierce_large",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_armor_pierce_large",
+      "DurationType": "OneShot",
+      "DurationMin": "5.610612",
+      "DurationMax": "5.610612",
       "IncludedMemoryFiles": [
        {
         "Id": "122909996",
@@ -6366,6 +6657,9 @@
       "Id": "1672514836",
       "Name": "hits_hits_tank_pc_hc_hc_armor_pierce_main",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_armor_pierce_main",
+      "DurationType": "OneShot",
+      "DurationMin": "5.110612",
+      "DurationMax": "5.110612",
       "IncludedMemoryFiles": [
        {
         "Id": "338444229",
@@ -6409,6 +6703,9 @@
       "Id": "82018854",
       "Name": "hits_hits_tank_pc_hc_hc_armor_pierce_medium",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_armor_pierce_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "5.110612",
+      "DurationMax": "5.110612",
       "IncludedMemoryFiles": [
        {
         "Id": "69335759",
@@ -6458,6 +6755,9 @@
       "Id": "2361987488",
       "Name": "hits_hits_tank_pc_hc_hc_armor_pierce_small",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_armor_pierce_small",
+      "DurationType": "OneShot",
+      "DurationMin": "5.110612",
+      "DurationMax": "5.110612",
       "IncludedMemoryFiles": [
        {
         "Id": "34717030",
@@ -6507,6 +6807,9 @@
       "Id": "2953865679",
       "Name": "hits_hits_tank_pc_hc_hc_armor_pierce_tow",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_armor_pierce_tow",
+      "DurationType": "OneShot",
+      "DurationMin": "5.610612",
+      "DurationMax": "5.610612",
       "IncludedMemoryFiles": [
        {
         "Id": "314148647",
@@ -6544,6 +6847,9 @@
       "Id": "4044294489",
       "Name": "hits_hits_tank_pc_hc_hc_critical_hit_huge",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_critical_hit_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "5.610612",
+      "DurationMax": "5.610612",
       "IncludedMemoryFiles": [
        {
         "Id": "102726725",
@@ -6575,6 +6881,9 @@
       "Id": "4234487281",
       "Name": "hits_hits_tank_pc_hc_hc_critical_hit_large",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_critical_hit_large",
+      "DurationType": "OneShot",
+      "DurationMin": "5.610612",
+      "DurationMax": "5.610612",
       "IncludedMemoryFiles": [
        {
         "Id": "390068569",
@@ -6606,6 +6915,9 @@
       "Id": "2538202251",
       "Name": "hits_hits_tank_pc_hc_hc_critical_hit_main",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_critical_hit_main",
+      "DurationType": "OneShot",
+      "DurationMin": "5.110612",
+      "DurationMax": "5.110612",
       "IncludedMemoryFiles": [
        {
         "Id": "338444229",
@@ -6637,6 +6949,9 @@
       "Id": "2629934873",
       "Name": "hits_hits_tank_pc_hc_hc_critical_hit_medium",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_critical_hit_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "5.110612",
+      "DurationMax": "5.110612",
       "IncludedMemoryFiles": [
        {
         "Id": "118510356",
@@ -6668,6 +6983,9 @@
       "Id": "3873330745",
       "Name": "hits_hits_tank_pc_hc_hc_critical_hit_small",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_critical_hit_small",
+      "DurationType": "OneShot",
+      "DurationMin": "5.110612",
+      "DurationMax": "5.110612",
       "IncludedMemoryFiles": [
        {
         "Id": "191563896",
@@ -6699,6 +7017,9 @@
       "Id": "4174993738",
       "Name": "hits_hits_tank_pc_hc_hc_critical_hit_tow",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_hc_hc_critical_hit_tow",
+      "DurationType": "OneShot",
+      "DurationMin": "5.610612",
+      "DurationMax": "5.610612",
       "IncludedMemoryFiles": [
        {
         "Id": "102726725",
@@ -6730,6 +7051,9 @@
       "Id": "4258387924",
       "Name": "hits_hits_tank_pc_he_he_armor_not_pierce_huge",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_he_he_armor_not_pierce_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "5.159569",
+      "DurationMax": "5.159569",
       "IncludedMemoryFiles": [
        {
         "Id": "283895031",
@@ -6761,6 +7085,9 @@
       "Id": "3725668234",
       "Name": "hits_hits_tank_pc_he_he_armor_not_pierce_large",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_he_he_armor_not_pierce_large",
+      "DurationType": "OneShot",
+      "DurationMin": "2.140975",
+      "DurationMax": "3.872729",
       "IncludedMemoryFiles": [
        {
         "Id": "319276345",
@@ -6798,6 +7125,9 @@
       "Id": "1474735494",
       "Name": "hits_hits_tank_pc_he_he_armor_not_pierce_main",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_he_he_armor_not_pierce_main",
+      "DurationType": "OneShot",
+      "DurationMin": "2.018889",
+      "DurationMax": "2.018889",
       "IncludedMemoryFiles": [
        {
         "Id": "224515851",
@@ -6829,6 +7159,9 @@
       "Id": "2566192948",
       "Name": "hits_hits_tank_pc_he_he_armor_not_pierce_medium",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_he_he_armor_not_pierce_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "1.807188",
+      "DurationMax": "1.807188",
       "IncludedMemoryFiles": [
        {
         "Id": "462427582",
@@ -6872,6 +7205,9 @@
       "Id": "1569500598",
       "Name": "hits_hits_tank_pc_he_he_armor_not_pierce_small",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_he_he_armor_not_pierce_small",
+      "DurationType": "OneShot",
+      "DurationMin": "1.452018",
+      "DurationMax": "1.452018",
       "IncludedMemoryFiles": [
        {
         "Id": "48907817",
@@ -6915,6 +7251,9 @@
       "Id": "1180102938",
       "Name": "hits_hits_tank_pc_he_he_armor_pierce_huge",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_he_he_armor_pierce_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "5.159569",
+      "DurationMax": "5.159569",
       "IncludedMemoryFiles": [
        {
         "Id": "370861585",
@@ -6946,6 +7285,9 @@
       "Id": "2355107160",
       "Name": "hits_hits_tank_pc_he_he_armor_pierce_large",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_he_he_armor_pierce_large",
+      "DurationType": "OneShot",
+      "DurationMin": "3.863",
+      "DurationMax": "3.870625",
       "IncludedMemoryFiles": [
        {
         "Id": "361154830",
@@ -6977,6 +7319,9 @@
       "Id": "2587850532",
       "Name": "hits_hits_tank_pc_he_he_armor_pierce_main",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_he_he_armor_pierce_main",
+      "DurationType": "OneShot",
+      "DurationMin": "2.018889",
+      "DurationMax": "3.011042",
       "IncludedMemoryFiles": [
        {
         "Id": "49881377",
@@ -7014,6 +7359,9 @@
       "Id": "2375873302",
       "Name": "hits_hits_tank_pc_he_he_armor_pierce_medium",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_he_he_armor_pierce_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "1.807188",
+      "DurationMax": "1.807188",
       "IncludedMemoryFiles": [
        {
         "Id": "17005158",
@@ -7057,6 +7405,9 @@
       "Id": "648250544",
       "Name": "hits_hits_tank_pc_he_he_armor_pierce_small",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_he_he_armor_pierce_small",
+      "DurationType": "OneShot",
+      "DurationMin": "1.754083",
+      "DurationMax": "2.118979",
       "IncludedMemoryFiles": [
        {
         "Id": "22304393",
@@ -7100,6 +7451,9 @@
       "Id": "1520002729",
       "Name": "hits_hits_tank_pc_he_he_critical_hit_huge",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_he_he_critical_hit_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "5.159569",
+      "DurationMax": "5.159569",
       "IncludedMemoryFiles": [
        {
         "Id": "238145765",
@@ -7125,6 +7479,9 @@
       "Id": "251339937",
       "Name": "hits_hits_tank_pc_he_he_critical_hit_large",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_he_he_critical_hit_large",
+      "DurationType": "OneShot",
+      "DurationMin": "3.843375",
+      "DurationMax": "3.843375",
       "IncludedMemoryFiles": [
        {
         "Id": "390068569",
@@ -7150,6 +7507,9 @@
       "Id": "1082558523",
       "Name": "hits_hits_tank_pc_he_he_critical_hit_main",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_he_he_critical_hit_main",
+      "DurationType": "OneShot",
+      "DurationMin": "3.840854",
+      "DurationMax": "3.840854",
       "IncludedMemoryFiles": [
        {
         "Id": "224515851",
@@ -7193,6 +7553,9 @@
       "Id": "339799209",
       "Name": "hits_hits_tank_pc_he_he_critical_hit_medium",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_he_he_critical_hit_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "2.805229",
+      "DurationMax": "2.805229",
       "IncludedMemoryFiles": [
        {
         "Id": "342506373",
@@ -7218,6 +7581,9 @@
       "Id": "2453895657",
       "Name": "hits_hits_tank_pc_he_he_critical_hit_small",
       "ObjectPath": "\\Events\\Hits\\NPC_PC\\hits_hits_tank_pc_he_he_critical_hit_small",
+      "DurationType": "OneShot",
+      "DurationMin": "2.808",
+      "DurationMax": "2.808",
       "IncludedMemoryFiles": [
        {
         "Id": "191563896",
@@ -7243,6 +7609,9 @@
       "Id": "4060658794",
       "Name": "hits_surface_hits_huge_hit_ground_fougasse_huge",
       "ObjectPath": "\\Events\\Hits\\Surface\\huge\\hits_surface_hits_huge_hit_ground_fougasse_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "5.471979",
+      "DurationMax": "5.807979",
       "IncludedMemoryFiles": [
        {
         "Id": "448463394",
@@ -7280,6 +7649,9 @@
       "Id": "3380226548",
       "Name": "hits_surface_hits_huge_hit_ground_huge",
       "ObjectPath": "\\Events\\Hits\\Surface\\huge\\hits_surface_hits_huge_hit_ground_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "4.382721",
+      "DurationMax": "5.029977",
       "IncludedMemoryFiles": [
        {
         "Id": "463627376",
@@ -7329,6 +7701,9 @@
       "Id": "2123820308",
       "Name": "hits_surface_hits_huge_hit_metal_fougasse_huge",
       "ObjectPath": "\\Events\\Hits\\Surface\\huge\\hits_surface_hits_huge_hit_metal_fougasse_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "5.471979",
+      "DurationMax": "5.807979",
       "IncludedMemoryFiles": [
        {
         "Id": "219239095",
@@ -7366,6 +7741,9 @@
       "Id": "1118192330",
       "Name": "hits_surface_hits_huge_hit_metal_huge",
       "ObjectPath": "\\Events\\Hits\\Surface\\huge\\hits_surface_hits_huge_hit_metal_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "1.985261",
+      "DurationMax": "2.722494",
       "IncludedMemoryFiles": [
        {
         "Id": "219239095",
@@ -7415,6 +7793,9 @@
       "Id": "1359742709",
       "Name": "hits_surface_hits_huge_hit_sand_fougasse_huge",
       "ObjectPath": "\\Events\\Hits\\Surface\\huge\\hits_surface_hits_huge_hit_sand_fougasse_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "5.471979",
+      "DurationMax": "5.807979",
       "IncludedMemoryFiles": [
        {
         "Id": "47219425",
@@ -7452,6 +7833,9 @@
       "Id": "1734296361",
       "Name": "hits_surface_hits_huge_hit_sand_huge",
       "ObjectPath": "\\Events\\Hits\\Surface\\huge\\hits_surface_hits_huge_hit_sand_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "5.166395",
+      "DurationMax": "5.720771",
       "IncludedMemoryFiles": [
        {
         "Id": "47219425",
@@ -7501,6 +7885,9 @@
       "Id": "3682644902",
       "Name": "hits_surface_hits_huge_hit_snow_fougasse_huge",
       "ObjectPath": "\\Events\\Hits\\Surface\\huge\\hits_surface_hits_huge_hit_snow_fougasse_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "5.471979",
+      "DurationMax": "5.807979",
       "IncludedMemoryFiles": [
        {
         "Id": "253405446",
@@ -7538,6 +7925,9 @@
       "Id": "3811685832",
       "Name": "hits_surface_hits_huge_hit_snow_huge",
       "ObjectPath": "\\Events\\Hits\\Surface\\huge\\hits_surface_hits_huge_hit_snow_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "4.890657",
+      "DurationMax": "5.535011",
       "IncludedMemoryFiles": [
        {
         "Id": "253405446",
@@ -7587,6 +7977,9 @@
       "Id": "506441694",
       "Name": "hits_surface_hits_huge_hit_stone_fougasse_huge",
       "ObjectPath": "\\Events\\Hits\\Surface\\huge\\hits_surface_hits_huge_hit_stone_fougasse_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "3.921225",
+      "DurationMax": "4.658458",
       "IncludedMemoryFiles": [
        {
         "Id": "553865947",
@@ -7636,6 +8029,9 @@
       "Id": "1370234768",
       "Name": "hits_surface_hits_huge_hit_stone_huge",
       "ObjectPath": "\\Events\\Hits\\Surface\\huge\\hits_surface_hits_huge_hit_stone_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "5.471979",
+      "DurationMax": "5.807979",
       "IncludedMemoryFiles": [
        {
         "Id": "448463394",
@@ -7673,6 +8069,9 @@
       "Id": "2761517376",
       "Name": "hits_surface_hits_huge_hit_water_fougasse_huge",
       "ObjectPath": "\\Events\\Hits\\Surface\\huge\\hits_surface_hits_huge_hit_water_fougasse_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "5.471979",
+      "DurationMax": "6.135828",
       "IncludedMemoryFiles": [
        {
         "Id": "239410260",
@@ -7710,6 +8109,9 @@
       "Id": "3948577598",
       "Name": "hits_surface_hits_huge_hit_water_huge",
       "ObjectPath": "\\Events\\Hits\\Surface\\huge\\hits_surface_hits_huge_hit_water_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "3.413288",
+      "DurationMax": "6.135828",
       "IncludedMemoryFiles": [
        {
         "Id": "239410260",
@@ -7759,6 +8161,9 @@
       "Id": "777837448",
       "Name": "hits_surface_hits_huge_hit_wood_fougasse_huge",
       "ObjectPath": "\\Events\\Hits\\Surface\\huge\\hits_surface_hits_huge_hit_wood_fougasse_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "5.471979",
+      "DurationMax": "5.807979",
       "IncludedMemoryFiles": [
        {
         "Id": "166769676",
@@ -7796,6 +8201,9 @@
       "Id": "3402726582",
       "Name": "hits_surface_hits_huge_hit_wood_huge",
       "ObjectPath": "\\Events\\Hits\\Surface\\huge\\hits_surface_hits_huge_hit_wood_huge",
+      "DurationType": "OneShot",
+      "DurationMin": "3.784807",
+      "DurationMax": "4.060544",
       "IncludedMemoryFiles": [
        {
         "Id": "166769676",
@@ -7845,6 +8253,9 @@
       "Id": "1285716274",
       "Name": "hits_surface_hits_large_hit_ground_fougasse_large",
       "ObjectPath": "\\Events\\Hits\\Surface\\large\\hits_surface_hits_large_hit_ground_fougasse_large",
+      "DurationType": "OneShot",
+      "DurationMin": "4.382721",
+      "DurationMax": "5.029977",
       "IncludedMemoryFiles": [
        {
         "Id": "79489944",
@@ -7882,6 +8293,9 @@
       "Id": "4023564320",
       "Name": "hits_surface_hits_large_hit_ground_large",
       "ObjectPath": "\\Events\\Hits\\Surface\\large\\hits_surface_hits_large_hit_ground_large",
+      "DurationType": "OneShot",
+      "DurationMin": "4.382721",
+      "DurationMax": "5.029977",
       "IncludedMemoryFiles": [
        {
         "Id": "33243901",
@@ -7931,6 +8345,9 @@
       "Id": "2697135208",
       "Name": "hits_surface_hits_large_hit_metal_fougasse_large",
       "ObjectPath": "\\Events\\Hits\\Surface\\large\\hits_surface_hits_large_hit_metal_fougasse_large",
+      "DurationType": "OneShot",
+      "DurationMin": "2.879979",
+      "DurationMax": "2.879979",
       "IncludedMemoryFiles": [
        {
         "Id": "79489944",
@@ -7968,6 +8385,9 @@
       "Id": "2351951690",
       "Name": "hits_surface_hits_large_hit_metal_large",
       "ObjectPath": "\\Events\\Hits\\Surface\\large\\hits_surface_hits_large_hit_metal_large",
+      "DurationType": "OneShot",
+      "DurationMin": "1.985261",
+      "DurationMax": "2.722494",
       "IncludedMemoryFiles": [
        {
         "Id": "33243901",
@@ -8017,6 +8437,9 @@
       "Id": "1500568503",
       "Name": "hits_surface_hits_large_hit_sand_fougasse_large",
       "ObjectPath": "\\Events\\Hits\\Surface\\large\\hits_surface_hits_large_hit_sand_fougasse_large",
+      "DurationType": "OneShot",
+      "DurationMin": "5.166395",
+      "DurationMax": "5.720771",
       "IncludedMemoryFiles": [
        {
         "Id": "47219425",
@@ -8054,6 +8477,9 @@
       "Id": "2358153479",
       "Name": "hits_surface_hits_large_hit_sand_large",
       "ObjectPath": "\\Events\\Hits\\Surface\\large\\hits_surface_hits_large_hit_sand_large",
+      "DurationType": "OneShot",
+      "DurationMin": "5.166395",
+      "DurationMax": "5.720771",
       "IncludedMemoryFiles": [
        {
         "Id": "33243901",
@@ -8103,6 +8529,9 @@
       "Id": "1238564750",
       "Name": "hits_surface_hits_large_hit_snow_fougasse_large",
       "ObjectPath": "\\Events\\Hits\\Surface\\large\\hits_surface_hits_large_hit_snow_fougasse_large",
+      "DurationType": "OneShot",
+      "DurationMin": "4.890657",
+      "DurationMax": "5.535011",
       "IncludedMemoryFiles": [
        {
         "Id": "79489944",
@@ -8140,6 +8569,9 @@
       "Id": "3371343044",
       "Name": "hits_surface_hits_large_hit_snow_large",
       "ObjectPath": "\\Events\\Hits\\Surface\\large\\hits_surface_hits_large_hit_snow_large",
+      "DurationType": "OneShot",
+      "DurationMin": "4.890657",
+      "DurationMax": "5.535011",
       "IncludedMemoryFiles": [
        {
         "Id": "33243901",
@@ -8189,6 +8621,9 @@
       "Id": "3620289958",
       "Name": "hits_surface_hits_large_hit_stone_fougasse_large",
       "ObjectPath": "\\Events\\Hits\\Surface\\large\\hits_surface_hits_large_hit_stone_fougasse_large",
+      "DurationType": "OneShot",
+      "DurationMin": "3.921225",
+      "DurationMax": "4.658458",
       "IncludedMemoryFiles": [
        {
         "Id": "33243901",
@@ -8238,6 +8673,9 @@
       "Id": "1646568236",
       "Name": "hits_surface_hits_large_hit_stone_large",
       "ObjectPath": "\\Events\\Hits\\Surface\\large\\hits_surface_hits_large_hit_stone_large",
+      "DurationType": "OneShot",
+      "DurationMin": "3.921225",
+      "DurationMax": "4.658458",
       "IncludedMemoryFiles": [
        {
         "Id": "79489944",
@@ -8275,6 +8713,9 @@
       "Id": "3806396004",
       "Name": "hits_surface_hits_large_hit_water_fougasse_large",
       "ObjectPath": "\\Events\\Hits\\Surface\\large\\hits_surface_hits_large_hit_water_fougasse_large",
+      "DurationType": "OneShot",
+      "DurationMin": "3.921225",
+      "DurationMax": "4.658458",
       "IncludedMemoryFiles": [
        {
         "Id": "79489944",
@@ -8312,6 +8753,9 @@
       "Id": "3306250046",
       "Name": "hits_surface_hits_large_hit_water_large",
       "ObjectPath": "\\Events\\Hits\\Surface\\large\\hits_surface_hits_large_hit_water_large",
+      "DurationType": "OneShot",
+      "DurationMin": "3.921225",
+      "DurationMax": "4.658458",
       "IncludedMemoryFiles": [
        {
         "Id": "79489944",
@@ -8349,6 +8793,9 @@
       "Id": "840341908",
       "Name": "hits_surface_hits_large_hit_wood_fougasse_large",
       "ObjectPath": "\\Events\\Hits\\Surface\\large\\hits_surface_hits_large_hit_wood_fougasse_large",
+      "DurationType": "OneShot",
+      "DurationMin": "3.784807",
+      "DurationMax": "4.060544",
       "IncludedMemoryFiles": [
        {
         "Id": "79489944",
@@ -8386,6 +8833,9 @@
       "Id": "547044430",
       "Name": "hits_surface_hits_large_hit_wood_large",
       "ObjectPath": "\\Events\\Hits\\Surface\\large\\hits_surface_hits_large_hit_wood_large",
+      "DurationType": "OneShot",
+      "DurationMin": "3.784807",
+      "DurationMax": "4.060544",
       "IncludedMemoryFiles": [
        {
         "Id": "33243901",
@@ -8435,6 +8885,9 @@
       "Id": "318558554",
       "Name": "hits_surface_hits_main_hit_ground_fougasse_main",
       "ObjectPath": "\\Events\\Hits\\Surface\\main\\hits_surface_hits_main_hit_ground_fougasse_main",
+      "DurationType": "OneShot",
+      "DurationMin": "4.382721",
+      "DurationMax": "5.029977",
       "IncludedMemoryFiles": [
        {
         "Id": "463627376",
@@ -8472,6 +8925,9 @@
       "Id": "73497760",
       "Name": "hits_surface_hits_main_hit_ground_main",
       "ObjectPath": "\\Events\\Hits\\Surface\\main\\hits_surface_hits_main_hit_ground_main",
+      "DurationType": "OneShot",
+      "DurationMin": "4.382721",
+      "DurationMax": "5.029977",
       "IncludedMemoryFiles": [
        {
         "Id": "62241169",
@@ -8521,6 +8977,9 @@
       "Id": "3867500096",
       "Name": "hits_surface_hits_main_hit_metal_fougasse_main",
       "ObjectPath": "\\Events\\Hits\\Surface\\main\\hits_surface_hits_main_hit_metal_fougasse_main",
+      "DurationType": "OneShot",
+      "DurationMin": "2.855979",
+      "DurationMax": "3.143979",
       "IncludedMemoryFiles": [
        {
         "Id": "219239095",
@@ -8558,6 +9017,9 @@
       "Id": "2672373258",
       "Name": "hits_surface_hits_main_hit_metal_main",
       "ObjectPath": "\\Events\\Hits\\Surface\\main\\hits_surface_hits_main_hit_metal_main",
+      "DurationType": "OneShot",
+      "DurationMin": "1.985261",
+      "DurationMax": "2.722494",
       "IncludedMemoryFiles": [
        {
         "Id": "33243901",
@@ -8607,6 +9069,9 @@
       "Id": "3972630101",
       "Name": "hits_surface_hits_main_hit_sand_fougasse_main",
       "ObjectPath": "\\Events\\Hits\\Surface\\main\\hits_surface_hits_main_hit_sand_fougasse_main",
+      "DurationType": "OneShot",
+      "DurationMin": "5.166395",
+      "DurationMax": "5.720771",
       "IncludedMemoryFiles": [
        {
         "Id": "47219425",
@@ -8644,6 +9109,9 @@
       "Id": "3316610957",
       "Name": "hits_surface_hits_main_hit_sand_main",
       "ObjectPath": "\\Events\\Hits\\Surface\\main\\hits_surface_hits_main_hit_sand_main",
+      "DurationType": "OneShot",
+      "DurationMin": "5.166395",
+      "DurationMax": "5.720771",
       "IncludedMemoryFiles": [
        {
         "Id": "47219425",
@@ -8693,6 +9161,9 @@
       "Id": "2060499718",
       "Name": "hits_surface_hits_main_hit_snow_fougasse_main",
       "ObjectPath": "\\Events\\Hits\\Surface\\main\\hits_surface_hits_main_hit_snow_fougasse_main",
+      "DurationType": "OneShot",
+      "DurationMin": "4.890657",
+      "DurationMax": "5.535011",
       "IncludedMemoryFiles": [
        {
         "Id": "253405446",
@@ -8730,6 +9201,9 @@
       "Id": "3025468980",
       "Name": "hits_surface_hits_main_hit_snow_main",
       "ObjectPath": "\\Events\\Hits\\Surface\\main\\hits_surface_hits_main_hit_snow_main",
+      "DurationType": "OneShot",
+      "DurationMin": "4.890657",
+      "DurationMax": "5.535011",
       "IncludedMemoryFiles": [
        {
         "Id": "62241169",
@@ -8779,6 +9253,9 @@
       "Id": "838847310",
       "Name": "hits_surface_hits_main_hit_stone_fougasse_main",
       "ObjectPath": "\\Events\\Hits\\Surface\\main\\hits_surface_hits_main_hit_stone_fougasse_main",
+      "DurationType": "OneShot",
+      "DurationMin": "3.921225",
+      "DurationMax": "4.658458",
       "IncludedMemoryFiles": [
        {
         "Id": "62241169",
@@ -8828,6 +9305,9 @@
       "Id": "2129803596",
       "Name": "hits_surface_hits_main_hit_stone_main",
       "ObjectPath": "\\Events\\Hits\\Surface\\main\\hits_surface_hits_main_hit_stone_main",
+      "DurationType": "OneShot",
+      "DurationMin": "3.921225",
+      "DurationMax": "4.658458",
       "IncludedMemoryFiles": [
        {
         "Id": "553865947",
@@ -8865,6 +9345,9 @@
       "Id": "4275554308",
       "Name": "hits_surface_hits_main_hit_water_fougasse_main",
       "ObjectPath": "\\Events\\Hits\\Surface\\main\\hits_surface_hits_main_hit_water_fougasse_main",
+      "DurationType": "OneShot",
+      "DurationMin": "3.413288",
+      "DurationMax": "6.135828",
       "IncludedMemoryFiles": [
        {
         "Id": "239410260",
@@ -8902,6 +9385,9 @@
       "Id": "1302105846",
       "Name": "hits_surface_hits_main_hit_water_main",
       "ObjectPath": "\\Events\\Hits\\Surface\\main\\hits_surface_hits_main_hit_water_main",
+      "DurationType": "OneShot",
+      "DurationMin": "3.413288",
+      "DurationMax": "6.135828",
       "IncludedMemoryFiles": [
        {
         "Id": "62241169",
@@ -8951,6 +9437,9 @@
       "Id": "1944471060",
       "Name": "hits_surface_hits_main_hit_wood_fougasse_main",
       "ObjectPath": "\\Events\\Hits\\Surface\\main\\hits_surface_hits_main_hit_wood_fougasse_main",
+      "DurationType": "OneShot",
+      "DurationMin": "3.784807",
+      "DurationMax": "4.060544",
       "IncludedMemoryFiles": [
        {
         "Id": "166769676",
@@ -8988,6 +9477,9 @@
       "Id": "2800511014",
       "Name": "hits_surface_hits_main_hit_wood_main",
       "ObjectPath": "\\Events\\Hits\\Surface\\main\\hits_surface_hits_main_hit_wood_main",
+      "DurationType": "OneShot",
+      "DurationMin": "3.784807",
+      "DurationMax": "4.060544",
       "IncludedMemoryFiles": [
        {
         "Id": "62241169",
@@ -9037,6 +9529,9 @@
       "Id": "214565690",
       "Name": "hits_surface_hits_medium_hit_ground_fougasse_medium",
       "ObjectPath": "\\Events\\Hits\\Surface\\medium\\hits_surface_hits_medium_hit_ground_fougasse_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "4.382721",
+      "DurationMax": "5.029977",
       "IncludedMemoryFiles": [
        {
         "Id": "463627376",
@@ -9074,6 +9569,9 @@
       "Id": "1599553472",
       "Name": "hits_surface_hits_medium_hit_ground_medium",
       "ObjectPath": "\\Events\\Hits\\Surface\\medium\\hits_surface_hits_medium_hit_ground_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "4.382721",
+      "DurationMax": "5.029977",
       "IncludedMemoryFiles": [
        {
         "Id": "212203353",
@@ -9123,6 +9621,9 @@
       "Id": "1557366984",
       "Name": "hits_surface_hits_medium_hit_metal_fougasse_medium",
       "ObjectPath": "\\Events\\Hits\\Surface\\medium\\hits_surface_hits_medium_hit_metal_fougasse_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "3.095979",
+      "DurationMax": "3.095979",
       "IncludedMemoryFiles": [
        {
         "Id": "219239095",
@@ -9160,6 +9661,9 @@
       "Id": "3721133378",
       "Name": "hits_surface_hits_medium_hit_metal_medium",
       "ObjectPath": "\\Events\\Hits\\Surface\\medium\\hits_surface_hits_medium_hit_metal_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "1.985261",
+      "DurationMax": "2.722494",
       "IncludedMemoryFiles": [
        {
         "Id": "212203353",
@@ -9209,6 +9713,9 @@
       "Id": "813203505",
       "Name": "hits_surface_hits_medium_hit_sand_fougasse_medium",
       "ObjectPath": "\\Events\\Hits\\Surface\\medium\\hits_surface_hits_medium_hit_sand_fougasse_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "5.166395",
+      "DurationMax": "5.720771",
       "IncludedMemoryFiles": [
        {
         "Id": "47219425",
@@ -9246,6 +9753,9 @@
       "Id": "3640768493",
       "Name": "hits_surface_hits_medium_hit_sand_medium",
       "ObjectPath": "\\Events\\Hits\\Surface\\medium\\hits_surface_hits_medium_hit_sand_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "5.166395",
+      "DurationMax": "5.720771",
       "IncludedMemoryFiles": [
        {
         "Id": "47219425",
@@ -9295,6 +9805,9 @@
       "Id": "1334927622",
       "Name": "hits_surface_hits_medium_hit_snow_fougasse_medium",
       "ObjectPath": "\\Events\\Hits\\Surface\\medium\\hits_surface_hits_medium_hit_snow_fougasse_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "4.890657",
+      "DurationMax": "5.535011",
       "IncludedMemoryFiles": [
        {
         "Id": "253405446",
@@ -9332,6 +9845,9 @@
       "Id": "2810924148",
       "Name": "hits_surface_hits_medium_hit_snow_medium",
       "ObjectPath": "\\Events\\Hits\\Surface\\medium\\hits_surface_hits_medium_hit_snow_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "4.890657",
+      "DurationMax": "5.535011",
       "IncludedMemoryFiles": [
        {
         "Id": "212203353",
@@ -9381,6 +9897,9 @@
       "Id": "42589790",
       "Name": "hits_surface_hits_medium_hit_stone_fougasse_medium",
       "ObjectPath": "\\Events\\Hits\\Surface\\medium\\hits_surface_hits_medium_hit_stone_fougasse_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "3.921225",
+      "DurationMax": "4.658458",
       "IncludedMemoryFiles": [
        {
         "Id": "212203353",
@@ -9430,6 +9949,9 @@
       "Id": "1561413116",
       "Name": "hits_surface_hits_medium_hit_stone_medium",
       "ObjectPath": "\\Events\\Hits\\Surface\\medium\\hits_surface_hits_medium_hit_stone_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "3.921225",
+      "DurationMax": "4.658458",
       "IncludedMemoryFiles": [
        {
         "Id": "484415001",
@@ -9467,6 +9989,9 @@
       "Id": "615773516",
       "Name": "hits_surface_hits_medium_hit_water_fougasse_medium",
       "ObjectPath": "\\Events\\Hits\\Surface\\medium\\hits_surface_hits_medium_hit_water_fougasse_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "3.413288",
+      "DurationMax": "6.135828",
       "IncludedMemoryFiles": [
        {
         "Id": "239410260",
@@ -9504,6 +10029,9 @@
       "Id": "3745049550",
       "Name": "hits_surface_hits_medium_hit_water_medium",
       "ObjectPath": "\\Events\\Hits\\Surface\\medium\\hits_surface_hits_medium_hit_water_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "3.413288",
+      "DurationMax": "6.135828",
       "IncludedMemoryFiles": [
        {
         "Id": "212203353",
@@ -9553,6 +10081,9 @@
       "Id": "599625732",
       "Name": "hits_surface_hits_medium_hit_wood_fougasse_medium",
       "ObjectPath": "\\Events\\Hits\\Surface\\medium\\hits_surface_hits_medium_hit_wood_fougasse_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "3.784807",
+      "DurationMax": "4.060544",
       "IncludedMemoryFiles": [
        {
         "Id": "166769676",
@@ -9590,6 +10121,9 @@
       "Id": "613003318",
       "Name": "hits_surface_hits_medium_hit_wood_medium",
       "ObjectPath": "\\Events\\Hits\\Surface\\medium\\hits_surface_hits_medium_hit_wood_medium",
+      "DurationType": "OneShot",
+      "DurationMin": "3.784807",
+      "DurationMax": "4.060544",
       "IncludedMemoryFiles": [
        {
         "Id": "166769676",
@@ -9639,6 +10173,9 @@
       "Id": "2701423366",
       "Name": "hits_surface_hits_small_hit_ground_fougasse_small",
       "ObjectPath": "\\Events\\Hits\\Surface\\small\\hits_surface_hits_small_hit_ground_fougasse_small",
+      "DurationType": "OneShot",
+      "DurationMin": "4.382721",
+      "DurationMax": "5.029977",
       "IncludedMemoryFiles": [
        {
         "Id": "324900531",
@@ -9676,6 +10213,9 @@
       "Id": "135444848",
       "Name": "hits_surface_hits_small_hit_ground_small",
       "ObjectPath": "\\Events\\Hits\\Surface\\small\\hits_surface_hits_small_hit_ground_small",
+      "DurationType": "OneShot",
+      "DurationMin": "4.382721",
+      "DurationMax": "5.029977",
       "IncludedMemoryFiles": [
        {
         "Id": "243132263",
@@ -9725,6 +10265,9 @@
       "Id": "3568424088",
       "Name": "hits_surface_hits_small_hit_metal_fougasse_small",
       "ObjectPath": "\\Events\\Hits\\Surface\\small\\hits_surface_hits_small_hit_metal_fougasse_small",
+      "DurationType": "OneShot",
+      "DurationMin": "1.985261",
+      "DurationMax": "2.722494",
       "IncludedMemoryFiles": [
        {
         "Id": "219239095",
@@ -9762,6 +10305,9 @@
       "Id": "2872643614",
       "Name": "hits_surface_hits_small_hit_metal_small",
       "ObjectPath": "\\Events\\Hits\\Surface\\small\\hits_surface_hits_small_hit_metal_small",
+      "DurationType": "OneShot",
+      "DurationMin": "1.985261",
+      "DurationMax": "2.722494",
       "IncludedMemoryFiles": [
        {
         "Id": "219239095",
@@ -9811,6 +10357,9 @@
       "Id": "918911771",
       "Name": "hits_surface_hits_small_hit_sand_fougasse_small",
       "ObjectPath": "\\Events\\Hits\\Surface\\small\\hits_surface_hits_small_hit_sand_fougasse_small",
+      "DurationType": "OneShot",
+      "DurationMin": "5.166395",
+      "DurationMax": "5.720771",
       "IncludedMemoryFiles": [
        {
         "Id": "47219425",
@@ -9848,6 +10397,9 @@
       "Id": "2254992091",
       "Name": "hits_surface_hits_small_hit_sand_small",
       "ObjectPath": "\\Events\\Hits\\Surface\\small\\hits_surface_hits_small_hit_sand_small",
+      "DurationType": "OneShot",
+      "DurationMin": "5.166395",
+      "DurationMax": "5.720771",
       "IncludedMemoryFiles": [
        {
         "Id": "47219425",
@@ -9897,6 +10449,9 @@
       "Id": "2315090866",
       "Name": "hits_surface_hits_small_hit_snow_fougasse_small",
       "ObjectPath": "\\Events\\Hits\\Surface\\small\\hits_surface_hits_small_hit_snow_fougasse_small",
+      "DurationType": "OneShot",
+      "DurationMin": "4.890657",
+      "DurationMax": "5.535011",
       "IncludedMemoryFiles": [
        {
         "Id": "253405446",
@@ -9934,6 +10489,9 @@
       "Id": "1746708036",
       "Name": "hits_surface_hits_small_hit_snow_small",
       "ObjectPath": "\\Events\\Hits\\Surface\\small\\hits_surface_hits_small_hit_snow_small",
+      "DurationType": "OneShot",
+      "DurationMin": "4.890657",
+      "DurationMax": "5.535011",
       "IncludedMemoryFiles": [
        {
         "Id": "243132263",
@@ -9983,6 +10541,9 @@
       "Id": "3338803994",
       "Name": "hits_surface_hits_small_hit_stone_fougasse_small",
       "ObjectPath": "\\Events\\Hits\\Surface\\small\\hits_surface_hits_small_hit_stone_fougasse_small",
+      "DurationType": "OneShot",
+      "DurationMin": "3.921225",
+      "DurationMax": "4.658458",
       "IncludedMemoryFiles": [
        {
         "Id": "243132263",
@@ -10032,6 +10593,9 @@
       "Id": "1391589212",
       "Name": "hits_surface_hits_small_hit_stone_small",
       "ObjectPath": "\\Events\\Hits\\Surface\\small\\hits_surface_hits_small_hit_stone_small",
+      "DurationType": "OneShot",
+      "DurationMin": "3.921225",
+      "DurationMax": "4.658458",
       "IncludedMemoryFiles": [
        {
         "Id": "324900531",
@@ -10069,6 +10633,9 @@
       "Id": "1690604260",
       "Name": "hits_surface_hits_small_hit_water_fougasse_small",
       "ObjectPath": "\\Events\\Hits\\Surface\\small\\hits_surface_hits_small_hit_water_fougasse_small",
+      "DurationType": "OneShot",
+      "DurationMin": "3.413288",
+      "DurationMax": "6.135828",
       "IncludedMemoryFiles": [
        {
         "Id": "239410260",
@@ -10106,6 +10673,9 @@
       "Id": "692515682",
       "Name": "hits_surface_hits_small_hit_water_small",
       "ObjectPath": "\\Events\\Hits\\Surface\\small\\hits_surface_hits_small_hit_water_small",
+      "DurationType": "OneShot",
+      "DurationMin": "3.413288",
+      "DurationMax": "6.135828",
       "IncludedMemoryFiles": [
        {
         "Id": "239410260",
@@ -10155,6 +10725,9 @@
       "Id": "3453689796",
       "Name": "hits_surface_hits_small_hit_wood_fougasse_small",
       "ObjectPath": "\\Events\\Hits\\Surface\\small\\hits_surface_hits_small_hit_wood_fougasse_small",
+      "DurationType": "OneShot",
+      "DurationMin": "3.784807",
+      "DurationMax": "4.060544",
       "IncludedMemoryFiles": [
        {
         "Id": "166769676",
@@ -10192,6 +10765,9 @@
       "Id": "2023146754",
       "Name": "hits_surface_hits_small_hit_wood_small",
       "ObjectPath": "\\Events\\Hits\\Surface\\small\\hits_surface_hits_small_hit_wood_small",
+      "DurationType": "OneShot",
+      "DurationMin": "3.784807",
+      "DurationMax": "4.060544",
       "IncludedMemoryFiles": [
        {
         "Id": "166769676",
@@ -10241,6 +10817,9 @@
       "Id": "394955153",
       "Name": "RXD_DEV",
       "ObjectPath": "\\Events\\Hits\\RXD_DEV",
+      "DurationType": "OneShot",
+      "DurationMin": "1.471875",
+      "DurationMax": "1.471875",
       "IncludedMemoryFiles": [
        {
         "Id": "200535613",

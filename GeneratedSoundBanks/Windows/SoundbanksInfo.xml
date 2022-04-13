@@ -21,7 +21,7 @@
 			<ShortName>RXD_HITS_SFX</ShortName>
 			<Path>RXD_HITS_SFX.bnk</Path>
 			<IncludedEvents>
-				<Event Id="4018987442" Name="hits_hits_tank_npc_ap_ap_armor_not_pierce_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_not_pierce_huge">
+				<Event Id="4018987442" Name="hits_hits_tank_npc_ap_ap_armor_not_pierce_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_not_pierce_huge" DurationType="OneShot" DurationMin="3.122146" DurationMax="3.607042">
 					<IncludedMemoryFiles>
 						<File Id="205905367" Language="SFX">
 							<ShortName>ap_armor_not_pierce_huge_03.wav</ShortName>
@@ -37,7 +37,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3909034784" Name="hits_hits_tank_npc_ap_ap_armor_not_pierce_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_not_pierce_large">
+				<Event Id="3909034784" Name="hits_hits_tank_npc_ap_ap_armor_not_pierce_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_not_pierce_large" DurationType="OneShot" DurationMin="2.138667" DurationMax="2.914021">
 					<IncludedMemoryFiles>
 						<File Id="362662485" Language="SFX">
 							<ShortName>ap_armor_not_pierce_large_03.wav</ShortName>
@@ -53,7 +53,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="858206204" Name="hits_hits_tank_npc_ap_ap_armor_not_pierce_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_not_pierce_main">
+				<Event Id="858206204" Name="hits_hits_tank_npc_ap_ap_armor_not_pierce_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_not_pierce_main" DurationType="OneShot" DurationMin="2.430833" DurationMax="2.824396">
 					<IncludedMemoryFiles>
 						<File Id="31174167" Language="SFX">
 							<ShortName>ap_armor_not_pierce_main_04.wav</ShortName>
@@ -73,7 +73,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2796650158" Name="hits_hits_tank_npc_ap_ap_armor_not_pierce_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_not_pierce_medium">
+				<Event Id="2796650158" Name="hits_hits_tank_npc_ap_ap_armor_not_pierce_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_not_pierce_medium" DurationType="OneShot" DurationMin="1.805771" DurationMax="2.05575">
 					<IncludedMemoryFiles>
 						<File Id="504683223" Language="SFX">
 							<ShortName>ap_armor_not_pierce_medium_01.wav</ShortName>
@@ -97,7 +97,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4144695864" Name="hits_hits_tank_npc_ap_ap_armor_not_pierce_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_not_pierce_small">
+				<Event Id="4144695864" Name="hits_hits_tank_npc_ap_ap_armor_not_pierce_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_not_pierce_small" DurationType="OneShot" DurationMin="1.721292" DurationMax="1.806667">
 					<IncludedMemoryFiles>
 						<File Id="331277023" Language="SFX">
 							<ShortName>ap_armor_not_pierce_small_01.wav</ShortName>
@@ -121,7 +121,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1193600708" Name="hits_hits_tank_npc_ap_ap_armor_pierce_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_pierce_huge">
+				<Event Id="1193600708" Name="hits_hits_tank_npc_ap_ap_armor_pierce_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_pierce_huge" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -197,7 +197,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3076186394" Name="hits_hits_tank_npc_ap_ap_armor_pierce_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_pierce_large">
+				<Event Id="3076186394" Name="hits_hits_tank_npc_ap_ap_armor_pierce_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_pierce_large" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -273,7 +273,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1594690966" Name="hits_hits_tank_npc_ap_ap_armor_pierce_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_pierce_main">
+				<Event Id="1594690966" Name="hits_hits_tank_npc_ap_ap_armor_pierce_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_pierce_main" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="22953135" Language="SFX">
 							<ShortName>ap_armor_pierce_main_02.wav</ShortName>
@@ -353,7 +353,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2007951716" Name="hits_hits_tank_npc_ap_ap_armor_pierce_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_pierce_medium">
+				<Event Id="2007951716" Name="hits_hits_tank_npc_ap_ap_armor_pierce_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_pierce_medium" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -437,7 +437,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2651067654" Name="hits_hits_tank_npc_ap_ap_armor_pierce_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_pierce_small">
+				<Event Id="2651067654" Name="hits_hits_tank_npc_ap_ap_armor_pierce_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_pierce_small" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -521,7 +521,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2537786283" Name="hits_hits_tank_npc_ap_ap_critical_hit_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_critical_hit_huge">
+				<Event Id="2537786283" Name="hits_hits_tank_npc_ap_ap_critical_hit_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_critical_hit_huge" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -589,7 +589,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2822568651" Name="hits_hits_tank_npc_ap_ap_critical_hit_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_critical_hit_large">
+				<Event Id="2822568651" Name="hits_hits_tank_npc_ap_ap_critical_hit_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_critical_hit_large" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -657,7 +657,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="591874949" Name="hits_hits_tank_npc_ap_ap_critical_hit_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_critical_hit_main">
+				<Event Id="591874949" Name="hits_hits_tank_npc_ap_ap_critical_hit_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_critical_hit_main" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -725,7 +725,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1908306639" Name="hits_hits_tank_npc_ap_ap_critical_hit_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_critical_hit_medium">
+				<Event Id="1908306639" Name="hits_hits_tank_npc_ap_ap_critical_hit_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_critical_hit_medium" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -793,7 +793,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2653988407" Name="hits_hits_tank_npc_ap_ap_critical_hit_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_critical_hit_small">
+				<Event Id="2653988407" Name="hits_hits_tank_npc_ap_ap_critical_hit_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_critical_hit_small" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="24210821" Language="SFX">
 							<ShortName>ap_critical_hit_small_01.wav</ShortName>
@@ -865,7 +865,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2113556989" Name="hits_hits_tank_npc_ap_ap_ricochet_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_ricochet_huge">
+				<Event Id="2113556989" Name="hits_hits_tank_npc_ap_ap_ricochet_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_ricochet_huge" DurationType="OneShot" DurationMin="2.896729" DurationMax="3.607042">
 					<IncludedMemoryFiles>
 						<File Id="214697929" Language="SFX">
 							<ShortName>ap_ricochet_huge_02.wav</ShortName>
@@ -881,7 +881,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="735247405" Name="hits_hits_tank_npc_ap_ap_ricochet_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_ricochet_large">
+				<Event Id="735247405" Name="hits_hits_tank_npc_ap_ap_ricochet_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_ricochet_large" DurationType="OneShot" DurationMin="2.138667" DurationMax="2.904">
 					<IncludedMemoryFiles>
 						<File Id="214908400" Language="SFX">
 							<ShortName>ap_ricochet_large_02.wav</ShortName>
@@ -897,7 +897,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3045254695" Name="hits_hits_tank_npc_ap_ap_ricochet_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_ricochet_main">
+				<Event Id="3045254695" Name="hits_hits_tank_npc_ap_ap_ricochet_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_ricochet_main" DurationType="OneShot" DurationMin="1.590688" DurationMax="2.683187">
 					<IncludedMemoryFiles>
 						<File Id="421228653" Language="SFX">
 							<ShortName>ap_ricochet_main_03.wav</ShortName>
@@ -913,7 +913,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3875393869" Name="hits_hits_tank_npc_ap_ap_ricochet_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_ricochet_medium">
+				<Event Id="3875393869" Name="hits_hits_tank_npc_ap_ap_ricochet_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_ricochet_medium" DurationType="OneShot" DurationMin="2.020562" DurationMax="2.505021">
 					<IncludedMemoryFiles>
 						<File Id="109885776" Language="SFX">
 							<ShortName>ap_ricochet_medium_02.wav</ShortName>
@@ -929,7 +929,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2909316421" Name="hits_hits_tank_npc_ap_ap_ricochet_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_ricochet_small">
+				<Event Id="2909316421" Name="hits_hits_tank_npc_ap_ap_ricochet_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_ricochet_small" DurationType="OneShot" DurationMin="1.778188" DurationMax="1.96725">
 					<IncludedMemoryFiles>
 						<File Id="232715753" Language="SFX">
 							<ShortName>ap_ricochet_small_02.wav</ShortName>
@@ -945,7 +945,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2131668540" Name="hits_hits_tank_npc_apcr_apcr_armor_not_pierce_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_armor_not_pierce_huge">
+				<Event Id="2131668540" Name="hits_hits_tank_npc_apcr_apcr_armor_not_pierce_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_armor_not_pierce_huge" DurationType="OneShot" DurationMin="1.916583" DurationMax="2.503479">
 					<IncludedMemoryFiles>
 						<File Id="294515475" Language="SFX">
 							<ShortName>apcr_armor_not_pierce_huge_03.wav</ShortName>
@@ -961,7 +961,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2542395042" Name="hits_hits_tank_npc_apcr_apcr_armor_not_pierce_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_armor_not_pierce_large">
+				<Event Id="2542395042" Name="hits_hits_tank_npc_apcr_apcr_armor_not_pierce_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_armor_not_pierce_large" DurationType="OneShot" DurationMin="1.62525" DurationMax="2.315833">
 					<IncludedMemoryFiles>
 						<File Id="179864100" Language="SFX">
 							<ShortName>apcr_armor_not_pierce_large_03.wav</ShortName>
@@ -977,7 +977,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3332861710" Name="hits_hits_tank_npc_apcr_apcr_armor_not_pierce_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_armor_not_pierce_main">
+				<Event Id="3332861710" Name="hits_hits_tank_npc_apcr_apcr_armor_not_pierce_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_armor_not_pierce_main" DurationType="OneShot" DurationMin="1.427167" DurationMax="1.563354">
 					<IncludedMemoryFiles>
 						<File Id="73723056" Language="SFX">
 							<ShortName>apcr_armor_not_pierce_main_04.wav</ShortName>
@@ -997,7 +997,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="691017468" Name="hits_hits_tank_npc_apcr_apcr_armor_not_pierce_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_armor_not_pierce_medium">
+				<Event Id="691017468" Name="hits_hits_tank_npc_apcr_apcr_armor_not_pierce_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_armor_not_pierce_medium" DurationType="OneShot" DurationMin="0.679667" DurationMax="1.454583">
 					<IncludedMemoryFiles>
 						<File Id="178167380" Language="SFX">
 							<ShortName>apcr_armor_not_pierce_medium_02.wav</ShortName>
@@ -1021,7 +1021,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2282985582" Name="hits_hits_tank_npc_apcr_apcr_armor_not_pierce_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_armor_not_pierce_small">
+				<Event Id="2282985582" Name="hits_hits_tank_npc_apcr_apcr_armor_not_pierce_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_armor_not_pierce_small" DurationType="OneShot" DurationMin="0.452417" DurationMax="1.26825">
 					<IncludedMemoryFiles>
 						<File Id="8014109" Language="SFX">
 							<ShortName>apcr_armor_not_pierce_small_01.wav</ShortName>
@@ -1045,7 +1045,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2971288387" Name="hits_hits_tank_npc_apcr_apcr_ricochet_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_ricochet_huge">
+				<Event Id="2971288387" Name="hits_hits_tank_npc_apcr_apcr_ricochet_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_ricochet_huge" DurationType="OneShot" DurationMin="1.916583" DurationMax="2.446146">
 					<IncludedMemoryFiles>
 						<File Id="544587724" Language="SFX">
 							<ShortName>apcr_ricochet_huge_03.wav</ShortName>
@@ -1061,7 +1061,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3561056435" Name="hits_hits_tank_npc_apcr_apcr_ricochet_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_ricochet_large">
+				<Event Id="3561056435" Name="hits_hits_tank_npc_apcr_apcr_ricochet_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_ricochet_large" DurationType="OneShot" DurationMin="1.62525" DurationMax="1.799417">
 					<IncludedMemoryFiles>
 						<File Id="310728207" Language="SFX">
 							<ShortName>apcr_ricochet_large_02.wav</ShortName>
@@ -1077,7 +1077,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1841045501" Name="hits_hits_tank_npc_apcr_apcr_ricochet_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_ricochet_main">
+				<Event Id="1841045501" Name="hits_hits_tank_npc_apcr_apcr_ricochet_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_ricochet_main" DurationType="OneShot" DurationMin="1.511146" DurationMax="1.563354">
 					<IncludedMemoryFiles>
 						<File Id="449072691" Language="SFX">
 							<ShortName>apcr_ricochet_main_01.wav</ShortName>
@@ -1093,7 +1093,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="323083271" Name="hits_hits_tank_npc_apcr_apcr_ricochet_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_ricochet_medium">
+				<Event Id="323083271" Name="hits_hits_tank_npc_apcr_apcr_ricochet_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_ricochet_medium" DurationType="OneShot" DurationMin="0.679667" DurationMax="1.5055">
 					<IncludedMemoryFiles>
 						<File Id="302484391" Language="SFX">
 							<ShortName>apcr_ricochet_medium_02.wav</ShortName>
@@ -1109,7 +1109,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="921794111" Name="hits_hits_tank_npc_apcr_apcr_ricochet_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_ricochet_small">
+				<Event Id="921794111" Name="hits_hits_tank_npc_apcr_apcr_ricochet_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_apcr_apcr_ricochet_small" DurationType="OneShot" DurationMin="0.452417" DurationMax="1.260313">
 					<IncludedMemoryFiles>
 						<File Id="815079660" Language="SFX">
 							<ShortName>apcr_ricochet_small_01.wav</ShortName>
@@ -1125,7 +1125,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3857643950" Name="hits_hits_tank_npc_hc_hc_armor_not_pierce_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_not_pierce_huge">
+				<Event Id="3857643950" Name="hits_hits_tank_npc_hc_hc_armor_not_pierce_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_not_pierce_huge" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -1205,7 +1205,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1283972292" Name="hits_hits_tank_npc_hc_hc_armor_not_pierce_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_not_pierce_large">
+				<Event Id="1283972292" Name="hits_hits_tank_npc_hc_hc_armor_not_pierce_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_not_pierce_large" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="37802043" Language="SFX">
 							<ShortName>hc_armor_not_pierce_large_01.wav</ShortName>
@@ -1285,7 +1285,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3132500400" Name="hits_hits_tank_npc_hc_hc_armor_not_pierce_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_not_pierce_main">
+				<Event Id="3132500400" Name="hits_hits_tank_npc_hc_hc_armor_not_pierce_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_not_pierce_main" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -1369,7 +1369,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="87423146" Name="hits_hits_tank_npc_hc_hc_armor_not_pierce_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_not_pierce_medium">
+				<Event Id="87423146" Name="hits_hits_tank_npc_hc_hc_armor_not_pierce_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_not_pierce_medium" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -1457,7 +1457,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2345371340" Name="hits_hits_tank_npc_hc_hc_armor_not_pierce_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_not_pierce_small">
+				<Event Id="2345371340" Name="hits_hits_tank_npc_hc_hc_armor_not_pierce_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_not_pierce_small" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -1545,7 +1545,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="906847776" Name="hits_hits_tank_npc_hc_hc_armor_pierce_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_pierce_huge">
+				<Event Id="906847776" Name="hits_hits_tank_npc_hc_hc_armor_pierce_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_pierce_huge" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -1625,7 +1625,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2376223358" Name="hits_hits_tank_npc_hc_hc_armor_pierce_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_pierce_large">
+				<Event Id="2376223358" Name="hits_hits_tank_npc_hc_hc_armor_pierce_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_pierce_large" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -1705,7 +1705,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1059260282" Name="hits_hits_tank_npc_hc_hc_armor_pierce_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_pierce_main">
+				<Event Id="1059260282" Name="hits_hits_tank_npc_hc_hc_armor_pierce_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_pierce_main" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -1789,7 +1789,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1916402800" Name="hits_hits_tank_npc_hc_hc_armor_pierce_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_pierce_medium">
+				<Event Id="1916402800" Name="hits_hits_tank_npc_hc_hc_armor_pierce_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_pierce_medium" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -1877,7 +1877,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4275067610" Name="hits_hits_tank_npc_hc_hc_armor_pierce_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_pierce_small">
+				<Event Id="4275067610" Name="hits_hits_tank_npc_hc_hc_armor_pierce_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_armor_pierce_small" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="34717030" Language="SFX">
 							<ShortName>hc_armor_pierce_small_04.wav</ShortName>
@@ -1965,7 +1965,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3206232399" Name="hits_hits_tank_npc_hc_hc_critical_hit_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_critical_hit_huge">
+				<Event Id="3206232399" Name="hits_hits_tank_npc_hc_hc_critical_hit_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_critical_hit_huge" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -2037,7 +2037,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1849974679" Name="hits_hits_tank_npc_hc_hc_critical_hit_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_critical_hit_large">
+				<Event Id="1849974679" Name="hits_hits_tank_npc_hc_hc_critical_hit_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_critical_hit_large" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -2109,7 +2109,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3617414353" Name="hits_hits_tank_npc_hc_hc_critical_hit_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_critical_hit_main">
+				<Event Id="3617414353" Name="hits_hits_tank_npc_hc_hc_critical_hit_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_critical_hit_main" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -2181,7 +2181,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3889093235" Name="hits_hits_tank_npc_hc_hc_critical_hit_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_critical_hit_medium">
+				<Event Id="3889093235" Name="hits_hits_tank_npc_hc_hc_critical_hit_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_critical_hit_medium" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -2253,7 +2253,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="302624035" Name="hits_hits_tank_npc_hc_hc_critical_hit_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_critical_hit_small">
+				<Event Id="302624035" Name="hits_hits_tank_npc_hc_hc_critical_hit_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_hc_hc_critical_hit_small" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -2325,7 +2325,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4219578622" Name="hits_hits_tank_npc_he_he_armor_not_pierce_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_not_pierce_huge">
+				<Event Id="4219578622" Name="hits_hits_tank_npc_he_he_armor_not_pierce_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_not_pierce_huge" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -2401,7 +2401,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3595100468" Name="hits_hits_tank_npc_he_he_armor_not_pierce_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_not_pierce_large">
+				<Event Id="3595100468" Name="hits_hits_tank_npc_he_he_armor_not_pierce_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_not_pierce_large" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -2481,7 +2481,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3530788768" Name="hits_hits_tank_npc_he_he_armor_not_pierce_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_not_pierce_main">
+				<Event Id="3530788768" Name="hits_hits_tank_npc_he_he_armor_not_pierce_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_not_pierce_main" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -2557,7 +2557,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3070981946" Name="hits_hits_tank_npc_he_he_armor_not_pierce_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_not_pierce_medium">
+				<Event Id="3070981946" Name="hits_hits_tank_npc_he_he_armor_not_pierce_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_not_pierce_medium" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -2641,7 +2641,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4009560764" Name="hits_hits_tank_npc_he_he_armor_not_pierce_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_not_pierce_small">
+				<Event Id="4009560764" Name="hits_hits_tank_npc_he_he_armor_not_pierce_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_not_pierce_small" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="48907817" Language="SFX">
 							<ShortName>he_armor_not_pierce_small_02.wav</ShortName>
@@ -2725,7 +2725,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3486050672" Name="hits_hits_tank_npc_he_he_armor_pierce_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_pierce_huge">
+				<Event Id="3486050672" Name="hits_hits_tank_npc_he_he_armor_pierce_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_pierce_huge" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -2801,7 +2801,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1064418222" Name="hits_hits_tank_npc_he_he_armor_pierce_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_pierce_large">
+				<Event Id="1064418222" Name="hits_hits_tank_npc_he_he_armor_pierce_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_pierce_large" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -2877,7 +2877,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2559575594" Name="hits_hits_tank_npc_he_he_armor_pierce_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_pierce_main">
+				<Event Id="2559575594" Name="hits_hits_tank_npc_he_he_armor_pierce_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_pierce_main" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="49881377" Language="SFX">
 							<ShortName>he_armor_pierce_main_04.wav</ShortName>
@@ -2957,7 +2957,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1659217344" Name="hits_hits_tank_npc_he_he_armor_pierce_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_pierce_medium">
+				<Event Id="1659217344" Name="hits_hits_tank_npc_he_he_armor_pierce_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_pierce_medium" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="17005158" Language="SFX">
 							<ShortName>he_armor_pierce_medium_04.wav</ShortName>
@@ -3041,7 +3041,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="734842186" Name="hits_hits_tank_npc_he_he_armor_pierce_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_pierce_small">
+				<Event Id="734842186" Name="hits_hits_tank_npc_he_he_armor_pierce_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_armor_pierce_small" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="22304393" Language="SFX">
 							<ShortName>he_armor_pierce_small_05.wav</ShortName>
@@ -3125,7 +3125,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2844130815" Name="hits_hits_tank_npc_he_he_critical_hit_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_critical_hit_huge">
+				<Event Id="2844130815" Name="hits_hits_tank_npc_he_he_critical_hit_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_critical_hit_huge" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -3193,7 +3193,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2299454119" Name="hits_hits_tank_npc_he_he_critical_hit_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_critical_hit_large">
+				<Event Id="2299454119" Name="hits_hits_tank_npc_he_he_critical_hit_large" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_critical_hit_large" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -3261,7 +3261,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3260535649" Name="hits_hits_tank_npc_he_he_critical_hit_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_critical_hit_main">
+				<Event Id="3260535649" Name="hits_hits_tank_npc_he_he_critical_hit_main" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_critical_hit_main" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -3329,7 +3329,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4169721763" Name="hits_hits_tank_npc_he_he_critical_hit_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_critical_hit_medium">
+				<Event Id="4169721763" Name="hits_hits_tank_npc_he_he_critical_hit_medium" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_critical_hit_medium" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -3397,7 +3397,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1833842227" Name="hits_hits_tank_npc_he_he_critical_hit_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_critical_hit_small">
+				<Event Id="1833842227" Name="hits_hits_tank_npc_he_he_critical_hit_small" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_he_he_critical_hit_small" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.364944">
 					<IncludedMemoryFiles>
 						<File Id="53626045" Language="SFX">
 							<ShortName>expl_mid_tail_08.wav</ShortName>
@@ -3465,7 +3465,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2049675064" Name="hits_hits_tank_pc_ap_ap_armor_not_pierce_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_not_pierce_huge">
+				<Event Id="2049675064" Name="hits_hits_tank_pc_ap_ap_armor_not_pierce_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_not_pierce_huge" DurationType="OneShot" DurationMin="3.122146" DurationMax="3.607042">
 					<IncludedMemoryFiles>
 						<File Id="205905367" Language="SFX">
 							<ShortName>ap_armor_not_pierce_huge_03.wav</ShortName>
@@ -3481,7 +3481,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3968254598" Name="hits_hits_tank_pc_ap_ap_armor_not_pierce_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_not_pierce_large">
+				<Event Id="3968254598" Name="hits_hits_tank_pc_ap_ap_armor_not_pierce_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_not_pierce_large" DurationType="OneShot" DurationMin="2.138667" DurationMax="2.914021">
 					<IncludedMemoryFiles>
 						<File Id="362662485" Language="SFX">
 							<ShortName>ap_armor_not_pierce_large_03.wav</ShortName>
@@ -3497,7 +3497,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1928525938" Name="hits_hits_tank_pc_ap_ap_armor_not_pierce_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_not_pierce_main">
+				<Event Id="1928525938" Name="hits_hits_tank_pc_ap_ap_armor_not_pierce_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_not_pierce_main" DurationType="OneShot" DurationMin="2.430833" DurationMax="2.824396">
 					<IncludedMemoryFiles>
 						<File Id="31174167" Language="SFX">
 							<ShortName>ap_armor_not_pierce_main_04.wav</ShortName>
@@ -3517,7 +3517,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2210707304" Name="hits_hits_tank_pc_ap_ap_armor_not_pierce_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_not_pierce_medium">
+				<Event Id="2210707304" Name="hits_hits_tank_pc_ap_ap_armor_not_pierce_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_not_pierce_medium" DurationType="OneShot" DurationMin="1.805771" DurationMax="2.05575">
 					<IncludedMemoryFiles>
 						<File Id="504683223" Language="SFX">
 							<ShortName>ap_armor_not_pierce_medium_01.wav</ShortName>
@@ -3541,7 +3541,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2244176930" Name="hits_hits_tank_pc_ap_ap_armor_not_pierce_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_not_pierce_small">
+				<Event Id="2244176930" Name="hits_hits_tank_pc_ap_ap_armor_not_pierce_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_not_pierce_small" DurationType="OneShot" DurationMin="1.721292" DurationMax="1.806667">
 					<IncludedMemoryFiles>
 						<File Id="331277023" Language="SFX">
 							<ShortName>ap_armor_not_pierce_small_01.wav</ShortName>
@@ -3565,7 +3565,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3054214078" Name="hits_hits_tank_pc_ap_ap_armor_pierce_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_pierce_huge">
+				<Event Id="3054214078" Name="hits_hits_tank_pc_ap_ap_armor_pierce_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_pierce_huge" DurationType="OneShot" DurationMin="3.085979" DurationMax="3.442042">
 					<IncludedMemoryFiles>
 						<File Id="66671660" Language="SFX">
 							<ShortName>ap_armor_pierce_huge_03.wav</ShortName>
@@ -3581,7 +3581,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1455443444" Name="hits_hits_tank_pc_ap_ap_armor_pierce_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_pierce_large">
+				<Event Id="1455443444" Name="hits_hits_tank_pc_ap_ap_armor_pierce_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_pierce_large" DurationType="OneShot" DurationMin="2.568292" DurationMax="3.384708">
 					<IncludedMemoryFiles>
 						<File Id="517437846" Language="SFX">
 							<ShortName>ap_armor_pierce_large_01.wav</ShortName>
@@ -3597,7 +3597,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2323950944" Name="hits_hits_tank_pc_ap_ap_armor_pierce_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_pierce_main">
+				<Event Id="2323950944" Name="hits_hits_tank_pc_ap_ap_armor_pierce_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_pierce_main" DurationType="OneShot" DurationMin="1.607146" DurationMax="3.419917">
 					<IncludedMemoryFiles>
 						<File Id="22953135" Language="SFX">
 							<ShortName>ap_armor_pierce_main_02.wav</ShortName>
@@ -3617,7 +3617,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2962309370" Name="hits_hits_tank_pc_ap_ap_armor_pierce_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_pierce_medium">
+				<Event Id="2962309370" Name="hits_hits_tank_pc_ap_ap_armor_pierce_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_pierce_medium" DurationType="OneShot" DurationMin="1.874306" DurationMax="3.335972">
 					<IncludedMemoryFiles>
 						<File Id="372449668" Language="SFX">
 							<ShortName>ap_armor_pierce_medium_05.wav</ShortName>
@@ -3641,7 +3641,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1445343100" Name="hits_hits_tank_pc_ap_ap_armor_pierce_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_pierce_small">
+				<Event Id="1445343100" Name="hits_hits_tank_pc_ap_ap_armor_pierce_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_pierce_small" DurationType="OneShot" DurationMin="1.590278" DurationMax="2.135833">
 					<IncludedMemoryFiles>
 						<File Id="639577180" Language="SFX">
 							<ShortName>ap_armor_pierce_small_03.wav</ShortName>
@@ -3665,7 +3665,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="435513013" Name="hits_hits_tank_pc_ap_ap_critical_hit_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_critical_hit_huge">
+				<Event Id="435513013" Name="hits_hits_tank_pc_ap_ap_critical_hit_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_critical_hit_huge" DurationType="OneShot" DurationMin="3.394958" DurationMax="3.394958">
 					<IncludedMemoryFiles>
 						<File Id="193589905" Language="SFX">
 							<ShortName>ap_critical_hit_huge_01.wav</ShortName>
@@ -3677,7 +3677,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3916632309" Name="hits_hits_tank_pc_ap_ap_critical_hit_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_critical_hit_large">
+				<Event Id="3916632309" Name="hits_hits_tank_pc_ap_ap_critical_hit_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_critical_hit_large" DurationType="OneShot" DurationMin="3.420063" DurationMax="3.420063">
 					<IncludedMemoryFiles>
 						<File Id="390068569" Language="SFX">
 							<ShortName>852809909.wav</ShortName>
@@ -3689,7 +3689,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="515085695" Name="hits_hits_tank_pc_ap_ap_critical_hit_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_critical_hit_main">
+				<Event Id="515085695" Name="hits_hits_tank_pc_ap_ap_critical_hit_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_critical_hit_main" DurationType="OneShot" DurationMin="3.42" DurationMax="3.42">
 					<IncludedMemoryFiles>
 						<File Id="390068569" Language="SFX">
 							<ShortName>852809909.wav</ShortName>
@@ -3701,7 +3701,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="841324293" Name="hits_hits_tank_pc_ap_ap_critical_hit_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_critical_hit_medium">
+				<Event Id="841324293" Name="hits_hits_tank_pc_ap_ap_critical_hit_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_critical_hit_medium" DurationType="OneShot" DurationMin="3.342861" DurationMax="3.342861">
 					<IncludedMemoryFiles>
 						<File Id="390068569" Language="SFX">
 							<ShortName>852809909.wav</ShortName>
@@ -3713,7 +3713,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2121252109" Name="hits_hits_tank_pc_ap_ap_critical_hit_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_critical_hit_small">
+				<Event Id="2121252109" Name="hits_hits_tank_pc_ap_ap_critical_hit_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_critical_hit_small" DurationType="OneShot" DurationMin="2.804111" DurationMax="2.809083">
 					<IncludedMemoryFiles>
 						<File Id="24210821" Language="SFX">
 							<ShortName>ap_critical_hit_small_01.wav</ShortName>
@@ -3729,7 +3729,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="734170831" Name="hits_hits_tank_pc_ap_ap_ricochet_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_ricochet_huge">
+				<Event Id="734170831" Name="hits_hits_tank_pc_ap_ap_ricochet_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_ricochet_huge" DurationType="OneShot" DurationMin="2.896729" DurationMax="3.607042">
 					<IncludedMemoryFiles>
 						<File Id="214697929" Language="SFX">
 							<ShortName>ap_ricochet_huge_02.wav</ShortName>
@@ -3745,7 +3745,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4189059095" Name="hits_hits_tank_pc_ap_ap_ricochet_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_ricochet_large">
+				<Event Id="4189059095" Name="hits_hits_tank_pc_ap_ap_ricochet_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_ricochet_large" DurationType="OneShot" DurationMin="2.138667" DurationMax="2.904">
 					<IncludedMemoryFiles>
 						<File Id="214908400" Language="SFX">
 							<ShortName>ap_ricochet_large_02.wav</ShortName>
@@ -3761,7 +3761,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1145352785" Name="hits_hits_tank_pc_ap_ap_ricochet_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_ricochet_main">
+				<Event Id="1145352785" Name="hits_hits_tank_pc_ap_ap_ricochet_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_ricochet_main" DurationType="OneShot" DurationMin="1.590688" DurationMax="2.683187">
 					<IncludedMemoryFiles>
 						<File Id="421228653" Language="SFX">
 							<ShortName>ap_ricochet_main_03.wav</ShortName>
@@ -3777,7 +3777,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3794791411" Name="hits_hits_tank_pc_ap_ap_ricochet_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_ricochet_medium">
+				<Event Id="3794791411" Name="hits_hits_tank_pc_ap_ap_ricochet_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_ricochet_medium" DurationType="OneShot" DurationMin="2.020562" DurationMax="2.505021">
 					<IncludedMemoryFiles>
 						<File Id="109885776" Language="SFX">
 							<ShortName>ap_ricochet_medium_02.wav</ShortName>
@@ -3793,7 +3793,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2641708451" Name="hits_hits_tank_pc_ap_ap_ricochet_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_ricochet_small">
+				<Event Id="2641708451" Name="hits_hits_tank_pc_ap_ap_ricochet_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_ricochet_small" DurationType="OneShot" DurationMin="1.778188" DurationMax="1.96725">
 					<IncludedMemoryFiles>
 						<File Id="232715753" Language="SFX">
 							<ShortName>ap_ricochet_small_02.wav</ShortName>
@@ -3809,7 +3809,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="767584298" Name="hits_hits_tank_pc_apcr_apcr_armor_not_pierce_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_armor_not_pierce_huge">
+				<Event Id="767584298" Name="hits_hits_tank_pc_apcr_apcr_armor_not_pierce_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_armor_not_pierce_huge" DurationType="OneShot" DurationMin="1.916583" DurationMax="2.503479">
 					<IncludedMemoryFiles>
 						<File Id="294515475" Language="SFX">
 							<ShortName>apcr_armor_not_pierce_huge_03.wav</ShortName>
@@ -3825,7 +3825,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3721904328" Name="hits_hits_tank_pc_apcr_apcr_armor_not_pierce_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_armor_not_pierce_large">
+				<Event Id="3721904328" Name="hits_hits_tank_pc_apcr_apcr_armor_not_pierce_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_armor_not_pierce_large" DurationType="OneShot" DurationMin="1.62525" DurationMax="2.315833">
 					<IncludedMemoryFiles>
 						<File Id="179864100" Language="SFX">
 							<ShortName>apcr_armor_not_pierce_large_03.wav</ShortName>
@@ -3841,7 +3841,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2170109012" Name="hits_hits_tank_pc_apcr_apcr_armor_not_pierce_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_armor_not_pierce_main">
+				<Event Id="2170109012" Name="hits_hits_tank_pc_apcr_apcr_armor_not_pierce_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_armor_not_pierce_main" DurationType="OneShot" DurationMin="1.427167" DurationMax="1.563354">
 					<IncludedMemoryFiles>
 						<File Id="73723056" Language="SFX">
 							<ShortName>apcr_armor_not_pierce_main_04.wav</ShortName>
@@ -3861,7 +3861,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3578788966" Name="hits_hits_tank_pc_apcr_apcr_armor_not_pierce_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_armor_not_pierce_medium">
+				<Event Id="3578788966" Name="hits_hits_tank_pc_apcr_apcr_armor_not_pierce_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_armor_not_pierce_medium" DurationType="OneShot" DurationMin="0.679667" DurationMax="1.454583">
 					<IncludedMemoryFiles>
 						<File Id="178167380" Language="SFX">
 							<ShortName>apcr_armor_not_pierce_medium_02.wav</ShortName>
@@ -3885,7 +3885,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1678261984" Name="hits_hits_tank_pc_apcr_apcr_armor_not_pierce_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_armor_not_pierce_small">
+				<Event Id="1678261984" Name="hits_hits_tank_pc_apcr_apcr_armor_not_pierce_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_armor_not_pierce_small" DurationType="OneShot" DurationMin="0.452417" DurationMax="1.26825">
 					<IncludedMemoryFiles>
 						<File Id="8014109" Language="SFX">
 							<ShortName>apcr_armor_not_pierce_small_01.wav</ShortName>
@@ -3909,7 +3909,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1055854805" Name="hits_hits_tank_pc_apcr_apcr_ricochet_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_ricochet_huge">
+				<Event Id="1055854805" Name="hits_hits_tank_pc_apcr_apcr_ricochet_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_ricochet_huge" DurationType="OneShot" DurationMin="1.916583" DurationMax="2.446146">
 					<IncludedMemoryFiles>
 						<File Id="544587724" Language="SFX">
 							<ShortName>apcr_ricochet_huge_03.wav</ShortName>
@@ -3925,7 +3925,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="665293973" Name="hits_hits_tank_pc_apcr_apcr_ricochet_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_ricochet_large">
+				<Event Id="665293973" Name="hits_hits_tank_pc_apcr_apcr_ricochet_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_ricochet_large" DurationType="OneShot" DurationMin="1.62525" DurationMax="1.799417">
 					<IncludedMemoryFiles>
 						<File Id="310728207" Language="SFX">
 							<ShortName>apcr_ricochet_large_02.wav</ShortName>
@@ -3941,7 +3941,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1177107103" Name="hits_hits_tank_pc_apcr_apcr_ricochet_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_ricochet_main">
+				<Event Id="1177107103" Name="hits_hits_tank_pc_apcr_apcr_ricochet_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_ricochet_main" DurationType="OneShot" DurationMin="1.511146" DurationMax="1.563354">
 					<IncludedMemoryFiles>
 						<File Id="449072691" Language="SFX">
 							<ShortName>apcr_ricochet_main_01.wav</ShortName>
@@ -3957,7 +3957,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3201354789" Name="hits_hits_tank_pc_apcr_apcr_ricochet_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_ricochet_medium">
+				<Event Id="3201354789" Name="hits_hits_tank_pc_apcr_apcr_ricochet_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_ricochet_medium" DurationType="OneShot" DurationMin="0.679667" DurationMax="1.5055">
 					<IncludedMemoryFiles>
 						<File Id="302484391" Language="SFX">
 							<ShortName>apcr_ricochet_medium_02.wav</ShortName>
@@ -3973,7 +3973,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3164881325" Name="hits_hits_tank_pc_apcr_apcr_ricochet_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_ricochet_small">
+				<Event Id="3164881325" Name="hits_hits_tank_pc_apcr_apcr_ricochet_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_apcr_apcr_ricochet_small" DurationType="OneShot" DurationMin="0.452417" DurationMax="1.260313">
 					<IncludedMemoryFiles>
 						<File Id="815079660" Language="SFX">
 							<ShortName>apcr_ricochet_small_01.wav</ShortName>
@@ -3989,7 +3989,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3569475172" Name="hits_hits_tank_pc_hc_hc_armor_not_pierce_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_not_pierce_huge">
+				<Event Id="3569475172" Name="hits_hits_tank_pc_hc_hc_armor_not_pierce_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_not_pierce_huge" DurationType="OneShot" DurationMin="5.610612" DurationMax="5.610612">
 					<IncludedMemoryFiles>
 						<File Id="306690702" Language="SFX">
 							<ShortName>hc_armor_not_pierce_huge_01.wav</ShortName>
@@ -4013,7 +4013,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="782291770" Name="hits_hits_tank_pc_hc_hc_armor_not_pierce_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_not_pierce_large">
+				<Event Id="782291770" Name="hits_hits_tank_pc_hc_hc_armor_not_pierce_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_not_pierce_large" DurationType="OneShot" DurationMin="5.610612" DurationMax="5.610612">
 					<IncludedMemoryFiles>
 						<File Id="37802043" Language="SFX">
 							<ShortName>hc_armor_not_pierce_large_01.wav</ShortName>
@@ -4037,7 +4037,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4012245302" Name="hits_hits_tank_pc_hc_hc_armor_not_pierce_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_not_pierce_main">
+				<Event Id="4012245302" Name="hits_hits_tank_pc_hc_hc_armor_not_pierce_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_not_pierce_main" DurationType="OneShot" DurationMin="5.110612" DurationMax="5.110612">
 					<IncludedMemoryFiles>
 						<File Id="338444229" Language="SFX">
 							<ShortName>655945374.wav</ShortName>
@@ -4065,7 +4065,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1989188612" Name="hits_hits_tank_pc_hc_hc_armor_not_pierce_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_not_pierce_medium">
+				<Event Id="1989188612" Name="hits_hits_tank_pc_hc_hc_armor_not_pierce_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_not_pierce_medium" DurationType="OneShot" DurationMin="5.110612" DurationMax="5.110612">
 					<IncludedMemoryFiles>
 						<File Id="98173905" Language="SFX">
 							<ShortName>hc_armor_not_pierce_medium_04.wav</ShortName>
@@ -4097,7 +4097,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="740156966" Name="hits_hits_tank_pc_hc_hc_armor_not_pierce_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_not_pierce_small">
+				<Event Id="740156966" Name="hits_hits_tank_pc_hc_hc_armor_not_pierce_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_not_pierce_small" DurationType="OneShot" DurationMin="5.110612" DurationMax="5.110612">
 					<IncludedMemoryFiles>
 						<File Id="191563896" Language="SFX">
 							<ShortName>526741983.wav</ShortName>
@@ -4129,7 +4129,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="228310506" Name="hits_hits_tank_pc_hc_hc_armor_pierce_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_pierce_huge">
+				<Event Id="228310506" Name="hits_hits_tank_pc_hc_hc_armor_pierce_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_pierce_huge" DurationType="OneShot" DurationMin="5.610612" DurationMax="5.610612">
 					<IncludedMemoryFiles>
 						<File Id="314148647" Language="SFX">
 							<ShortName>hc_armor_pierce_huge_01.wav</ShortName>
@@ -4153,7 +4153,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3939698824" Name="hits_hits_tank_pc_hc_hc_armor_pierce_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_pierce_large">
+				<Event Id="3939698824" Name="hits_hits_tank_pc_hc_hc_armor_pierce_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_pierce_large" DurationType="OneShot" DurationMin="5.610612" DurationMax="5.610612">
 					<IncludedMemoryFiles>
 						<File Id="122909996" Language="SFX">
 							<ShortName>hc_armor_pierce_large_03.wav</ShortName>
@@ -4177,7 +4177,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1672514836" Name="hits_hits_tank_pc_hc_hc_armor_pierce_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_pierce_main">
+				<Event Id="1672514836" Name="hits_hits_tank_pc_hc_hc_armor_pierce_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_pierce_main" DurationType="OneShot" DurationMin="5.110612" DurationMax="5.110612">
 					<IncludedMemoryFiles>
 						<File Id="338444229" Language="SFX">
 							<ShortName>655945374.wav</ShortName>
@@ -4205,7 +4205,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="82018854" Name="hits_hits_tank_pc_hc_hc_armor_pierce_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_pierce_medium">
+				<Event Id="82018854" Name="hits_hits_tank_pc_hc_hc_armor_pierce_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_pierce_medium" DurationType="OneShot" DurationMin="5.110612" DurationMax="5.110612">
 					<IncludedMemoryFiles>
 						<File Id="69335759" Language="SFX">
 							<ShortName>hc_armor_pierce_medium_02.wav</ShortName>
@@ -4237,7 +4237,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2361987488" Name="hits_hits_tank_pc_hc_hc_armor_pierce_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_pierce_small">
+				<Event Id="2361987488" Name="hits_hits_tank_pc_hc_hc_armor_pierce_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_pierce_small" DurationType="OneShot" DurationMin="5.110612" DurationMax="5.110612">
 					<IncludedMemoryFiles>
 						<File Id="34717030" Language="SFX">
 							<ShortName>hc_armor_pierce_small_04.wav</ShortName>
@@ -4269,7 +4269,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2953865679" Name="hits_hits_tank_pc_hc_hc_armor_pierce_tow" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_pierce_tow">
+				<Event Id="2953865679" Name="hits_hits_tank_pc_hc_hc_armor_pierce_tow" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_armor_pierce_tow" DurationType="OneShot" DurationMin="5.610612" DurationMax="5.610612">
 					<IncludedMemoryFiles>
 						<File Id="314148647" Language="SFX">
 							<ShortName>hc_armor_pierce_huge_01.wav</ShortName>
@@ -4293,7 +4293,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4044294489" Name="hits_hits_tank_pc_hc_hc_critical_hit_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_critical_hit_huge">
+				<Event Id="4044294489" Name="hits_hits_tank_pc_hc_hc_critical_hit_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_critical_hit_huge" DurationType="OneShot" DurationMin="5.610612" DurationMax="5.610612">
 					<IncludedMemoryFiles>
 						<File Id="102726725" Language="SFX">
 							<ShortName>hc_critical_hit_huge_01.wav</ShortName>
@@ -4313,7 +4313,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4234487281" Name="hits_hits_tank_pc_hc_hc_critical_hit_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_critical_hit_large">
+				<Event Id="4234487281" Name="hits_hits_tank_pc_hc_hc_critical_hit_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_critical_hit_large" DurationType="OneShot" DurationMin="5.610612" DurationMax="5.610612">
 					<IncludedMemoryFiles>
 						<File Id="390068569" Language="SFX">
 							<ShortName>852809909.wav</ShortName>
@@ -4333,7 +4333,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2538202251" Name="hits_hits_tank_pc_hc_hc_critical_hit_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_critical_hit_main">
+				<Event Id="2538202251" Name="hits_hits_tank_pc_hc_hc_critical_hit_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_critical_hit_main" DurationType="OneShot" DurationMin="5.110612" DurationMax="5.110612">
 					<IncludedMemoryFiles>
 						<File Id="338444229" Language="SFX">
 							<ShortName>655945374.wav</ShortName>
@@ -4353,7 +4353,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2629934873" Name="hits_hits_tank_pc_hc_hc_critical_hit_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_critical_hit_medium">
+				<Event Id="2629934873" Name="hits_hits_tank_pc_hc_hc_critical_hit_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_critical_hit_medium" DurationType="OneShot" DurationMin="5.110612" DurationMax="5.110612">
 					<IncludedMemoryFiles>
 						<File Id="118510356" Language="SFX">
 							<ShortName>hc_critical_hit_medium_01.wav</ShortName>
@@ -4373,7 +4373,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3873330745" Name="hits_hits_tank_pc_hc_hc_critical_hit_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_critical_hit_small">
+				<Event Id="3873330745" Name="hits_hits_tank_pc_hc_hc_critical_hit_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_critical_hit_small" DurationType="OneShot" DurationMin="5.110612" DurationMax="5.110612">
 					<IncludedMemoryFiles>
 						<File Id="191563896" Language="SFX">
 							<ShortName>526741983.wav</ShortName>
@@ -4393,7 +4393,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4174993738" Name="hits_hits_tank_pc_hc_hc_critical_hit_tow" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_critical_hit_tow">
+				<Event Id="4174993738" Name="hits_hits_tank_pc_hc_hc_critical_hit_tow" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_hc_hc_critical_hit_tow" DurationType="OneShot" DurationMin="5.610612" DurationMax="5.610612">
 					<IncludedMemoryFiles>
 						<File Id="102726725" Language="SFX">
 							<ShortName>hc_critical_hit_huge_01.wav</ShortName>
@@ -4413,7 +4413,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4258387924" Name="hits_hits_tank_pc_he_he_armor_not_pierce_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_not_pierce_huge">
+				<Event Id="4258387924" Name="hits_hits_tank_pc_he_he_armor_not_pierce_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_not_pierce_huge" DurationType="OneShot" DurationMin="5.159569" DurationMax="5.159569">
 					<IncludedMemoryFiles>
 						<File Id="283895031" Language="SFX">
 							<ShortName>he_armor_not_pierce_huge_03.wav</ShortName>
@@ -4433,7 +4433,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3725668234" Name="hits_hits_tank_pc_he_he_armor_not_pierce_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_not_pierce_large">
+				<Event Id="3725668234" Name="hits_hits_tank_pc_he_he_armor_not_pierce_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_not_pierce_large" DurationType="OneShot" DurationMin="2.140975" DurationMax="3.872729">
 					<IncludedMemoryFiles>
 						<File Id="319276345" Language="SFX">
 							<ShortName>he_armor_not_pierce_large_03.wav</ShortName>
@@ -4457,7 +4457,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1474735494" Name="hits_hits_tank_pc_he_he_armor_not_pierce_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_not_pierce_main">
+				<Event Id="1474735494" Name="hits_hits_tank_pc_he_he_armor_not_pierce_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_not_pierce_main" DurationType="OneShot" DurationMin="2.018889" DurationMax="2.018889">
 					<IncludedMemoryFiles>
 						<File Id="224515851" Language="SFX">
 							<ShortName>he_armor_not_pierce_main_03.wav</ShortName>
@@ -4477,7 +4477,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2566192948" Name="hits_hits_tank_pc_he_he_armor_not_pierce_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_not_pierce_medium">
+				<Event Id="2566192948" Name="hits_hits_tank_pc_he_he_armor_not_pierce_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_not_pierce_medium" DurationType="OneShot" DurationMin="1.807188" DurationMax="1.807188">
 					<IncludedMemoryFiles>
 						<File Id="462427582" Language="SFX">
 							<ShortName>834546925.wav</ShortName>
@@ -4505,7 +4505,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1569500598" Name="hits_hits_tank_pc_he_he_armor_not_pierce_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_not_pierce_small">
+				<Event Id="1569500598" Name="hits_hits_tank_pc_he_he_armor_not_pierce_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_not_pierce_small" DurationType="OneShot" DurationMin="1.452018" DurationMax="1.452018">
 					<IncludedMemoryFiles>
 						<File Id="48907817" Language="SFX">
 							<ShortName>he_armor_not_pierce_small_02.wav</ShortName>
@@ -4533,7 +4533,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1180102938" Name="hits_hits_tank_pc_he_he_armor_pierce_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_pierce_huge">
+				<Event Id="1180102938" Name="hits_hits_tank_pc_he_he_armor_pierce_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_pierce_huge" DurationType="OneShot" DurationMin="5.159569" DurationMax="5.159569">
 					<IncludedMemoryFiles>
 						<File Id="370861585" Language="SFX">
 							<ShortName>he_armor_pierce_huge_01.wav</ShortName>
@@ -4553,7 +4553,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2355107160" Name="hits_hits_tank_pc_he_he_armor_pierce_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_pierce_large">
+				<Event Id="2355107160" Name="hits_hits_tank_pc_he_he_armor_pierce_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_pierce_large" DurationType="OneShot" DurationMin="3.863" DurationMax="3.870625">
 					<IncludedMemoryFiles>
 						<File Id="361154830" Language="SFX">
 							<ShortName>he_armor_pierce_large_03.wav</ShortName>
@@ -4573,7 +4573,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2587850532" Name="hits_hits_tank_pc_he_he_armor_pierce_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_pierce_main">
+				<Event Id="2587850532" Name="hits_hits_tank_pc_he_he_armor_pierce_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_pierce_main" DurationType="OneShot" DurationMin="2.018889" DurationMax="3.011042">
 					<IncludedMemoryFiles>
 						<File Id="49881377" Language="SFX">
 							<ShortName>he_armor_pierce_main_04.wav</ShortName>
@@ -4597,7 +4597,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2375873302" Name="hits_hits_tank_pc_he_he_armor_pierce_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_pierce_medium">
+				<Event Id="2375873302" Name="hits_hits_tank_pc_he_he_armor_pierce_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_pierce_medium" DurationType="OneShot" DurationMin="1.807188" DurationMax="1.807188">
 					<IncludedMemoryFiles>
 						<File Id="17005158" Language="SFX">
 							<ShortName>he_armor_pierce_medium_04.wav</ShortName>
@@ -4625,7 +4625,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="648250544" Name="hits_hits_tank_pc_he_he_armor_pierce_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_pierce_small">
+				<Event Id="648250544" Name="hits_hits_tank_pc_he_he_armor_pierce_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_armor_pierce_small" DurationType="OneShot" DurationMin="1.754083" DurationMax="2.118979">
 					<IncludedMemoryFiles>
 						<File Id="22304393" Language="SFX">
 							<ShortName>he_armor_pierce_small_05.wav</ShortName>
@@ -4653,7 +4653,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1520002729" Name="hits_hits_tank_pc_he_he_critical_hit_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_critical_hit_huge">
+				<Event Id="1520002729" Name="hits_hits_tank_pc_he_he_critical_hit_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_critical_hit_huge" DurationType="OneShot" DurationMin="5.159569" DurationMax="5.159569">
 					<IncludedMemoryFiles>
 						<File Id="238145765" Language="SFX">
 							<ShortName>he_critical_hit_huge_01.wav</ShortName>
@@ -4669,7 +4669,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="251339937" Name="hits_hits_tank_pc_he_he_critical_hit_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_critical_hit_large">
+				<Event Id="251339937" Name="hits_hits_tank_pc_he_he_critical_hit_large" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_critical_hit_large" DurationType="OneShot" DurationMin="3.843375" DurationMax="3.843375">
 					<IncludedMemoryFiles>
 						<File Id="390068569" Language="SFX">
 							<ShortName>852809909.wav</ShortName>
@@ -4685,7 +4685,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1082558523" Name="hits_hits_tank_pc_he_he_critical_hit_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_critical_hit_main">
+				<Event Id="1082558523" Name="hits_hits_tank_pc_he_he_critical_hit_main" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_critical_hit_main" DurationType="OneShot" DurationMin="3.840854" DurationMax="3.840854">
 					<IncludedMemoryFiles>
 						<File Id="224515851" Language="SFX">
 							<ShortName>he_armor_not_pierce_main_03.wav</ShortName>
@@ -4713,7 +4713,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="339799209" Name="hits_hits_tank_pc_he_he_critical_hit_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_critical_hit_medium">
+				<Event Id="339799209" Name="hits_hits_tank_pc_he_he_critical_hit_medium" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_critical_hit_medium" DurationType="OneShot" DurationMin="2.805229" DurationMax="2.805229">
 					<IncludedMemoryFiles>
 						<File Id="342506373" Language="SFX">
 							<ShortName>he_critical_hit_medium_01.wav</ShortName>
@@ -4729,7 +4729,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2453895657" Name="hits_hits_tank_pc_he_he_critical_hit_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_critical_hit_small">
+				<Event Id="2453895657" Name="hits_hits_tank_pc_he_he_critical_hit_small" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_he_he_critical_hit_small" DurationType="OneShot" DurationMin="2.808" DurationMax="2.808">
 					<IncludedMemoryFiles>
 						<File Id="191563896" Language="SFX">
 							<ShortName>526741983.wav</ShortName>
@@ -4745,7 +4745,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4060658794" Name="hits_surface_hits_huge_hit_ground_fougasse_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_ground_fougasse_huge">
+				<Event Id="4060658794" Name="hits_surface_hits_huge_hit_ground_fougasse_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_ground_fougasse_huge" DurationType="OneShot" DurationMin="5.471979" DurationMax="5.807979">
 					<IncludedMemoryFiles>
 						<File Id="448463394" Language="SFX">
 							<ShortName>surface_hits_fougasse_huge_hard.wav</ShortName>
@@ -4769,7 +4769,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3380226548" Name="hits_surface_hits_huge_hit_ground_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_ground_huge">
+				<Event Id="3380226548" Name="hits_surface_hits_huge_hit_ground_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_ground_huge" DurationType="OneShot" DurationMin="4.382721" DurationMax="5.029977">
 					<IncludedMemoryFiles>
 						<File Id="463627376" Language="SFX">
 							<ShortName>surface_hits_ground_fall_03.wav</ShortName>
@@ -4801,7 +4801,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2123820308" Name="hits_surface_hits_huge_hit_metal_fougasse_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_metal_fougasse_huge">
+				<Event Id="2123820308" Name="hits_surface_hits_huge_hit_metal_fougasse_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_metal_fougasse_huge" DurationType="OneShot" DurationMin="5.471979" DurationMax="5.807979">
 					<IncludedMemoryFiles>
 						<File Id="219239095" Language="SFX">
 							<ShortName>surface_hits_metal_fall_02.wav</ShortName>
@@ -4825,7 +4825,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1118192330" Name="hits_surface_hits_huge_hit_metal_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_metal_huge">
+				<Event Id="1118192330" Name="hits_surface_hits_huge_hit_metal_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_metal_huge" DurationType="OneShot" DurationMin="1.985261" DurationMax="2.722494">
 					<IncludedMemoryFiles>
 						<File Id="219239095" Language="SFX">
 							<ShortName>surface_hits_metal_fall_02.wav</ShortName>
@@ -4857,7 +4857,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1359742709" Name="hits_surface_hits_huge_hit_sand_fougasse_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_sand_fougasse_huge">
+				<Event Id="1359742709" Name="hits_surface_hits_huge_hit_sand_fougasse_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_sand_fougasse_huge" DurationType="OneShot" DurationMin="5.471979" DurationMax="5.807979">
 					<IncludedMemoryFiles>
 						<File Id="47219425" Language="SFX">
 							<ShortName>surface_hits_sand_fall_01.wav</ShortName>
@@ -4881,7 +4881,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1734296361" Name="hits_surface_hits_huge_hit_sand_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_sand_huge">
+				<Event Id="1734296361" Name="hits_surface_hits_huge_hit_sand_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_sand_huge" DurationType="OneShot" DurationMin="5.166395" DurationMax="5.720771">
 					<IncludedMemoryFiles>
 						<File Id="47219425" Language="SFX">
 							<ShortName>surface_hits_sand_fall_01.wav</ShortName>
@@ -4913,7 +4913,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3682644902" Name="hits_surface_hits_huge_hit_snow_fougasse_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_snow_fougasse_huge">
+				<Event Id="3682644902" Name="hits_surface_hits_huge_hit_snow_fougasse_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_snow_fougasse_huge" DurationType="OneShot" DurationMin="5.471979" DurationMax="5.807979">
 					<IncludedMemoryFiles>
 						<File Id="253405446" Language="SFX">
 							<ShortName>surface_hits_snow_fall_01.wav</ShortName>
@@ -4937,7 +4937,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3811685832" Name="hits_surface_hits_huge_hit_snow_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_snow_huge">
+				<Event Id="3811685832" Name="hits_surface_hits_huge_hit_snow_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_snow_huge" DurationType="OneShot" DurationMin="4.890657" DurationMax="5.535011">
 					<IncludedMemoryFiles>
 						<File Id="253405446" Language="SFX">
 							<ShortName>surface_hits_snow_fall_01.wav</ShortName>
@@ -4969,7 +4969,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="506441694" Name="hits_surface_hits_huge_hit_stone_fougasse_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_stone_fougasse_huge">
+				<Event Id="506441694" Name="hits_surface_hits_huge_hit_stone_fougasse_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_stone_fougasse_huge" DurationType="OneShot" DurationMin="3.921225" DurationMax="4.658458">
 					<IncludedMemoryFiles>
 						<File Id="553865947" Language="SFX">
 							<ShortName>surface_hits_stone_fall_01.wav</ShortName>
@@ -5001,7 +5001,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1370234768" Name="hits_surface_hits_huge_hit_stone_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_stone_huge">
+				<Event Id="1370234768" Name="hits_surface_hits_huge_hit_stone_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_stone_huge" DurationType="OneShot" DurationMin="5.471979" DurationMax="5.807979">
 					<IncludedMemoryFiles>
 						<File Id="448463394" Language="SFX">
 							<ShortName>surface_hits_fougasse_huge_hard.wav</ShortName>
@@ -5025,7 +5025,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2761517376" Name="hits_surface_hits_huge_hit_water_fougasse_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_water_fougasse_huge">
+				<Event Id="2761517376" Name="hits_surface_hits_huge_hit_water_fougasse_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_water_fougasse_huge" DurationType="OneShot" DurationMin="5.471979" DurationMax="6.135828">
 					<IncludedMemoryFiles>
 						<File Id="239410260" Language="SFX">
 							<ShortName>surface_hits_water_fall_01.wav</ShortName>
@@ -5049,7 +5049,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3948577598" Name="hits_surface_hits_huge_hit_water_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_water_huge">
+				<Event Id="3948577598" Name="hits_surface_hits_huge_hit_water_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_water_huge" DurationType="OneShot" DurationMin="3.413288" DurationMax="6.135828">
 					<IncludedMemoryFiles>
 						<File Id="239410260" Language="SFX">
 							<ShortName>surface_hits_water_fall_01.wav</ShortName>
@@ -5081,7 +5081,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="777837448" Name="hits_surface_hits_huge_hit_wood_fougasse_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_wood_fougasse_huge">
+				<Event Id="777837448" Name="hits_surface_hits_huge_hit_wood_fougasse_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_wood_fougasse_huge" DurationType="OneShot" DurationMin="5.471979" DurationMax="5.807979">
 					<IncludedMemoryFiles>
 						<File Id="166769676" Language="SFX">
 							<ShortName>surface_hits_wood_fall_01.wav</ShortName>
@@ -5105,7 +5105,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3402726582" Name="hits_surface_hits_huge_hit_wood_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_wood_huge">
+				<Event Id="3402726582" Name="hits_surface_hits_huge_hit_wood_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_wood_huge" DurationType="OneShot" DurationMin="3.784807" DurationMax="4.060544">
 					<IncludedMemoryFiles>
 						<File Id="166769676" Language="SFX">
 							<ShortName>surface_hits_wood_fall_01.wav</ShortName>
@@ -5137,7 +5137,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1285716274" Name="hits_surface_hits_large_hit_ground_fougasse_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_ground_fougasse_large">
+				<Event Id="1285716274" Name="hits_surface_hits_large_hit_ground_fougasse_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_ground_fougasse_large" DurationType="OneShot" DurationMin="4.382721" DurationMax="5.029977">
 					<IncludedMemoryFiles>
 						<File Id="79489944" Language="SFX">
 							<ShortName>surface_hits_fougasse_large_hard.wav</ShortName>
@@ -5161,7 +5161,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4023564320" Name="hits_surface_hits_large_hit_ground_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_ground_large">
+				<Event Id="4023564320" Name="hits_surface_hits_large_hit_ground_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_ground_large" DurationType="OneShot" DurationMin="4.382721" DurationMax="5.029977">
 					<IncludedMemoryFiles>
 						<File Id="33243901" Language="SFX">
 							<ShortName>surface_hits_large_soft_01.wav</ShortName>
@@ -5193,7 +5193,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2697135208" Name="hits_surface_hits_large_hit_metal_fougasse_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_metal_fougasse_large">
+				<Event Id="2697135208" Name="hits_surface_hits_large_hit_metal_fougasse_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_metal_fougasse_large" DurationType="OneShot" DurationMin="2.879979" DurationMax="2.879979">
 					<IncludedMemoryFiles>
 						<File Id="79489944" Language="SFX">
 							<ShortName>surface_hits_fougasse_large_hard.wav</ShortName>
@@ -5217,7 +5217,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2351951690" Name="hits_surface_hits_large_hit_metal_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_metal_large">
+				<Event Id="2351951690" Name="hits_surface_hits_large_hit_metal_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_metal_large" DurationType="OneShot" DurationMin="1.985261" DurationMax="2.722494">
 					<IncludedMemoryFiles>
 						<File Id="33243901" Language="SFX">
 							<ShortName>surface_hits_large_soft_01.wav</ShortName>
@@ -5249,7 +5249,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1500568503" Name="hits_surface_hits_large_hit_sand_fougasse_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_sand_fougasse_large">
+				<Event Id="1500568503" Name="hits_surface_hits_large_hit_sand_fougasse_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_sand_fougasse_large" DurationType="OneShot" DurationMin="5.166395" DurationMax="5.720771">
 					<IncludedMemoryFiles>
 						<File Id="47219425" Language="SFX">
 							<ShortName>surface_hits_sand_fall_01.wav</ShortName>
@@ -5273,7 +5273,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2358153479" Name="hits_surface_hits_large_hit_sand_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_sand_large">
+				<Event Id="2358153479" Name="hits_surface_hits_large_hit_sand_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_sand_large" DurationType="OneShot" DurationMin="5.166395" DurationMax="5.720771">
 					<IncludedMemoryFiles>
 						<File Id="33243901" Language="SFX">
 							<ShortName>surface_hits_large_soft_01.wav</ShortName>
@@ -5305,7 +5305,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1238564750" Name="hits_surface_hits_large_hit_snow_fougasse_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_snow_fougasse_large">
+				<Event Id="1238564750" Name="hits_surface_hits_large_hit_snow_fougasse_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_snow_fougasse_large" DurationType="OneShot" DurationMin="4.890657" DurationMax="5.535011">
 					<IncludedMemoryFiles>
 						<File Id="79489944" Language="SFX">
 							<ShortName>surface_hits_fougasse_large_hard.wav</ShortName>
@@ -5329,7 +5329,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3371343044" Name="hits_surface_hits_large_hit_snow_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_snow_large">
+				<Event Id="3371343044" Name="hits_surface_hits_large_hit_snow_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_snow_large" DurationType="OneShot" DurationMin="4.890657" DurationMax="5.535011">
 					<IncludedMemoryFiles>
 						<File Id="33243901" Language="SFX">
 							<ShortName>surface_hits_large_soft_01.wav</ShortName>
@@ -5361,7 +5361,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3620289958" Name="hits_surface_hits_large_hit_stone_fougasse_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_stone_fougasse_large">
+				<Event Id="3620289958" Name="hits_surface_hits_large_hit_stone_fougasse_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_stone_fougasse_large" DurationType="OneShot" DurationMin="3.921225" DurationMax="4.658458">
 					<IncludedMemoryFiles>
 						<File Id="33243901" Language="SFX">
 							<ShortName>surface_hits_large_soft_01.wav</ShortName>
@@ -5393,7 +5393,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1646568236" Name="hits_surface_hits_large_hit_stone_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_stone_large">
+				<Event Id="1646568236" Name="hits_surface_hits_large_hit_stone_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_stone_large" DurationType="OneShot" DurationMin="3.921225" DurationMax="4.658458">
 					<IncludedMemoryFiles>
 						<File Id="79489944" Language="SFX">
 							<ShortName>surface_hits_fougasse_large_hard.wav</ShortName>
@@ -5417,7 +5417,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3806396004" Name="hits_surface_hits_large_hit_water_fougasse_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_water_fougasse_large">
+				<Event Id="3806396004" Name="hits_surface_hits_large_hit_water_fougasse_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_water_fougasse_large" DurationType="OneShot" DurationMin="3.921225" DurationMax="4.658458">
 					<IncludedMemoryFiles>
 						<File Id="79489944" Language="SFX">
 							<ShortName>surface_hits_fougasse_large_hard.wav</ShortName>
@@ -5441,7 +5441,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3306250046" Name="hits_surface_hits_large_hit_water_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_water_large">
+				<Event Id="3306250046" Name="hits_surface_hits_large_hit_water_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_water_large" DurationType="OneShot" DurationMin="3.921225" DurationMax="4.658458">
 					<IncludedMemoryFiles>
 						<File Id="79489944" Language="SFX">
 							<ShortName>surface_hits_fougasse_large_hard.wav</ShortName>
@@ -5465,7 +5465,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="840341908" Name="hits_surface_hits_large_hit_wood_fougasse_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_wood_fougasse_large">
+				<Event Id="840341908" Name="hits_surface_hits_large_hit_wood_fougasse_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_wood_fougasse_large" DurationType="OneShot" DurationMin="3.784807" DurationMax="4.060544">
 					<IncludedMemoryFiles>
 						<File Id="79489944" Language="SFX">
 							<ShortName>surface_hits_fougasse_large_hard.wav</ShortName>
@@ -5489,7 +5489,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="547044430" Name="hits_surface_hits_large_hit_wood_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_wood_large">
+				<Event Id="547044430" Name="hits_surface_hits_large_hit_wood_large" ObjectPath="\Events\Hits\Surface\large\hits_surface_hits_large_hit_wood_large" DurationType="OneShot" DurationMin="3.784807" DurationMax="4.060544">
 					<IncludedMemoryFiles>
 						<File Id="33243901" Language="SFX">
 							<ShortName>surface_hits_large_soft_01.wav</ShortName>
@@ -5521,7 +5521,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="318558554" Name="hits_surface_hits_main_hit_ground_fougasse_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_ground_fougasse_main">
+				<Event Id="318558554" Name="hits_surface_hits_main_hit_ground_fougasse_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_ground_fougasse_main" DurationType="OneShot" DurationMin="4.382721" DurationMax="5.029977">
 					<IncludedMemoryFiles>
 						<File Id="463627376" Language="SFX">
 							<ShortName>surface_hits_ground_fall_03.wav</ShortName>
@@ -5545,7 +5545,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="73497760" Name="hits_surface_hits_main_hit_ground_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_ground_main">
+				<Event Id="73497760" Name="hits_surface_hits_main_hit_ground_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_ground_main" DurationType="OneShot" DurationMin="4.382721" DurationMax="5.029977">
 					<IncludedMemoryFiles>
 						<File Id="62241169" Language="SFX">
 							<ShortName>surface_hits_main_soft_01.wav</ShortName>
@@ -5577,7 +5577,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3867500096" Name="hits_surface_hits_main_hit_metal_fougasse_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_metal_fougasse_main">
+				<Event Id="3867500096" Name="hits_surface_hits_main_hit_metal_fougasse_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_metal_fougasse_main" DurationType="OneShot" DurationMin="2.855979" DurationMax="3.143979">
 					<IncludedMemoryFiles>
 						<File Id="219239095" Language="SFX">
 							<ShortName>surface_hits_metal_fall_02.wav</ShortName>
@@ -5601,7 +5601,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2672373258" Name="hits_surface_hits_main_hit_metal_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_metal_main">
+				<Event Id="2672373258" Name="hits_surface_hits_main_hit_metal_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_metal_main" DurationType="OneShot" DurationMin="1.985261" DurationMax="2.722494">
 					<IncludedMemoryFiles>
 						<File Id="33243901" Language="SFX">
 							<ShortName>surface_hits_large_soft_01.wav</ShortName>
@@ -5633,7 +5633,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3972630101" Name="hits_surface_hits_main_hit_sand_fougasse_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_sand_fougasse_main">
+				<Event Id="3972630101" Name="hits_surface_hits_main_hit_sand_fougasse_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_sand_fougasse_main" DurationType="OneShot" DurationMin="5.166395" DurationMax="5.720771">
 					<IncludedMemoryFiles>
 						<File Id="47219425" Language="SFX">
 							<ShortName>surface_hits_sand_fall_01.wav</ShortName>
@@ -5657,7 +5657,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3316610957" Name="hits_surface_hits_main_hit_sand_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_sand_main">
+				<Event Id="3316610957" Name="hits_surface_hits_main_hit_sand_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_sand_main" DurationType="OneShot" DurationMin="5.166395" DurationMax="5.720771">
 					<IncludedMemoryFiles>
 						<File Id="47219425" Language="SFX">
 							<ShortName>surface_hits_sand_fall_01.wav</ShortName>
@@ -5689,7 +5689,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2060499718" Name="hits_surface_hits_main_hit_snow_fougasse_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_snow_fougasse_main">
+				<Event Id="2060499718" Name="hits_surface_hits_main_hit_snow_fougasse_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_snow_fougasse_main" DurationType="OneShot" DurationMin="4.890657" DurationMax="5.535011">
 					<IncludedMemoryFiles>
 						<File Id="253405446" Language="SFX">
 							<ShortName>surface_hits_snow_fall_01.wav</ShortName>
@@ -5713,7 +5713,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3025468980" Name="hits_surface_hits_main_hit_snow_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_snow_main">
+				<Event Id="3025468980" Name="hits_surface_hits_main_hit_snow_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_snow_main" DurationType="OneShot" DurationMin="4.890657" DurationMax="5.535011">
 					<IncludedMemoryFiles>
 						<File Id="62241169" Language="SFX">
 							<ShortName>surface_hits_main_soft_01.wav</ShortName>
@@ -5745,7 +5745,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="838847310" Name="hits_surface_hits_main_hit_stone_fougasse_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_stone_fougasse_main">
+				<Event Id="838847310" Name="hits_surface_hits_main_hit_stone_fougasse_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_stone_fougasse_main" DurationType="OneShot" DurationMin="3.921225" DurationMax="4.658458">
 					<IncludedMemoryFiles>
 						<File Id="62241169" Language="SFX">
 							<ShortName>surface_hits_main_soft_01.wav</ShortName>
@@ -5777,7 +5777,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2129803596" Name="hits_surface_hits_main_hit_stone_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_stone_main">
+				<Event Id="2129803596" Name="hits_surface_hits_main_hit_stone_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_stone_main" DurationType="OneShot" DurationMin="3.921225" DurationMax="4.658458">
 					<IncludedMemoryFiles>
 						<File Id="553865947" Language="SFX">
 							<ShortName>surface_hits_stone_fall_01.wav</ShortName>
@@ -5801,7 +5801,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="4275554308" Name="hits_surface_hits_main_hit_water_fougasse_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_water_fougasse_main">
+				<Event Id="4275554308" Name="hits_surface_hits_main_hit_water_fougasse_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_water_fougasse_main" DurationType="OneShot" DurationMin="3.413288" DurationMax="6.135828">
 					<IncludedMemoryFiles>
 						<File Id="239410260" Language="SFX">
 							<ShortName>surface_hits_water_fall_01.wav</ShortName>
@@ -5825,7 +5825,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1302105846" Name="hits_surface_hits_main_hit_water_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_water_main">
+				<Event Id="1302105846" Name="hits_surface_hits_main_hit_water_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_water_main" DurationType="OneShot" DurationMin="3.413288" DurationMax="6.135828">
 					<IncludedMemoryFiles>
 						<File Id="62241169" Language="SFX">
 							<ShortName>surface_hits_main_soft_01.wav</ShortName>
@@ -5857,7 +5857,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1944471060" Name="hits_surface_hits_main_hit_wood_fougasse_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_wood_fougasse_main">
+				<Event Id="1944471060" Name="hits_surface_hits_main_hit_wood_fougasse_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_wood_fougasse_main" DurationType="OneShot" DurationMin="3.784807" DurationMax="4.060544">
 					<IncludedMemoryFiles>
 						<File Id="166769676" Language="SFX">
 							<ShortName>surface_hits_wood_fall_01.wav</ShortName>
@@ -5881,7 +5881,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2800511014" Name="hits_surface_hits_main_hit_wood_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_wood_main">
+				<Event Id="2800511014" Name="hits_surface_hits_main_hit_wood_main" ObjectPath="\Events\Hits\Surface\main\hits_surface_hits_main_hit_wood_main" DurationType="OneShot" DurationMin="3.784807" DurationMax="4.060544">
 					<IncludedMemoryFiles>
 						<File Id="62241169" Language="SFX">
 							<ShortName>surface_hits_main_soft_01.wav</ShortName>
@@ -5913,7 +5913,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="214565690" Name="hits_surface_hits_medium_hit_ground_fougasse_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_ground_fougasse_medium">
+				<Event Id="214565690" Name="hits_surface_hits_medium_hit_ground_fougasse_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_ground_fougasse_medium" DurationType="OneShot" DurationMin="4.382721" DurationMax="5.029977">
 					<IncludedMemoryFiles>
 						<File Id="463627376" Language="SFX">
 							<ShortName>surface_hits_ground_fall_03.wav</ShortName>
@@ -5937,7 +5937,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1599553472" Name="hits_surface_hits_medium_hit_ground_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_ground_medium">
+				<Event Id="1599553472" Name="hits_surface_hits_medium_hit_ground_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_ground_medium" DurationType="OneShot" DurationMin="4.382721" DurationMax="5.029977">
 					<IncludedMemoryFiles>
 						<File Id="212203353" Language="SFX">
 							<ShortName>surface_hits_medium_soft_02.wav</ShortName>
@@ -5969,7 +5969,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1557366984" Name="hits_surface_hits_medium_hit_metal_fougasse_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_metal_fougasse_medium">
+				<Event Id="1557366984" Name="hits_surface_hits_medium_hit_metal_fougasse_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_metal_fougasse_medium" DurationType="OneShot" DurationMin="3.095979" DurationMax="3.095979">
 					<IncludedMemoryFiles>
 						<File Id="219239095" Language="SFX">
 							<ShortName>surface_hits_metal_fall_02.wav</ShortName>
@@ -5993,7 +5993,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3721133378" Name="hits_surface_hits_medium_hit_metal_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_metal_medium">
+				<Event Id="3721133378" Name="hits_surface_hits_medium_hit_metal_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_metal_medium" DurationType="OneShot" DurationMin="1.985261" DurationMax="2.722494">
 					<IncludedMemoryFiles>
 						<File Id="212203353" Language="SFX">
 							<ShortName>surface_hits_medium_soft_02.wav</ShortName>
@@ -6025,7 +6025,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="813203505" Name="hits_surface_hits_medium_hit_sand_fougasse_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_sand_fougasse_medium">
+				<Event Id="813203505" Name="hits_surface_hits_medium_hit_sand_fougasse_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_sand_fougasse_medium" DurationType="OneShot" DurationMin="5.166395" DurationMax="5.720771">
 					<IncludedMemoryFiles>
 						<File Id="47219425" Language="SFX">
 							<ShortName>surface_hits_sand_fall_01.wav</ShortName>
@@ -6049,7 +6049,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3640768493" Name="hits_surface_hits_medium_hit_sand_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_sand_medium">
+				<Event Id="3640768493" Name="hits_surface_hits_medium_hit_sand_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_sand_medium" DurationType="OneShot" DurationMin="5.166395" DurationMax="5.720771">
 					<IncludedMemoryFiles>
 						<File Id="47219425" Language="SFX">
 							<ShortName>surface_hits_sand_fall_01.wav</ShortName>
@@ -6081,7 +6081,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1334927622" Name="hits_surface_hits_medium_hit_snow_fougasse_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_snow_fougasse_medium">
+				<Event Id="1334927622" Name="hits_surface_hits_medium_hit_snow_fougasse_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_snow_fougasse_medium" DurationType="OneShot" DurationMin="4.890657" DurationMax="5.535011">
 					<IncludedMemoryFiles>
 						<File Id="253405446" Language="SFX">
 							<ShortName>surface_hits_snow_fall_01.wav</ShortName>
@@ -6105,7 +6105,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2810924148" Name="hits_surface_hits_medium_hit_snow_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_snow_medium">
+				<Event Id="2810924148" Name="hits_surface_hits_medium_hit_snow_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_snow_medium" DurationType="OneShot" DurationMin="4.890657" DurationMax="5.535011">
 					<IncludedMemoryFiles>
 						<File Id="212203353" Language="SFX">
 							<ShortName>surface_hits_medium_soft_02.wav</ShortName>
@@ -6137,7 +6137,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="42589790" Name="hits_surface_hits_medium_hit_stone_fougasse_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_stone_fougasse_medium">
+				<Event Id="42589790" Name="hits_surface_hits_medium_hit_stone_fougasse_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_stone_fougasse_medium" DurationType="OneShot" DurationMin="3.921225" DurationMax="4.658458">
 					<IncludedMemoryFiles>
 						<File Id="212203353" Language="SFX">
 							<ShortName>surface_hits_medium_soft_02.wav</ShortName>
@@ -6169,7 +6169,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1561413116" Name="hits_surface_hits_medium_hit_stone_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_stone_medium">
+				<Event Id="1561413116" Name="hits_surface_hits_medium_hit_stone_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_stone_medium" DurationType="OneShot" DurationMin="3.921225" DurationMax="4.658458">
 					<IncludedMemoryFiles>
 						<File Id="484415001" Language="SFX">
 							<ShortName>surface_hits_fougasse_medium_hard.wav</ShortName>
@@ -6193,7 +6193,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="615773516" Name="hits_surface_hits_medium_hit_water_fougasse_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_water_fougasse_medium">
+				<Event Id="615773516" Name="hits_surface_hits_medium_hit_water_fougasse_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_water_fougasse_medium" DurationType="OneShot" DurationMin="3.413288" DurationMax="6.135828">
 					<IncludedMemoryFiles>
 						<File Id="239410260" Language="SFX">
 							<ShortName>surface_hits_water_fall_01.wav</ShortName>
@@ -6217,7 +6217,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3745049550" Name="hits_surface_hits_medium_hit_water_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_water_medium">
+				<Event Id="3745049550" Name="hits_surface_hits_medium_hit_water_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_water_medium" DurationType="OneShot" DurationMin="3.413288" DurationMax="6.135828">
 					<IncludedMemoryFiles>
 						<File Id="212203353" Language="SFX">
 							<ShortName>surface_hits_medium_soft_02.wav</ShortName>
@@ -6249,7 +6249,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="599625732" Name="hits_surface_hits_medium_hit_wood_fougasse_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_wood_fougasse_medium">
+				<Event Id="599625732" Name="hits_surface_hits_medium_hit_wood_fougasse_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_wood_fougasse_medium" DurationType="OneShot" DurationMin="3.784807" DurationMax="4.060544">
 					<IncludedMemoryFiles>
 						<File Id="166769676" Language="SFX">
 							<ShortName>surface_hits_wood_fall_01.wav</ShortName>
@@ -6273,7 +6273,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="613003318" Name="hits_surface_hits_medium_hit_wood_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_wood_medium">
+				<Event Id="613003318" Name="hits_surface_hits_medium_hit_wood_medium" ObjectPath="\Events\Hits\Surface\medium\hits_surface_hits_medium_hit_wood_medium" DurationType="OneShot" DurationMin="3.784807" DurationMax="4.060544">
 					<IncludedMemoryFiles>
 						<File Id="166769676" Language="SFX">
 							<ShortName>surface_hits_wood_fall_01.wav</ShortName>
@@ -6305,7 +6305,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2701423366" Name="hits_surface_hits_small_hit_ground_fougasse_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_ground_fougasse_small">
+				<Event Id="2701423366" Name="hits_surface_hits_small_hit_ground_fougasse_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_ground_fougasse_small" DurationType="OneShot" DurationMin="4.382721" DurationMax="5.029977">
 					<IncludedMemoryFiles>
 						<File Id="324900531" Language="SFX">
 							<ShortName>surface_hits_fougasse_small_soft.wav</ShortName>
@@ -6329,7 +6329,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="135444848" Name="hits_surface_hits_small_hit_ground_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_ground_small">
+				<Event Id="135444848" Name="hits_surface_hits_small_hit_ground_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_ground_small" DurationType="OneShot" DurationMin="4.382721" DurationMax="5.029977">
 					<IncludedMemoryFiles>
 						<File Id="243132263" Language="SFX">
 							<ShortName>surface_hits_small_hard_02.wav</ShortName>
@@ -6361,7 +6361,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3568424088" Name="hits_surface_hits_small_hit_metal_fougasse_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_metal_fougasse_small">
+				<Event Id="3568424088" Name="hits_surface_hits_small_hit_metal_fougasse_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_metal_fougasse_small" DurationType="OneShot" DurationMin="1.985261" DurationMax="2.722494">
 					<IncludedMemoryFiles>
 						<File Id="219239095" Language="SFX">
 							<ShortName>surface_hits_metal_fall_02.wav</ShortName>
@@ -6385,7 +6385,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2872643614" Name="hits_surface_hits_small_hit_metal_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_metal_small">
+				<Event Id="2872643614" Name="hits_surface_hits_small_hit_metal_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_metal_small" DurationType="OneShot" DurationMin="1.985261" DurationMax="2.722494">
 					<IncludedMemoryFiles>
 						<File Id="219239095" Language="SFX">
 							<ShortName>surface_hits_metal_fall_02.wav</ShortName>
@@ -6417,7 +6417,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="918911771" Name="hits_surface_hits_small_hit_sand_fougasse_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_sand_fougasse_small">
+				<Event Id="918911771" Name="hits_surface_hits_small_hit_sand_fougasse_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_sand_fougasse_small" DurationType="OneShot" DurationMin="5.166395" DurationMax="5.720771">
 					<IncludedMemoryFiles>
 						<File Id="47219425" Language="SFX">
 							<ShortName>surface_hits_sand_fall_01.wav</ShortName>
@@ -6441,7 +6441,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2254992091" Name="hits_surface_hits_small_hit_sand_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_sand_small">
+				<Event Id="2254992091" Name="hits_surface_hits_small_hit_sand_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_sand_small" DurationType="OneShot" DurationMin="5.166395" DurationMax="5.720771">
 					<IncludedMemoryFiles>
 						<File Id="47219425" Language="SFX">
 							<ShortName>surface_hits_sand_fall_01.wav</ShortName>
@@ -6473,7 +6473,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2315090866" Name="hits_surface_hits_small_hit_snow_fougasse_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_snow_fougasse_small">
+				<Event Id="2315090866" Name="hits_surface_hits_small_hit_snow_fougasse_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_snow_fougasse_small" DurationType="OneShot" DurationMin="4.890657" DurationMax="5.535011">
 					<IncludedMemoryFiles>
 						<File Id="253405446" Language="SFX">
 							<ShortName>surface_hits_snow_fall_01.wav</ShortName>
@@ -6497,7 +6497,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1746708036" Name="hits_surface_hits_small_hit_snow_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_snow_small">
+				<Event Id="1746708036" Name="hits_surface_hits_small_hit_snow_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_snow_small" DurationType="OneShot" DurationMin="4.890657" DurationMax="5.535011">
 					<IncludedMemoryFiles>
 						<File Id="243132263" Language="SFX">
 							<ShortName>surface_hits_small_hard_02.wav</ShortName>
@@ -6529,7 +6529,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3338803994" Name="hits_surface_hits_small_hit_stone_fougasse_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_stone_fougasse_small">
+				<Event Id="3338803994" Name="hits_surface_hits_small_hit_stone_fougasse_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_stone_fougasse_small" DurationType="OneShot" DurationMin="3.921225" DurationMax="4.658458">
 					<IncludedMemoryFiles>
 						<File Id="243132263" Language="SFX">
 							<ShortName>surface_hits_small_hard_02.wav</ShortName>
@@ -6561,7 +6561,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1391589212" Name="hits_surface_hits_small_hit_stone_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_stone_small">
+				<Event Id="1391589212" Name="hits_surface_hits_small_hit_stone_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_stone_small" DurationType="OneShot" DurationMin="3.921225" DurationMax="4.658458">
 					<IncludedMemoryFiles>
 						<File Id="324900531" Language="SFX">
 							<ShortName>surface_hits_fougasse_small_soft.wav</ShortName>
@@ -6585,7 +6585,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1690604260" Name="hits_surface_hits_small_hit_water_fougasse_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_water_fougasse_small">
+				<Event Id="1690604260" Name="hits_surface_hits_small_hit_water_fougasse_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_water_fougasse_small" DurationType="OneShot" DurationMin="3.413288" DurationMax="6.135828">
 					<IncludedMemoryFiles>
 						<File Id="239410260" Language="SFX">
 							<ShortName>surface_hits_water_fall_01.wav</ShortName>
@@ -6609,7 +6609,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="692515682" Name="hits_surface_hits_small_hit_water_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_water_small">
+				<Event Id="692515682" Name="hits_surface_hits_small_hit_water_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_water_small" DurationType="OneShot" DurationMin="3.413288" DurationMax="6.135828">
 					<IncludedMemoryFiles>
 						<File Id="239410260" Language="SFX">
 							<ShortName>surface_hits_water_fall_01.wav</ShortName>
@@ -6641,7 +6641,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="3453689796" Name="hits_surface_hits_small_hit_wood_fougasse_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_wood_fougasse_small">
+				<Event Id="3453689796" Name="hits_surface_hits_small_hit_wood_fougasse_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_wood_fougasse_small" DurationType="OneShot" DurationMin="3.784807" DurationMax="4.060544">
 					<IncludedMemoryFiles>
 						<File Id="166769676" Language="SFX">
 							<ShortName>surface_hits_wood_fall_01.wav</ShortName>
@@ -6665,7 +6665,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="2023146754" Name="hits_surface_hits_small_hit_wood_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_wood_small">
+				<Event Id="2023146754" Name="hits_surface_hits_small_hit_wood_small" ObjectPath="\Events\Hits\Surface\small\hits_surface_hits_small_hit_wood_small" DurationType="OneShot" DurationMin="3.784807" DurationMax="4.060544">
 					<IncludedMemoryFiles>
 						<File Id="166769676" Language="SFX">
 							<ShortName>surface_hits_wood_fall_01.wav</ShortName>
@@ -6697,7 +6697,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="394955153" Name="RXD_DEV" ObjectPath="\Events\Hits\RXD_DEV">
+				<Event Id="394955153" Name="RXD_DEV" ObjectPath="\Events\Hits\RXD_DEV" DurationType="OneShot" DurationMin="1.471875" DurationMax="1.471875">
 					<IncludedMemoryFiles>
 						<File Id="200535613" Language="SFX">
 							<ShortName>RXD.DEV.wav</ShortName>
