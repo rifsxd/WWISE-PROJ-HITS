@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
 	<RootPaths>
-		<ProjectRoot>E:\GitHub\WWISE-PROJECT-HITS-STOCK-EVENTS\</ProjectRoot>
-		<SourceFilesRoot>E:\GitHub\WWISE-PROJECT-HITS-STOCK-EVENTS\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>E:\GitHub\WWISE-PROJECT-HITS-STOCK-EVENTS\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>E:\GitHub\WWISE-PROJ-HITS\</ProjectRoot>
+		<SourceFilesRoot>E:\GitHub\WWISE-PROJ-HITS\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>E:\GitHub\WWISE-PROJ-HITS\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>E:\GitHub\WWISE-PROJECT-HITS-STOCK-EVENTS\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>E:\GitHub\WWISE-PROJ-HITS\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -16,7 +16,7 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="1755722466" Language="SFX" Hash="3305245125">
+		<SoundBank Id="1755722466" Language="SFX" Hash="3720142119">
 			<ObjectPath>\SoundBanks\Default Work Unit\RXD\RXD_HITS_SFX</ObjectPath>
 			<ShortName>RXD_HITS_SFX</ShortName>
 			<Path>RXD_HITS_SFX.bnk</Path>

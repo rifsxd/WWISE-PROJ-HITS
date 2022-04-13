@@ -5,11 +5,11 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "135",
   "RootPaths": {
-   "ProjectRoot": "E:\\GitHub\\WWISE-PROJECT-HITS-STOCK-EVENTS\\",
-   "SourceFilesRoot": "E:\\GitHub\\WWISE-PROJECT-HITS-STOCK-EVENTS\\.cache\\Windows\\",
-   "SoundBanksRoot": "E:\\GitHub\\WWISE-PROJECT-HITS-STOCK-EVENTS\\GeneratedSoundBanks\\Windows\\",
+   "ProjectRoot": "E:\\GitHub\\WWISE-PROJ-HITS\\",
+   "SourceFilesRoot": "E:\\GitHub\\WWISE-PROJ-HITS\\.cache\\Windows\\",
+   "SoundBanksRoot": "E:\\GitHub\\WWISE-PROJ-HITS\\GeneratedSoundBanks\\Windows\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "E:\\GitHub\\WWISE-PROJECT-HITS-STOCK-EVENTS\\GeneratedSoundBanks\\Windows"
+   "ExternalSourcesOutputRoot": "E:\\GitHub\\WWISE-PROJ-HITS\\GeneratedSoundBanks\\Windows"
   },
   "DialogueEvents": [],
   "StreamedFiles": [],
@@ -26,7 +26,7 @@
    {
     "Id": "1755722466",
     "Language": "SFX",
-    "Hash": "3305245125",
+    "Hash": "3720142119",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD\\RXD_HITS_SFX",
     "ShortName": "RXD_HITS_SFX",
     "Path": "RXD_HITS_SFX.bnk",

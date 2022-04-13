@@ -24615,6 +24615,27 @@
 									</ChildrenList>
 								</ActorMixer>
 							</ChildrenList>
+							<StateInfo>
+								<StateGroupList>
+									<StateGroupInfo>
+										<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
+									</StateGroupInfo>
+								</StateGroupList>
+								<CustomStateList>
+									<CustomState>
+										<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
+										<CustomState Name="" ID="{D0ED825C-9EBA-458B-B812-29BD428E898E}" ShortID="5146734">
+											<PropertyList>
+												<Property Name="Lowpass" Type="int16" Value="40"/>
+											</PropertyList>
+										</CustomState>
+									</CustomState>
+									<CustomState>
+										<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
+										<CustomState Name="" ID="{A4BB09BD-8DD0-47DB-A7D6-6FC409916D17}" ShortID="375720075"/>
+									</CustomState>
+								</CustomStateList>
+							</StateInfo>
 						</ActorMixer>
 						<ActorMixer Name="Other_vehicle" ID="{F97C6697-7198-43DD-8BF9-A7D04179C130}" ShortID="432446576">
 							<PropertyList>

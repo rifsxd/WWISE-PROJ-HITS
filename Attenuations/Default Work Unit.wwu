@@ -94,7 +94,7 @@
 				</Attenuation>
 				<Attenuation Name="NPC_HITS" ID="{3EAD5F27-9A64-48C1-A9C6-ECF860AC2485}" ShortID="303983645">
 					<PropertyList>
-						<Property Name="RadiusMax" Type="Real64" Value="550"/>
+						<Property Name="RadiusMax" Type="Real64" Value="600"/>
 					</PropertyList>
 					<CurveUsageInfoList>
 						<VolumeDryUsage>
@@ -111,19 +111,19 @@
 											<SegmentShape>Log1</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>150</XPos>
+											<XPos>163.636363636364</XPos>
 											<YPos>-100</YPos>
 											<Flags>0</Flags>
 											<SegmentShape>Log1</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>308</XPos>
+											<XPos>336</XPos>
 											<YPos>-200</YPos>
 											<Flags>0</Flags>
 											<SegmentShape>Exp1</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>550</XPos>
+											<XPos>600</XPos>
 											<YPos>-200</YPos>
 											<Flags>37</Flags>
 										</Point>
@@ -153,7 +153,7 @@
 				</Attenuation>
 				<Attenuation Name="PC_HITS" ID="{7AAF3FD0-8D0A-41AC-8612-585DB1AAC427}" ShortID="513448900">
 					<PropertyList>
-						<Property Name="RadiusMax" Type="Real64" Value="120"/>
+						<Property Name="RadiusMax" Type="Real64" Value="600"/>
 					</PropertyList>
 					<CurveUsageInfoList>
 						<VolumeDryUsage>
@@ -167,15 +167,22 @@
 											<XPos>0</XPos>
 											<YPos>0</YPos>
 											<Flags>5</Flags>
+											<SegmentShape>Log1</SegmentShape>
+										</Point>
+										<Point>
+											<XPos>163.636</XPos>
+											<YPos>-100</YPos>
+											<Flags>0</Flags>
+											<SegmentShape>Log1</SegmentShape>
+										</Point>
+										<Point>
+											<XPos>336</XPos>
+											<YPos>-200</YPos>
+											<Flags>0</Flags>
 											<SegmentShape>SCurve</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>70</XPos>
-											<YPos>-39</YPos>
-											<Flags>0</Flags>
-										</Point>
-										<Point>
-											<XPos>120</XPos>
+											<XPos>600</XPos>
 											<YPos>-200</YPos>
 											<Flags>37</Flags>
 										</Point>
@@ -205,7 +212,7 @@
 				</Attenuation>
 				<Attenuation Name="NPC_HITS_MID" ID="{189155EC-5883-4372-BF1C-FEF883392605}" ShortID="438659796">
 					<PropertyList>
-						<Property Name="RadiusMax" Type="Real64" Value="550"/>
+						<Property Name="RadiusMax" Type="Real64" Value="600"/>
 					</PropertyList>
 					<CurveUsageInfoList>
 						<VolumeDryUsage>
@@ -222,31 +229,31 @@
 											<SegmentShape>Exp1</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>140</XPos>
+											<XPos>152.727272727273</XPos>
 											<YPos>-200</YPos>
 											<Flags>0</Flags>
 											<SegmentShape>Exp1</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>150</XPos>
+											<XPos>163.636363636364</XPos>
 											<YPos>-1</YPos>
 											<Flags>0</Flags>
 											<SegmentShape>Log1</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>350</XPos>
+											<XPos>381.818181818182</XPos>
 											<YPos>-1</YPos>
 											<Flags>0</Flags>
 											<SegmentShape>Log1</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>360</XPos>
+											<XPos>392.727272727273</XPos>
 											<YPos>-200</YPos>
 											<Flags>0</Flags>
 											<SegmentShape>Exp1</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>550</XPos>
+											<XPos>600</XPos>
 											<YPos>-45</YPos>
 											<Flags>37</Flags>
 										</Point>
@@ -276,7 +283,7 @@
 				</Attenuation>
 				<Attenuation Name="NPC_HITS_FAR" ID="{50485955-BE83-4C6F-BCB5-B77D933E3C2A}" ShortID="192400095">
 					<PropertyList>
-						<Property Name="RadiusMax" Type="Real64" Value="550"/>
+						<Property Name="RadiusMax" Type="Real64" Value="600"/>
 					</PropertyList>
 					<CurveUsageInfoList>
 						<VolumeDryUsage>
@@ -293,30 +300,30 @@
 											<SegmentShape>Exp1</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>0.0055</XPos>
+											<XPos>0.006</XPos>
 											<YPos>-200</YPos>
 											<Flags>0</Flags>
 											<SegmentShape>Exp1</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>340</XPos>
+											<XPos>370.909090909091</XPos>
 											<YPos>-200</YPos>
 											<Flags>0</Flags>
 											<SegmentShape>Exp1</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>350</XPos>
+											<XPos>381.818181818182</XPos>
 											<YPos>-2</YPos>
 											<Flags>0</Flags>
 											<SegmentShape>Exp1</SegmentShape>
 										</Point>
 										<Point>
-											<XPos>549.999</XPos>
+											<XPos>599.998909090909</XPos>
 											<YPos>-2</YPos>
 											<Flags>0</Flags>
 										</Point>
 										<Point>
-											<XPos>550</XPos>
+											<XPos>600</XPos>
 											<YPos>-200</YPos>
 											<Flags>37</Flags>
 										</Point>
