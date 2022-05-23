@@ -16,6 +16,20 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{65CB6001-7E5A-4E92-80B2-AD7E5CE53D86}" ShortID="427399424">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{604DA22D-2A00-4C6E-BF11-8262E10A6F2B}" ShortID="532015291">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_npc_ap_ap_armor_not_pierce_large" ID="{B023A760-12A1-45F0-9151-AD5F59A72974}">
@@ -28,6 +42,20 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="AP_115_152mm_NPC_貫通" ID="{A6076288-DB33-4A2C-8EEB-AF11BB360F0D}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{CE7B6877-A5E2-4237-AB75-FBD739E95815}" ShortID="280778677">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{3157BEFE-668D-4F17-BBBE-DE093CCA599A}" ShortID="414119325">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -46,6 +74,20 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{913BB302-DAE3-44D1-A2D4-A0A6DEE94191}" ShortID="191297727">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{807E2D04-C75C-4C14-91C7-FE27EF4EAD62}" ShortID="596403226">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_npc_ap_ap_armor_not_pierce_medium" ID="{EDFF23B4-EF85-4863-BAE2-A141BEDA8F3E}">
@@ -61,6 +103,20 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{EDFF106E-CAE3-4160-A41D-BCE6213A2D72}" ShortID="926801833">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{E48B5C73-690B-4F0E-A2C1-289B2151B487}" ShortID="499663521">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_npc_ap_ap_armor_not_pierce_small" ID="{BD47A1DC-F6F6-4259-A313-4F4F5B756A63}">
@@ -73,6 +129,20 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="AP_12_45mm_NPC_NOT_PIERCE" ID="{A5EF8CF9-7C40-40F8-AD50-E5B525F04104}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{65868C11-F274-4D8B-899B-DD756008EE33}" ShortID="688539627">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{286AAB3D-9B41-44C8-A44A-28994BBDD755}" ShortID="747352096">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -381,6 +451,20 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{C391FD9B-064B-46FC-8496-6C5D54988B55}" ShortID="1020002926">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{0EF2D4D3-378F-4B61-BA49-CEE912F5B076}" ShortID="112279931">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_npc_ap_ap_ricochet_large" ID="{F33C53CE-6FE7-4AEF-8142-FDA3530050B7}">
@@ -393,6 +477,20 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="AP_115_152mm_NPC_非貫通" ID="{603533C4-1D4D-41E3-9C60-6FC8EC65FB94}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{E16F6765-3AAA-40C7-84B5-81C982049A2A}" ShortID="915254819">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{DA3D9614-37EB-46DA-8D24-9A7A394E86B3}" ShortID="538117452">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -411,6 +509,20 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{768610C7-10E4-44F7-A1A6-D60B982E2FC2}" ShortID="769792799">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{B7F7538E-721D-4313-8AC9-FB3F7E96683B}" ShortID="301376027">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_npc_ap_ap_ricochet_medium" ID="{1B628366-5C43-48C5-9103-E0D8824B34E2}">
@@ -423,6 +535,20 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="AP_50_75mm_NPC_非貫通" ID="{64EEBE99-AB36-4C8C-B5D7-7BB1722C1EC1}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{1119FDAB-1CEE-4DD5-80DE-60E555EC5B55}" ShortID="410856057">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{6008B919-5CAD-4A37-8BB9-C61D2F2559D1}" ShortID="45841681">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -441,6 +567,20 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{41CC2DE3-3528-4F9F-B0C3-10BE297680A9}" ShortID="342239125">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{E1BBBD1C-C0A7-4355-8DAD-4B9F978013FA}" ShortID="374929674">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_npc_apcr_apcr_armor_not_pierce_huge" ID="{CE193153-1C39-439A-AA59-3F5979FC3990}">
@@ -453,6 +593,20 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="APCR_152mm_NPC_非貫通" ID="{359E9F95-41CB-479B-A670-1395FEA1ECDB}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{AECB5743-451B-4501-B1FD-57D15572560F}" ShortID="370605147">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{0F336261-5E65-40C5-8C7F-E102E00C255F}" ShortID="248205758">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -471,6 +625,20 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{473F6B67-EC7E-4D02-A69F-DF0BD240A392}" ShortID="424104288">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{7EA9FF9C-B72C-4832-91C4-221AF3F27E07}" ShortID="467106373">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_npc_apcr_apcr_armor_not_pierce_main" ID="{FE08F517-A0F9-40C6-B033-301371E69E9F}">
@@ -483,6 +651,20 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="APCR_85_107mm_NPC_非貫通" ID="{F63C0D12-CCE2-4BCE-9137-AE4F52238EBC}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{F7E1D0DB-FC61-4E82-9AEF-A6FE3839CAFE}" ShortID="996680653">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{8E38C496-0A4B-416A-8667-0F82280D570C}" ShortID="973796888">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -501,6 +683,20 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{27DC69DE-EC14-4ED3-B089-BE6761907AFB}" ShortID="864163408">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{776D713A-7F4D-4EA5-981D-04C2C465A2FB}" ShortID="850224809">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_npc_apcr_apcr_armor_not_pierce_small" ID="{C484194E-5758-4EA9-AF4C-ED9443C8DCE0}">
@@ -513,6 +709,20 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="APCR_12_45mm_NPC_非貫通" ID="{86E1F19F-F30D-463E-9BF2-87A2540A487B}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{9DD26302-E898-4D3F-B9D9-D0A9CDD28CA2}" ShortID="530416985">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{22E14CE3-4AFA-4CD8-9776-CE9D63130D20}" ShortID="734880910">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -531,6 +741,20 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{8DEECDAD-1A29-49E6-A41C-8854CCF0868B}" ShortID="719047212">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{3A494026-1E5E-4329-8A3D-5C10CA5DF477}" ShortID="937904179">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_npc_apcr_apcr_ricochet_large" ID="{DF574C29-F58E-43B1-B2C0-08E4750C46ED}">
@@ -543,6 +767,20 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="APCR_115_152mm_NPC_跳弾" ID="{9DFCD5F4-FED7-4CB2-A633-D06E62E2AD68}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{714CE240-0445-45F5-BBD3-E73D2CB02A90}" ShortID="990004337">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{CF71DD62-F8E4-4180-97B1-4FB03BA09BF6}" ShortID="443643435">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -561,6 +799,20 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{9885DF58-B543-4D3F-AC47-A905E005ABBF}" ShortID="705470591">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{1B497542-CC5F-4FC4-AFED-7C0C174A60C8}" ShortID="890957734">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_npc_apcr_apcr_ricochet_medium" ID="{96C27C01-07CF-4FE9-A1FB-2883C4723738}">
@@ -576,6 +828,20 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{C1C4465B-4389-4A15-8B15-5C6DAF7958B7}" ShortID="522897709">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{9EB4801A-403E-4360-AC3F-EF9A2A2FECFC}" ShortID="296675579">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_npc_apcr_apcr_ricochet_small" ID="{6081A79E-CEB9-4AD0-B52E-81FADEF93708}">
@@ -588,6 +854,20 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="APCR_12_45mm_NPC_跳弾" ID="{C9C88535-310B-476C-AE3E-529EF7C04835}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{67568940-3705-416D-A37E-575B8A68390E}" ShortID="1050893553">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FAR_EXP_TRAIL" ID="{8FB5CF3D-B3A0-4019-85D8-E6C869B87E91}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{370E6FC5-8EF2-4D05-8E64-A3EFD6FA1598}" ShortID="519474059">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MID_EXP_TRAIL" ID="{923A5467-A07C-466E-8161-584326EC33AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
