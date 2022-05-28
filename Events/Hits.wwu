@@ -17,6 +17,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<WorkUnit Name="Death" ID="{51934CA4-FF61-426D-845A-E60D6C927013}" PersistMode="Reference"/>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{51934CA4-FF61-426D-845A-E60D6C927013}" SchemaVersion="97" RootDocumentID="{5D196377-55B1-4B35-B61E-70B8120B1A9C}">
+	<Events>
+		<WorkUnit Name="Death" ID="{51934CA4-FF61-426D-845A-E60D6C927013}" OwnerID="{5D196377-55B1-4B35-B61E-70B8120B1A9C}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="hits_tank_death_tank_death" ID="{6B591F6A-75F0-404B-BA3B-01552130A424}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="10"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Action Name="" ID="{18261DCD-D1E4-434D-BA97-DF54F3CCCC2D}" ShortID="328253512">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="exp" ID="{2F4FD4CA-CCC9-4FAF-982C-974B62944693}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{4C152AB0-48D3-45FB-99E7-600CCCC0EFC1}" ShortID="363334085">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="notif" ID="{129228B7-120A-4517-914C-7CFF87DBA671}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{2E26B2EE-3BA6-4E6B-A527-D74DA6497E8A}" ShortID="431601306">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="fire" ID="{AA7049BD-D4CE-4A66-BBB8-23E0E27A5F9C}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

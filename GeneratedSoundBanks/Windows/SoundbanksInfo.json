@@ -26,7 +26,7 @@
    {
     "Id": "1755722466",
     "Language": "SFX",
-    "Hash": "349119873",
+    "Hash": "3829739374",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD\\RXD_HITS_SFX",
     "ShortName": "RXD_HITS_SFX",
     "Path": "RXD_HITS_SFX.bnk",
@@ -12610,6 +12610,106 @@
         "Language": "SFX",
         "ShortName": "surface_hits_wood_fall_02.wav",
         "Path": "SFX\\surface_hits_wood_fall_02_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "4190973283",
+      "Name": "hits_tank_death_tank_death",
+      "ObjectPath": "\\Events\\Hits\\Death\\hits_tank_death_tank_death",
+      "DurationType": "OneShot",
+      "DurationMin": "5.635193",
+      "DurationMax": "8.524",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "36413072",
+        "Language": "SFX",
+        "ShortName": "856424775.wav",
+        "Path": "SFX\\856424775_3F75BDB9.wem"
+       },
+       {
+        "Id": "55960762",
+        "Language": "SFX",
+        "ShortName": "567248074.wav",
+        "Path": "SFX\\567248074_3F75BDB9.wem"
+       },
+       {
+        "Id": "65885025",
+        "Language": "SFX",
+        "ShortName": "944604420.wav",
+        "Path": "SFX\\944604420_3F75BDB9.wem"
+       },
+       {
+        "Id": "238776958",
+        "Language": "SFX",
+        "ShortName": "742256595.wav",
+        "Path": "SFX\\742256595_3F75BDB9.wem"
+       },
+       {
+        "Id": "320451901",
+        "Language": "SFX",
+        "ShortName": "108196278.wav",
+        "Path": "SFX\\108196278_3F75BDB9.wem"
+       },
+       {
+        "Id": "402735559",
+        "Language": "SFX",
+        "ShortName": "503756698.wav",
+        "Path": "SFX\\503756698_3F75BDB9.wem"
+       },
+       {
+        "Id": "532001944",
+        "Language": "SFX",
+        "ShortName": "1014878322.wav",
+        "Path": "SFX\\1014878322_3F75BDB9.wem"
+       },
+       {
+        "Id": "540116545",
+        "Language": "SFX",
+        "ShortName": "1006504504.wav",
+        "Path": "SFX\\1006504504_3F75BDB9.wem"
+       },
+       {
+        "Id": "625067878",
+        "Language": "SFX",
+        "ShortName": "12033884.wav",
+        "Path": "SFX\\12033884_3F75BDB9.wem"
+       },
+       {
+        "Id": "649083085",
+        "Language": "SFX",
+        "ShortName": "1043880000.wav",
+        "Path": "SFX\\1043880000_3F75BDB9.wem"
+       },
+       {
+        "Id": "740243813",
+        "Language": "SFX",
+        "ShortName": "261730316.wav",
+        "Path": "SFX\\261730316_3F75BDB9.wem"
+       },
+       {
+        "Id": "742976892",
+        "Language": "SFX",
+        "ShortName": "461260543.wav",
+        "Path": "SFX\\461260543_3F75BDB9.wem"
+       },
+       {
+        "Id": "749318361",
+        "Language": "SFX",
+        "ShortName": "189237590.wav",
+        "Path": "SFX\\189237590_3F75BDB9.wem"
+       },
+       {
+        "Id": "851411276",
+        "Language": "SFX",
+        "ShortName": "579543058.wav",
+        "Path": "SFX\\579543058_3F75BDB9.wem"
+       },
+       {
+        "Id": "892648199",
+        "Language": "SFX",
+        "ShortName": "71799816.wav",
+        "Path": "SFX\\71799816_3F75BDB9.wem"
        }
       ]
      },
