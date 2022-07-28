@@ -23,6 +23,16 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{F95AF248-4F57-4DA8-9DF4-B90F8036AA4D}" ShortID="344396329">
+							<PropertyList>
+								<Property Name="FadeInCurve" Type="int16" Value="6"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tinnitus" ID="{11AA8C3A-BB0B-419D-BD01-AFA03C3C6A3B}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_pc_hc_hc_critical_hit_huge" ID="{8E8B044D-D5A5-4B95-869E-EBF5F658D1AB}">
@@ -72,6 +82,16 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="HUGE_HE" ID="{52962387-2F51-4BC3-8714-BB1499ACC4FA}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{365D5065-79EC-4491-BAB0-0BA83614C3EE}" ShortID="512536032">
+							<PropertyList>
+								<Property Name="FadeInCurve" Type="int16" Value="6"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tinnitus" ID="{11AA8C3A-BB0B-419D-BD01-AFA03C3C6A3B}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -311,6 +331,16 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{F7FE4400-CA00-4338-A53F-51B2BEACAF21}" ShortID="571776495">
+							<PropertyList>
+								<Property Name="FadeInCurve" Type="int16" Value="6"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tinnitus" ID="{11AA8C3A-BB0B-419D-BD01-AFA03C3C6A3B}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_pc_ap_ap_ricochet_small" ID="{A64A1EB4-E546-473C-B97F-20671443EC9A}">
@@ -396,6 +426,16 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="APCR_152mm_PC_跳弾_Inside" ID="{18A5E6E4-E437-4B17-9044-E88F1C41782C}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{E291C69A-447A-485A-B812-CD0548C89A58}" ShortID="652537451">
+							<PropertyList>
+								<Property Name="FadeInCurve" Type="int16" Value="6"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tinnitus" ID="{11AA8C3A-BB0B-419D-BD01-AFA03C3C6A3B}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -553,6 +593,16 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{4A2EDD7D-4CAD-4FE8-AC03-7549D82B246C}" ShortID="691485857">
+							<PropertyList>
+								<Property Name="FadeInCurve" Type="int16" Value="6"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tinnitus" ID="{11AA8C3A-BB0B-419D-BD01-AFA03C3C6A3B}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_pc_hc_hc_armor_not_pierce_huge" ID="{DC7B53A5-04B6-4E84-9A1A-6622506F6288}">
@@ -595,6 +645,16 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{48503B94-4546-44D6-9F09-6414D10ED2A2}" ShortID="636675526">
+							<PropertyList>
+								<Property Name="FadeInCurve" Type="int16" Value="6"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tinnitus" ID="{11AA8C3A-BB0B-419D-BD01-AFA03C3C6A3B}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_pc_hc_hc_armor_pierce_huge" ID="{460726C6-63CB-4ED5-B1D1-073B4636ED40}">
@@ -634,6 +694,16 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="HUGE_HE" ID="{52962387-2F51-4BC3-8714-BB1499ACC4FA}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{8FBAC483-5C81-4023-A46B-1086D2E6A4BB}" ShortID="772050754">
+							<PropertyList>
+								<Property Name="FadeInCurve" Type="int16" Value="6"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tinnitus" ID="{11AA8C3A-BB0B-419D-BD01-AFA03C3C6A3B}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -698,6 +768,16 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="AP_152mm_PC_跳弾_Inside" ID="{4E98C5C6-8372-49A7-97B7-F3424116F560}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{48A3CA76-1DE3-4B5D-9317-66CAC1C24423}" ShortID="964833206">
+							<PropertyList>
+								<Property Name="FadeInCurve" Type="int16" Value="6"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tinnitus" ID="{11AA8C3A-BB0B-419D-BD01-AFA03C3C6A3B}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -1019,6 +1099,16 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{7086E510-34DC-4A6A-A251-BEA262E804B2}" ShortID="234255520">
+							<PropertyList>
+								<Property Name="FadeInCurve" Type="int16" Value="6"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tinnitus" ID="{11AA8C3A-BB0B-419D-BD01-AFA03C3C6A3B}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_pc_he_he_armor_not_pierce_huge" ID="{5DAE32C5-202C-421F-B305-AC6150193139}">
@@ -1048,6 +1138,16 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="HUGE_HE" ID="{52962387-2F51-4BC3-8714-BB1499ACC4FA}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{0B22A01F-9C0B-498B-85A3-A3BF1924F1D9}" ShortID="878241982">
+							<PropertyList>
+								<Property Name="FadeInCurve" Type="int16" Value="6"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tinnitus" ID="{11AA8C3A-BB0B-419D-BD01-AFA03C3C6A3B}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -1327,6 +1427,16 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{DF9FAE6E-9609-463E-8299-7612B0CDDAD2}" ShortID="467911045">
+							<PropertyList>
+								<Property Name="FadeInCurve" Type="int16" Value="6"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tinnitus" ID="{11AA8C3A-BB0B-419D-BD01-AFA03C3C6A3B}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 				<Event Name="hits_hits_tank_pc_ap_ap_armor_pierce_medium" ID="{D8A0D147-FD8A-4D84-8145-A09E1D0ABB53}">
@@ -1440,6 +1550,16 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="HUGE_HE" ID="{52962387-2F51-4BC3-8714-BB1499ACC4FA}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{530AD810-D6AD-4382-870F-04E5D7483234}" ShortID="38427774">
+							<PropertyList>
+								<Property Name="FadeInCurve" Type="int16" Value="6"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Tinnitus" ID="{11AA8C3A-BB0B-419D-BD01-AFA03C3C6A3B}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
