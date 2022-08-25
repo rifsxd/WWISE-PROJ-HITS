@@ -9,24 +9,12 @@
 						<Property Name="BelowThresholdBehavior" Type="int16" Value="1"/>
 						<Property Name="EnableDiffraction" Type="bool" Value="True"/>
 						<Property Name="HoldEmitterPositionOrientation" Type="bool" Value="True"/>
-						<Property Name="Pitch" Type="int32">
-							<ModifierList>
-								<ModifierInfo>
-									<Modifier Name="" ID="{0BC8AACF-5E4A-4CB0-806D-3D7F6F3599E4}">
-										<PropertyList>
-											<Property Name="Enabled" Type="bool" Value="True"/>
-											<Property Name="Min" Type="Real64" Value="-100"/>
-										</PropertyList>
-									</Modifier>
-								</ModifierInfo>
-							</ModifierList>
+						<Property Name="MakeUpGain" Type="Real64">
+							<ValueList>
+								<Value>-10</Value>
+							</ValueList>
 						</Property>
-						<Property Name="Volume" Type="Real64">
-							<ModifierList>
-								<ModifierInfo>
-									<Modifier Name="" ID="{E3C5594A-D637-4281-9766-E8FE8289B9AC}"/>
-								</ModifierInfo>
-							</ModifierList>
+						<Property Name="OutputBusVolume" Type="Real64">
 							<RTPCList>
 								<RTPC Name="" ID="{E4792FAA-D4D8-4C8D-AF36-E02C0D0CD688}" ShortID="72879079">
 									<ReferenceList>
@@ -54,6 +42,25 @@
 								</RTPC>
 							</RTPCList>
 						</Property>
+						<Property Name="Pitch" Type="int32">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{0BC8AACF-5E4A-4CB0-806D-3D7F6F3599E4}">
+										<PropertyList>
+											<Property Name="Enabled" Type="bool" Value="True"/>
+											<Property Name="Min" Type="Real64" Value="-100"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{E3C5594A-D637-4281-9766-E8FE8289B9AC}"/>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Attenuation">
@@ -63,7 +70,7 @@
 							<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
 						</Reference>
 						<Reference Name="OutputBus">
-							<ObjectRef Name="hits" ID="{64FFE453-94F4-49A1-8E26-BDA72273A2D2}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
