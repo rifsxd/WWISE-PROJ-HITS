@@ -421,29 +421,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{819805A3-3CFB-4EF6-959C-9C801E9CBC8D}" ShortID="347970176"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{2F687533-D4F3-4F19-9DD8-7B6FC6A302B3}" ShortID="327956681">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="AP_152mm_PC_Outside" ID="{2CC07BC2-DCB6-4785-ADA6-DE617679C9EB}" ShortID="55571944">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -1191,29 +1177,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{C9D89C89-0225-4013-A5FC-C21E5CE7565B}" ShortID="825833992"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{29905EB3-BE31-4EEA-8406-848AA4A1A360}" ShortID="419754065">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="AP_115_152mm_PC_Outside" ID="{D17E71B2-AACC-465D-8F8D-2DE2A0BA6065}" ShortID="83719705">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2005,29 +1977,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{46442DBD-2733-4D58-B477-644E8BC423F4}" ShortID="422872497"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{CD718780-4B51-4CE4-863D-DD076F536D21}" ShortID="28165909">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="AP_85_107mm_PC_Outside" ID="{3BD388B5-BB52-4B0B-AF65-26796FC4D89D}" ShortID="121965080">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -2931,29 +2889,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{1059935C-3E6A-407E-BD93-800B2E492965}" ShortID="350460236"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{890E0A08-2900-443D-B3D0-2D9B8711F073}" ShortID="509211292">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="AP_50_75mm_PC_Outside" ID="{A0F44ABE-2DE6-4B60-8F5B-63AE8440A888}" ShortID="256883652">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4027,29 +3971,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{A93134E5-90B4-4906-8555-DF3602C98CB0}" ShortID="866369642"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{BE55A2DA-A81F-4549-9E90-0638F52FFB4C}" ShortID="809818548">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="AP_12_45mm_PC_Outside" ID="{899B7883-E11F-4069-83C1-B2575A589E22}" ShortID="600007111">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -4817,29 +4747,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{0ACFC09A-C0B7-4AD5-936F-4C71CCA1CF55}" ShortID="679678241"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{78037433-60C9-40BF-8BD0-41D3B256BFA5}" ShortID="543209331">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="APCR_152mm_PC_Outside" ID="{59D4128A-D9FF-4783-BA05-96C51B081522}" ShortID="158327880">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5295,29 +5211,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{3151D164-0C98-422A-9156-433BFA6BE47B}" ShortID="672259963"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{76DEC7A8-CC39-474B-8D65-D87BAA39F79E}" ShortID="338715975">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="APCR_115_152mm_PC_Outside" ID="{3EE45D1A-58DF-49C4-AC73-EB3D4A0F7280}" ShortID="580032878">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -5795,29 +5697,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{670EB533-3F73-4CEB-ABEB-52C3772E7C87}" ShortID="498228162"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{A3C2F409-368E-4F3A-A8D9-00D491DBA3BB}" ShortID="636754333">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="APCR_85_107mm_PC_Outside" ID="{1491943B-64B2-44BE-8C9A-4B94DDF4E0AC}" ShortID="283957445">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6347,29 +6235,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{A612122F-6D3E-4E98-9511-18A91FF54DBC}" ShortID="512693389"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{A24CD6C2-EADD-4406-918C-D5414BF3311F}" ShortID="936833225">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="APCR_50_75mm_PC_Outside" ID="{46D527D3-5308-43D4-8BFB-467C7D0E9B4F}" ShortID="853314952">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -6929,29 +6803,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{61175FBB-9621-492C-9D13-7B34F7B1CFC6}" ShortID="899335978"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{861558BF-ACED-4791-8EFD-E2141CA28295}" ShortID="90777038">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="APCR_12_45mm_PC_Outside" ID="{AA131B7E-B7F6-41DE-8529-7F17D974521C}" ShortID="561997405">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -7524,29 +7384,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{23229E11-777F-4128-9E02-3F26ACAC52B9}" ShortID="675736116"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{2B71019F-6B7D-4480-B6A4-F4AFB9688438}" ShortID="727794023">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="HEAT_152mm_PC_Outside" ID="{61D53A37-1326-4EDB-99BA-B8EB4C50205D}" ShortID="285067360">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -8124,29 +7970,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{09E214E8-85EA-49D8-B2DB-0FA9B44FD8F4}" ShortID="671263414"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{F4D49782-6571-481C-A5E2-EE633A845A2B}" ShortID="386528640">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="HEAT_115_152mm_PC_Outside" ID="{142BF075-C317-44DB-928A-1621F1DDAB4D}" ShortID="204675359">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -8768,29 +8600,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{E034E889-098F-452F-A5C1-D6D4E346F8F2}" ShortID="67192047"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{2D040C99-9236-4143-89B7-E2ECE4A1573F}" ShortID="135822881">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="HEAT_85_107mm_PC_Outside" ID="{670D607C-77BB-4A81-9AA0-3FA8915185BF}" ShortID="191765031">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -9516,29 +9334,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{959AADE4-68B9-43F8-87FF-3E5BF8F6322E}" ShortID="1058364976"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{64093B41-F84E-42F4-B495-9C1D0B3C184C}" ShortID="136395305">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="HEAT_50_75mm_PC_Outside" ID="{D2474EF9-BC74-422A-B184-2EB4CEA42F8E}" ShortID="888015884">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -10324,29 +10128,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{D347CD7B-4265-45C8-B5BE-7AF21E53399D}" ShortID="1010539892"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{3CDBB61E-E236-4611-9D93-468FC81654EA}" ShortID="721792022">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="HEAT_12_45mm_PC_Outside" ID="{9DCC90B1-B2AC-4CE8-BD6C-3EFA40A10D8D}" ShortID="245986295">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -11044,29 +10834,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{28113D07-F7AF-44C4-88F3-8A7A06F3897F}" ShortID="551408929"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{EA8809F5-F892-43D8-9E48-ED9332DDAD93}" ShortID="90179662">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="HE_152mm_PC_Outside" ID="{71182D24-7CB0-4E56-8B2B-D941B276A792}" ShortID="591214667">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -11732,29 +11508,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{65C1E96A-382A-49F8-B02D-E280EF35EBBB}" ShortID="988990338"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{9D754D22-A2C7-41BF-BAE1-B9A9F5EED523}" ShortID="652837696">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="HE_50_75mm_PC_Outside" ID="{B5A7E18C-E8E0-4184-BB33-5D16B0479308}" ShortID="609048595">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -12540,29 +12302,15 @@
 													</ReferenceList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{71526186-9E31-48D8-93B9-F3BA94332E2D}" ShortID="602900436"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{DA8CBE2E-EAAE-465A-9FDF-5CAC8416DBF7}" ShortID="320906047">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="HE_12_45mm_PC_Outside" ID="{5DF0A651-2EBF-43AF-A6AB-09AA0A728ECB}" ShortID="937043659">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -13282,29 +13030,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{F691DC81-DFC6-4A1F-974A-E0B371755F72}" ShortID="289739314"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{C7DACC73-6E3E-4622-8EF0-19566131FB5E}" ShortID="845817519">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="HE_85_107mm_PC_Outside" ID="{E163E3E5-E1A0-4B01-B4C7-74FAEEE551C4}" ShortID="832751226">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -14024,29 +13758,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{3B2CABC5-24EB-4FA3-BD5C-C81631A5AFCF}" ShortID="537354961"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{C9893F56-7B29-405F-8E50-4B66A539C0CF}" ShortID="995835653">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="HE_115_152mm_PC_Outside" ID="{A21C4142-9E67-4DB6-A47A-3A2C7B5EC942}" ShortID="755009897">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
@@ -14549,29 +14269,15 @@
 													</ChildrenList>
 												</RandomSequenceContainer>
 											</ChildrenList>
-											<StateInfo>
-												<StateGroupList>
-													<StateGroupInfo>
-														<StateGroupRef Name="STATE_view_play_mode" ID="{724E58E7-59D1-4671-9356-B633DEDB53F9}"/>
-													</StateGroupInfo>
-												</StateGroupList>
-												<CustomStateList>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
-														<CustomState Name="" ID="{5EAFBDF7-56E5-4A9B-8F22-E864141F3D55}" ShortID="759598420"/>
-													</CustomState>
-													<CustomState>
-														<StateRef Name="STATE_view_play_mode_arcade" ID="{13248C08-81CA-4C92-96B4-B17F94BCFD5C}"/>
-														<CustomState Name="" ID="{59B0931C-1CE3-47CE-BCD8-944CA59EFFCD}" ShortID="660698909">
-															<PropertyList>
-																<Property Name="Volume" Type="Real64" Value="-108"/>
-															</PropertyList>
-														</CustomState>
-													</CustomState>
-												</CustomStateList>
-											</StateInfo>
 										</ActorMixer>
 										<ActorMixer Name="HEAT_ミサイル_PC_Outside" ID="{ED3E2136-45AB-47AB-A012-6D8895AE4280}" ShortID="239369968">
+											<PropertyList>
+												<Property Name="Inclusion" Type="bool">
+													<ValueList>
+														<Value>False</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
 											<ReferenceList>
 												<Reference Name="Conversion">
 													<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>

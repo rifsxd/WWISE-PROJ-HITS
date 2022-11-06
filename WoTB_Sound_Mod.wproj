@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="Project" SchemaVersion="97" WwiseVersion="v2019.2.14" WwiseBuild="7616">
+<WwiseDocument Type="Project" SchemaVersion="97" WwiseVersion="v2019.2.15" WwiseBuild="7667">
 	<ProjectInfo>
 		<Project Name="WoTB_Sound_Mod" ID="{702D8ABE-D8B7-4693-9F84-911E09C050EC}">
 			<Platforms>
@@ -11727,8 +11727,8 @@
 			</EnvironmentalSettings>
 			<LogCentralIgnoreList>
 				<IgnoreItem MessageId="None"/>
-				<IgnoreItem MessageId="MediaDuplicated"/>
 				<IgnoreItem MessageId="NoActiveSource"/>
+				<IgnoreItem MessageId="MediaDuplicated"/>
 				<IgnoreItem MessageId="BankIsMissingFiles"/>
 			</LogCentralIgnoreList>
 			<DefaultConversion Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}"/>
@@ -11756,12 +11756,6 @@
 				</PhysicalFolder>
 				<PhysicalFolder Path="Events">
 					<WorkUnit Name="Events" ID="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}" PersistMode="Standalone"/>
-				</PhysicalFolder>
-				<PhysicalFolder Path="Events\Hanger_BGM">
-					<WorkUnit Name="Hanger_BGM" ID="{D3C09FBC-C0EA-4077-B95E-8EB1F54A3A2C}" PersistMode="Standalone"/>
-				</PhysicalFolder>
-				<PhysicalFolder Path="Events\LoadBGM">
-					<WorkUnit Name="LoadBGM" ID="{6C82DD3C-ABEA-48D0-BAB9-6E6F8332AEEF}" PersistMode="Standalone"/>
 				</PhysicalFolder>
 				<PhysicalFolder Path="Game Parameters">
 					<WorkUnit Name="Game Parameters" ID="{4025818E-097F-4A72-B692-B8A2E2663DCB}" PersistMode="Standalone"/>
