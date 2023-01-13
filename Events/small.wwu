@@ -3,7 +3,7 @@
 	<Events>
 		<WorkUnit Name="small" ID="{2C2AB564-0DCB-4B87-9014-EA8196C0307F}" OwnerID="{383C17DB-877A-4145-9FDB-8C115E5B8817}" PersistMode="Nested">
 			<ChildrenList>
-				<Event Name="RXD_hits_surface_hits_small_hit_ground_fougasse_small" ID="{55BBC3DD-FB4C-4859-8072-D7A34A638BD6}">
+				<Event Name="RXD_hit_ground_fougasse_small" ID="{55BBC3DD-FB4C-4859-8072-D7A34A638BD6}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="14"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -25,7 +25,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="RXD_hits_surface_hits_small_hit_ground_small" ID="{2712016F-EE04-4055-893E-905FCE7DF641}">
+				<Event Name="RXD_hit_ground_small" ID="{2712016F-EE04-4055-893E-905FCE7DF641}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="14"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -47,7 +47,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="RXD_hits_surface_hits_small_hit_metal_fougasse_small" ID="{A5460E83-1E8D-4F2E-9FC3-EE1C02BA9B77}">
+				<Event Name="RXD_hit_metal_fougasse_small" ID="{A5460E83-1E8D-4F2E-9FC3-EE1C02BA9B77}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="14"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -69,7 +69,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="RXD_hits_surface_hits_small_hit_metal_small" ID="{2D666F65-B3CC-474F-9208-61579DC1E040}">
+				<Event Name="RXD_hit_metal_small" ID="{2D666F65-B3CC-474F-9208-61579DC1E040}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="14"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -91,7 +91,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="RXD_hits_surface_hits_small_hit_sand_fougasse_small" ID="{C102AE38-1766-4EDA-B7B2-9556414999E5}">
+				<Event Name="RXD_hit_sand_fougasse_small" ID="{C102AE38-1766-4EDA-B7B2-9556414999E5}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="14"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -113,7 +113,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="RXD_hits_surface_hits_small_hit_sand_small" ID="{DEC14C4E-90AE-401D-94BC-262A1BC489DC}">
+				<Event Name="RXD_hit_sand_small" ID="{DEC14C4E-90AE-401D-94BC-262A1BC489DC}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="14"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -135,7 +135,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="RXD_hits_surface_hits_small_hit_snow_fougasse_small" ID="{35862DCA-F08D-4166-BF14-AEC0853D40BB}">
+				<Event Name="RXD_hit_snow_fougasse_small" ID="{35862DCA-F08D-4166-BF14-AEC0853D40BB}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="14"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -157,7 +157,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="RXD_hits_surface_hits_small_hit_snow_small" ID="{752981B9-2506-4892-8AAF-5EBDACD3DFD7}">
+				<Event Name="RXD_hit_snow_small" ID="{752981B9-2506-4892-8AAF-5EBDACD3DFD7}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="14"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -179,7 +179,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="RXD_hits_surface_hits_small_hit_stone_fougasse_small" ID="{00C66D19-6550-44F2-AF5F-0206C1EF9F39}">
+				<Event Name="RXD_hit_stone_fougasse_small" ID="{00C66D19-6550-44F2-AF5F-0206C1EF9F39}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="14"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -201,7 +201,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="RXD_hits_surface_hits_small_hit_stone_small" ID="{52537BB7-A1C3-4903-9A85-4057089AA463}">
+				<Event Name="RXD_hit_stone_small" ID="{52537BB7-A1C3-4903-9A85-4057089AA463}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="14"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -223,7 +223,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="RXD_hits_surface_hits_small_hit_water_fougasse_small" ID="{53D3BC8E-2832-4EAF-9C55-5F1E6B46DDE8}">
+				<Event Name="RXD_hit_water_fougasse_small" ID="{53D3BC8E-2832-4EAF-9C55-5F1E6B46DDE8}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="14"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -245,7 +245,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="RXD_hits_surface_hits_small_hit_water_small" ID="{31DAB14F-DD1A-4EBF-ACB6-DA1CDDE34315}">
+				<Event Name="RXD_hit_water_small" ID="{31DAB14F-DD1A-4EBF-ACB6-DA1CDDE34315}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="14"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -267,7 +267,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="RXD_hits_surface_hits_small_hit_wood_fougasse_small" ID="{89AACE5F-6328-4E65-8BAE-D836A7C29354}">
+				<Event Name="RXD_hit_wood_fougasse_small" ID="{89AACE5F-6328-4E65-8BAE-D836A7C29354}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="14"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -289,7 +289,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="RXD_hits_surface_hits_small_hit_wood_small" ID="{8B195A4B-0F65-479B-A9E7-7DDB808154EA}">
+				<Event Name="RXD_hit_wood_small" ID="{8B195A4B-0F65-479B-A9E7-7DDB808154EA}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="14"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
