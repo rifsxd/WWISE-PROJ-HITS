@@ -14977,7 +14977,7 @@
 										<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
 										<CustomState Name="" ID="{69A5C80C-DE61-49B3-B083-FC12933FA073}" ShortID="1018150556">
 											<PropertyList>
-												<Property Name="Lowpass" Type="int16" Value="40"/>
+												<Property Name="Lowpass" Type="int16" Value="20"/>
 											</PropertyList>
 										</CustomState>
 									</CustomState>
@@ -30197,7 +30197,7 @@
 										<StateRef Name="STATE_view_play_mode_sniper" ID="{28384EC5-E7AE-494D-8DF4-BFF3B676B8CC}"/>
 										<CustomState Name="" ID="{FDB6DE54-C97F-4C28-A1B1-0B2365C48C5D}" ShortID="1058713992">
 											<PropertyList>
-												<Property Name="Lowpass" Type="int16" Value="40"/>
+												<Property Name="Lowpass" Type="int16" Value="30"/>
 											</PropertyList>
 										</CustomState>
 									</CustomState>

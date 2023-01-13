@@ -5,31 +5,23 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "135",
   "RootPaths": {
-   "ProjectRoot": "D:\\Github\\WWISE-PROJ-HITS\\",
-   "SourceFilesRoot": "D:\\Github\\WWISE-PROJ-HITS\\.cache\\Windows\\",
-   "SoundBanksRoot": "D:\\Github\\WWISE-PROJ-HITS\\GeneratedSoundBanks\\Windows\\",
+   "ProjectRoot": "F:\\Github\\WWISE-PROJ-HITS\\",
+   "SourceFilesRoot": "F:\\Github\\WWISE-PROJ-HITS\\.cache\\Windows\\",
+   "SoundBanksRoot": "F:\\Github\\WWISE-PROJ-HITS\\GeneratedSoundBanks\\Windows\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "D:\\Github\\WWISE-PROJ-HITS\\GeneratedSoundBanks\\Windows"
+   "ExternalSourcesOutputRoot": "F:\\Github\\WWISE-PROJ-HITS\\GeneratedSoundBanks\\Windows"
   },
   "DialogueEvents": [],
   "StreamedFiles": [],
   "MediaFilesNotInAnyBank": [],
   "SoundBanks": [
    {
-    "Id": "1355168291",
+    "Id": "897241390",
     "Language": "SFX",
-    "Hash": "1358885702",
-    "ObjectPath": "Init",
-    "ShortName": "Init",
-    "Path": "Init.bnk"
-   },
-   {
-    "Id": "1755722466",
-    "Language": "SFX",
-    "Hash": "1591362266",
-    "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD\\RXD_HITS_SFX",
-    "ShortName": "RXD_HITS_SFX",
-    "Path": "RXD_HITS_SFX.bnk",
+    "Hash": "1108211285",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD\\RXD_HITS_SFX_NPC",
+    "ShortName": "RXD_HITS_SFX_NPC",
+    "Path": "RXD_HITS_SFX_NPC.bnk",
     "IncludedEvents": [
      {
       "Id": "4018987442",
@@ -7236,7 +7228,32 @@
         "Path": "SFX\\expl_mid_tail_06_3F75BDB9.wem"
        }
       ]
-     },
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1419538075",
+      "Name": "RTPC_ext_settings_volume_master_fx",
+      "ObjectPath": "\\Game Parameters\\Settings\\RTPC_ext_settings_volume_master_fx"
+     }
+    ]
+   },
+   {
+    "Id": "1355168291",
+    "Language": "SFX",
+    "Hash": "2412002831",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   },
+   {
+    "Id": "1927355986",
+    "Language": "SFX",
+    "Hash": "3182565610",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD\\RXD_HITS_SFX_PC",
+    "ShortName": "RXD_HITS_SFX_PC",
+    "Path": "RXD_HITS_SFX_PC.bnk",
+    "IncludedEvents": [
      {
       "Id": "2049675064",
       "Name": "hits_hits_tank_pc_ap_ap_armor_not_pierce_huge",
@@ -9459,6 +9476,39 @@
        }
       ]
      },
+     {
+      "Id": "394955153",
+      "Name": "RXD_DEV",
+      "ObjectPath": "\\Events\\Hits\\RXD_DEV",
+      "DurationType": "OneShot",
+      "DurationMin": "1.471875",
+      "DurationMax": "1.559397",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "200535613",
+        "Language": "SFX",
+        "ShortName": "RXD.DEV.wav",
+        "Path": "SFX\\RXD.DEV_3F75BDB9.wem"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1419538075",
+      "Name": "RTPC_ext_settings_volume_master_fx",
+      "ObjectPath": "\\Game Parameters\\Settings\\RTPC_ext_settings_volume_master_fx"
+     }
+    ]
+   },
+   {
+    "Id": "3305633477",
+    "Language": "SFX",
+    "Hash": "385179209",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD\\RXD_HITS_SFX_MISC",
+    "ShortName": "RXD_HITS_SFX_MISC",
+    "Path": "RXD_HITS_SFX_MISC.bnk",
+    "IncludedEvents": [
      {
       "Id": "4060658794",
       "Name": "hits_surface_hits_huge_hit_ground_fougasse_huge",
@@ -12764,22 +12814,6 @@
         "Language": "SFX",
         "ShortName": "71799816.wav",
         "Path": "SFX\\71799816_3F75BDB9.wem"
-       }
-      ]
-     },
-     {
-      "Id": "394955153",
-      "Name": "RXD_DEV",
-      "ObjectPath": "\\Events\\Hits\\RXD_DEV",
-      "DurationType": "OneShot",
-      "DurationMin": "1.471875",
-      "DurationMax": "1.559397",
-      "IncludedMemoryFiles": [
-       {
-        "Id": "200535613",
-        "Language": "SFX",
-        "ShortName": "RXD.DEV.wav",
-        "Path": "SFX\\RXD.DEV_3F75BDB9.wem"
        }
       ]
      }

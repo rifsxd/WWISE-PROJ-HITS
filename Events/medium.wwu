@@ -3,7 +3,7 @@
 	<Events>
 		<WorkUnit Name="medium" ID="{48337209-68B7-4CDA-9291-E93300BA44B4}" OwnerID="{383C17DB-877A-4145-9FDB-8C115E5B8817}" PersistMode="Nested">
 			<ChildrenList>
-				<Event Name="hits_surface_hits_medium_hit_ground_fougasse_medium" ID="{BE5691FE-8B3D-4D72-938C-B13D2B3E6A1B}">
+				<Event Name="RXD_hits_surface_hits_medium_hit_ground_fougasse_medium" ID="{BE5691FE-8B3D-4D72-938C-B13D2B3E6A1B}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="2"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -25,7 +25,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="hits_surface_hits_medium_hit_ground_medium" ID="{C573EEBA-1C15-41D4-A231-9ED6EE21A0B8}">
+				<Event Name="RXD_hits_surface_hits_medium_hit_ground_medium" ID="{C573EEBA-1C15-41D4-A231-9ED6EE21A0B8}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="7"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -47,7 +47,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="hits_surface_hits_medium_hit_metal_fougasse_medium" ID="{BCACAC7B-689B-480D-B57C-191515DD37F1}">
+				<Event Name="RXD_hits_surface_hits_medium_hit_metal_fougasse_medium" ID="{BCACAC7B-689B-480D-B57C-191515DD37F1}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="2"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -69,7 +69,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="hits_surface_hits_medium_hit_metal_medium" ID="{FD82F2C6-A62D-45BD-9839-EB54760D9A7B}">
+				<Event Name="RXD_hits_surface_hits_medium_hit_metal_medium" ID="{FD82F2C6-A62D-45BD-9839-EB54760D9A7B}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="7"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -91,7 +91,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="hits_surface_hits_medium_hit_sand_fougasse_medium" ID="{EBFAAA24-E8D8-4338-864A-DEE7A884633F}">
+				<Event Name="RXD_hits_surface_hits_medium_hit_sand_fougasse_medium" ID="{EBFAAA24-E8D8-4338-864A-DEE7A884633F}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="2"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -113,7 +113,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="hits_surface_hits_medium_hit_sand_medium" ID="{9BBE9BC0-0099-46C6-A0C7-B0FB45D8650A}">
+				<Event Name="RXD_hits_surface_hits_medium_hit_sand_medium" ID="{9BBE9BC0-0099-46C6-A0C7-B0FB45D8650A}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="7"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -135,7 +135,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="hits_surface_hits_medium_hit_snow_fougasse_medium" ID="{3B1E1FE1-A448-4DF0-9EFB-BE22D9E8E77F}">
+				<Event Name="RXD_hits_surface_hits_medium_hit_snow_fougasse_medium" ID="{3B1E1FE1-A448-4DF0-9EFB-BE22D9E8E77F}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="2"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -157,7 +157,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="hits_surface_hits_medium_hit_snow_medium" ID="{3DD8EA85-03A7-4775-A2F6-95C4E57DBFC9}">
+				<Event Name="RXD_hits_surface_hits_medium_hit_snow_medium" ID="{3DD8EA85-03A7-4775-A2F6-95C4E57DBFC9}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="7"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -179,7 +179,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="hits_surface_hits_medium_hit_stone_fougasse_medium" ID="{D96EDDAB-EDEC-467A-883D-FCC7708A03E3}">
+				<Event Name="RXD_hits_surface_hits_medium_hit_stone_fougasse_medium" ID="{D96EDDAB-EDEC-467A-883D-FCC7708A03E3}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="2"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -201,7 +201,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="hits_surface_hits_medium_hit_stone_medium" ID="{9E23EB96-5602-44B0-B9F1-C5698F3D3F29}">
+				<Event Name="RXD_hits_surface_hits_medium_hit_stone_medium" ID="{9E23EB96-5602-44B0-B9F1-C5698F3D3F29}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="7"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -223,7 +223,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="hits_surface_hits_medium_hit_water_fougasse_medium" ID="{76BF5212-3C0E-4AE9-B937-0CC2113CDC1A}">
+				<Event Name="RXD_hits_surface_hits_medium_hit_water_fougasse_medium" ID="{76BF5212-3C0E-4AE9-B937-0CC2113CDC1A}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="2"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -245,7 +245,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="hits_surface_hits_medium_hit_water_medium" ID="{FE3AFC61-39BC-433F-A3E6-8FA7121F3A0E}">
+				<Event Name="RXD_hits_surface_hits_medium_hit_water_medium" ID="{FE3AFC61-39BC-433F-A3E6-8FA7121F3A0E}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="7"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -267,7 +267,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="hits_surface_hits_medium_hit_wood_fougasse_medium" ID="{E2447624-BE7F-42C7-B1B6-CC4C3343031E}">
+				<Event Name="RXD_hits_surface_hits_medium_hit_wood_fougasse_medium" ID="{E2447624-BE7F-42C7-B1B6-CC4C3343031E}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="2"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -289,7 +289,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="hits_surface_hits_medium_hit_wood_medium" ID="{6513D540-9981-4F42-8320-96B50F9EF9C0}">
+				<Event Name="RXD_hits_surface_hits_medium_hit_wood_medium" ID="{6513D540-9981-4F42-8320-96B50F9EF9C0}">
 					<PropertyList>
 						<Property Name="Color" Type="int16" Value="7"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>

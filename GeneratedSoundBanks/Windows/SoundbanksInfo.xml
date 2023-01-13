@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
 	<RootPaths>
-		<ProjectRoot>D:\Github\WWISE-PROJ-HITS\</ProjectRoot>
-		<SourceFilesRoot>D:\Github\WWISE-PROJ-HITS\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>D:\Github\WWISE-PROJ-HITS\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>F:\Github\WWISE-PROJ-HITS\</ProjectRoot>
+		<SourceFilesRoot>F:\Github\WWISE-PROJ-HITS\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Github\WWISE-PROJ-HITS\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>D:\Github\WWISE-PROJ-HITS\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>F:\Github\WWISE-PROJ-HITS\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="1355168291" Language="SFX" Hash="1358885702">
-			<ObjectPath>Init</ObjectPath>
-			<ShortName>Init</ShortName>
-			<Path>Init.bnk</Path>
-		</SoundBank>
-		<SoundBank Id="1755722466" Language="SFX" Hash="1591362266">
-			<ObjectPath>\SoundBanks\Default Work Unit\RXD\RXD_HITS_SFX</ObjectPath>
-			<ShortName>RXD_HITS_SFX</ShortName>
-			<Path>RXD_HITS_SFX.bnk</Path>
+		<SoundBank Id="897241390" Language="SFX" Hash="1108211285">
+			<ObjectPath>\SoundBanks\Default Work Unit\RXD\RXD_HITS_SFX_NPC</ObjectPath>
+			<ShortName>RXD_HITS_SFX_NPC</ShortName>
+			<Path>RXD_HITS_SFX_NPC.bnk</Path>
 			<IncludedEvents>
 				<Event Id="4018987442" Name="hits_hits_tank_npc_ap_ap_armor_not_pierce_huge" ObjectPath="\Events\Hits\PC_NPC\hits_hits_tank_npc_ap_ap_armor_not_pierce_huge" DurationType="OneShot" DurationMin="6.951428" DurationMax="8.86235">
 					<IncludedMemoryFiles>
@@ -4665,6 +4660,21 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="1419538075" Name="RTPC_ext_settings_volume_master_fx" ObjectPath="\Game Parameters\Settings\RTPC_ext_settings_volume_master_fx"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2412002831">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1927355986" Language="SFX" Hash="3182565610">
+			<ObjectPath>\SoundBanks\Default Work Unit\RXD\RXD_HITS_SFX_PC</ObjectPath>
+			<ShortName>RXD_HITS_SFX_PC</ShortName>
+			<Path>RXD_HITS_SFX_PC.bnk</Path>
+			<IncludedEvents>
 				<Event Id="2049675064" Name="hits_hits_tank_pc_ap_ap_armor_not_pierce_huge" ObjectPath="\Events\Hits\NPC_PC\hits_hits_tank_pc_ap_ap_armor_not_pierce_huge" DurationType="OneShot" DurationMin="11.881958" DurationMax="12.588496">
 					<IncludedMemoryFiles>
 						<File Id="205905367" Language="SFX">
@@ -5981,6 +5991,24 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
+				<Event Id="394955153" Name="RXD_DEV" ObjectPath="\Events\Hits\RXD_DEV" DurationType="OneShot" DurationMin="1.471875" DurationMax="1.559397">
+					<IncludedMemoryFiles>
+						<File Id="200535613" Language="SFX">
+							<ShortName>RXD.DEV.wav</ShortName>
+							<Path>SFX\RXD.DEV_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="1419538075" Name="RTPC_ext_settings_volume_master_fx" ObjectPath="\Game Parameters\Settings\RTPC_ext_settings_volume_master_fx"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="3305633477" Language="SFX" Hash="385179209">
+			<ObjectPath>\SoundBanks\Default Work Unit\RXD\RXD_HITS_SFX_MISC</ObjectPath>
+			<ShortName>RXD_HITS_SFX_MISC</ShortName>
+			<Path>RXD_HITS_SFX_MISC.bnk</Path>
+			<IncludedEvents>
 				<Event Id="4060658794" Name="hits_surface_hits_huge_hit_ground_fougasse_huge" ObjectPath="\Events\Hits\Surface\huge\hits_surface_hits_huge_hit_ground_fougasse_huge" DurationType="OneShot" DurationMin="5.471979" DurationMax="6.15334">
 					<IncludedMemoryFiles>
 						<File Id="448463394" Language="SFX">
@@ -7994,14 +8022,6 @@
 						<File Id="892648199" Language="SFX">
 							<ShortName>71799816.wav</ShortName>
 							<Path>SFX\71799816_3F75BDB9.wem</Path>
-						</File>
-					</IncludedMemoryFiles>
-				</Event>
-				<Event Id="394955153" Name="RXD_DEV" ObjectPath="\Events\Hits\RXD_DEV" DurationType="OneShot" DurationMin="1.471875" DurationMax="1.559397">
-					<IncludedMemoryFiles>
-						<File Id="200535613" Language="SFX">
-							<ShortName>RXD.DEV.wav</ShortName>
-							<Path>SFX\RXD.DEV_3F75BDB9.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
