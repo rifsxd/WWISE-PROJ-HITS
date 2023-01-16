@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="97">
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\WoTB_Sound_Mod.wproj" DateLow="1667736075" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\WoTB_Sound_Mod.Rifs.wsettings" DateLow="1673632131" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\WoTB_Sound_Mod.Rifs.wsettings" DateLow="1673641098" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1653326814" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Virtual Acoustics\Default Work Unit.wwu" DateLow="1653326814" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Triggers\Default Work Unit.wwu" DateLow="1653326814" DateHigh="0"/>
@@ -11,7 +11,7 @@
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\States\Music.wwu" DateLow="1653326814" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\States\Default Work Unit.wwu" DateLow="1653326814" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1653326814" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\SoundBanks\Default Work Unit.wwu" DateLow="1673617922" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\SoundBanks\Default Work Unit.wwu" DateLow="1673637239" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Queries\Factory Queries.wwu" DateLow="1653326814" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Queries\Default Work Unit.wwu" DateLow="1653326814" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Presets\Factory Spatial Audio.wwu" DateLow="1653326814" DateHigh="0"/>
@@ -31,13 +31,13 @@
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Game Parameters\Factory Motion.wwu" DateLow="1653326806" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Game Parameters\Default Work Unit.wwu" DateLow="1653326806" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\Surface.wwu" DateLow="1653326806" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\small.wwu" DateLow="1673617922" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\PC_NPC.wwu" DateLow="1673617922" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\NPC_PC.wwu" DateLow="1673617922" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\medium.wwu" DateLow="1673617922" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\main.wwu" DateLow="1673617922" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\large.wwu" DateLow="1673617922" DateHigh="0"/>
-	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\huge.wwu" DateLow="1673617922" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\small.wwu" DateLow="1673636767" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\PC_NPC.wwu" DateLow="1673637128" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\NPC_PC.wwu" DateLow="1673637239" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\medium.wwu" DateLow="1673636767" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\main.wwu" DateLow="1673636767" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\large.wwu" DateLow="1673636767" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\huge.wwu" DateLow="1673636767" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\Hits.wwu" DateLow="1653668466" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\Default Work Unit.wwu" DateLow="1667736083" DateHigh="0"/>
 	<ValidationCacheItem File="F:\Github\WWISE-PROJ-HITS\Events\Death.wwu" DateLow="1653668547" DateHigh="0"/>
