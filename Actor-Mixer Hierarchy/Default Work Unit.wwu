@@ -11,7 +11,7 @@
 						<Property Name="HoldEmitterPositionOrientation" Type="bool" Value="True"/>
 						<Property Name="MakeUpGain" Type="Real64">
 							<ValueList>
-								<Value>-10</Value>
+								<Value>2</Value>
 							</ValueList>
 						</Property>
 						<Property Name="OutputBusVolume" Type="Real64">
@@ -70,7 +70,7 @@
 							<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
 						</Reference>
 						<Reference Name="OutputBus">
-							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
+							<ObjectRef Name="hits" ID="{64FFE453-94F4-49A1-8E26-BDA72273A2D2}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
@@ -88,7 +88,7 @@
 									<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
 								</Reference>
 								<Reference Name="OutputBus">
-									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
+									<ObjectRef Name="hits_pc" ID="{AC8B9691-0F58-44E9-9F0A-51CEB42CA4CB}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -15009,7 +15009,7 @@
 									<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
 								</Reference>
 								<Reference Name="OutputBus">
-									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
+									<ObjectRef Name="hits_npc" ID="{64004D92-02D2-4A75-8ED6-D76BE8FD7863}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -21375,7 +21375,7 @@
 									<ObjectRef Name="Vorbis Quality High" ID="{53A9DE0F-3F4F-4B59-8614-3F9E3C7358FC}" WorkUnitID="{F6B2880C-85E5-47FA-A126-645B5DFD9ACC}"/>
 								</Reference>
 								<Reference Name="OutputBus">
-									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
+									<ObjectRef Name="hits_ground" ID="{22F00DEA-64DB-4A1E-9D8D-EFC699958D25}" WorkUnitID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>

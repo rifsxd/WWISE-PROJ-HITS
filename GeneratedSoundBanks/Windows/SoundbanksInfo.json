@@ -18,7 +18,7 @@
    {
     "Id": "897241390",
     "Language": "SFX",
-    "Hash": "3444755375",
+    "Hash": "834917003",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD\\RXD_HITS_SFX_NPC",
     "ShortName": "RXD_HITS_SFX_NPC",
     "Path": "RXD_HITS_SFX_NPC.bnk",
@@ -7239,9 +7239,17 @@
     ]
    },
    {
+    "Id": "1355168291",
+    "Language": "SFX",
+    "Hash": "1085896527",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   },
+   {
     "Id": "1927355986",
     "Language": "SFX",
-    "Hash": "3528712829",
+    "Hash": "2736506517",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD\\RXD_HITS_SFX_PC",
     "ShortName": "RXD_HITS_SFX_PC",
     "Path": "RXD_HITS_SFX_PC.bnk",
@@ -9496,7 +9504,7 @@
    {
     "Id": "3305633477",
     "Language": "SFX",
-    "Hash": "521625950",
+    "Hash": "3152432001",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\RXD\\RXD_HITS_SFX_MISC",
     "ShortName": "RXD_HITS_SFX_MISC",
     "Path": "RXD_HITS_SFX_MISC.bnk",

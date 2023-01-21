@@ -18,6 +18,9 @@
 						<Bus Name="music_result_screen" ID="{9A678B20-3F3F-4FCD-92A4-41E83E5D55CC}"/>
 						<Bus Name="music_battle" ID="{E61E0BFF-678B-4E4D-B716-9A4F5C4473ED}"/>
 						<Bus Name="VOICEOVER" ID="{0BFB483C-B6F6-4976-9D90-3895CB7FE5ED}"/>
+						<Bus Name="hits_pc" ID="{AC8B9691-0F58-44E9-9F0A-51CEB42CA4CB}"/>
+						<Bus Name="hits_npc" ID="{64004D92-02D2-4A75-8ED6-D76BE8FD7863}"/>
+						<Bus Name="hits_ground" ID="{22F00DEA-64DB-4A1E-9D8D-EFC699958D25}"/>
 					</ChildrenList>
 				</Bus>
 				<Bus Name="Motion Factory Bus" ID="{2AF9B9C6-6EF1-46E9-B5F2-E30C9E602C74}">
